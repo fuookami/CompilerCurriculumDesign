@@ -1,0 +1,7894 @@
+331
+32
+) 0 0
+* 0 0
++ 0 0
+- 0 0
+/ 0 0
+; 0 0
+< 0 0
+<= 0 0
+<> 0 0
+= 0 0
+> 0 0
+>= 0 0
+_aop 0 0
+_constv 0 0
+_exp 0 0
+_factor 0 0
+_id 0 0
+_proc 0 0
+_statement 0 0
+block 0 0
+body 0 0
+constv 0 0
+end 0 0
+exp 0 0
+factor 0 0
+id 0 0
+integer 0 0
+proc 0 0
+prog 0 1
+program 0 2
+statement 0 0
+term 0 0
+1
+$ 2 0
+1
+id 0 3
+1
+; 0 4
+9
+begin 0 5
+block 0 6
+body 0 7
+condecl 0 8
+const 0 9
+proc 0 10
+procedure 0 11
+var 0 12
+vardecl 0 13
+11
+_statement 0 14
+begin 0 15
+body 0 16
+call 0 17
+end 0 18
+id 0 19
+if 0 20
+read 0 21
+statement 0 22
+while 0 23
+write 0 24
+1
+end 0 25
+1
+end 1 0
+1
+; 0 26
+3
+_constv 0 27
+constv 0 28
+id 0 29
+2
+begin 0 5
+body 0 30
+1
+id 0 31
+2
+_id 0 32
+id 0 33
+1
+; 0 34
+1
+end 0 35
+11
+_statement 0 36
+begin 0 15
+body 0 16
+call 0 17
+end 0 37
+id 0 19
+if 0 20
+read 0 21
+statement 0 22
+while 0 23
+write 0 24
+8
+begin 1 0
+call 1 0
+end 1 0
+id 1 0
+if 1 0
+read 1 0
+while 1 0
+write 1 0
+1
+id 0 38
+1
+end 1 0
+1
+:= 0 39
+10
+( 0 40
++ 0 41
+- 0 42
+exp 0 43
+factor 0 44
+id 0 45
+integer 0 46
+lexp 0 47
+odd 0 48
+term 0 49
+1
+( 0 50
+11
+_statement 0 51
+begin 0 15
+body 0 16
+call 0 17
+end 1 0
+id 0 19
+if 0 20
+read 0 21
+statement 0 22
+while 0 23
+write 0 24
+10
+( 0 52
++ 0 53
+- 0 54
+exp 0 55
+factor 0 56
+id 0 57
+integer 0 58
+lexp 0 59
+odd 0 60
+term 0 61
+1
+( 0 62
+1
+$ 1 0
+6
+begin 0 5
+body 0 63
+proc 0 64
+procedure 0 11
+var 0 12
+vardecl 0 65
+1
+; 1 0
+2
+, 0 66
+; 1 0
+1
+:= 0 67
+1
+end 1 0
+2
+( 0 68
+arg 0 69
+1
+; 1 0
+2
+, 0 70
+; 1 0
+4
+begin 0 5
+body 0 71
+proc 0 72
+procedure 0 11
+1
+end 1 0
+1
+end 0 73
+8
+begin 1 0
+call 1 0
+end 1 0
+id 1 0
+if 1 0
+read 1 0
+while 1 0
+write 1 0
+2
+( 0 74
+; 0 75
+8
+( 0 76
++ 0 77
+- 0 78
+exp 0 79
+factor 0 80
+id 0 81
+integer 0 82
+term 0 83
+8
+( 0 84
++ 0 85
+- 0 86
+exp 0 87
+factor 0 88
+id 0 89
+integer 0 90
+term 0 91
+5
+( 0 40
+factor 0 44
+id 0 45
+integer 0 46
+term 0 92
+5
+( 0 40
+factor 0 44
+id 0 45
+integer 0 46
+term 0 93
+8
+< 0 94
+<= 0 95
+<> 0 96
+= 0 97
+> 0 98
+>= 0 99
+lop 0 100
+then 1 0
+13
+* 0 101
++ 1 0
+- 1 0
+/ 0 102
+< 1 0
+<= 1 0
+<> 1 0
+= 1 0
+> 1 0
+>= 1 0
+_factor 0 103
+mop 0 104
+then 1 0
+11
+* 1 0
++ 1 0
+- 1 0
+/ 1 0
+< 1 0
+<= 1 0
+<> 1 0
+= 1 0
+> 1 0
+>= 1 0
+then 1 0
+11
+* 1 0
++ 1 0
+- 1 0
+/ 1 0
+< 1 0
+<= 1 0
+<> 1 0
+= 1 0
+> 1 0
+>= 1 0
+then 1 0
+1
+then 0 105
+8
+( 0 106
++ 0 107
+- 0 108
+exp 0 109
+factor 0 110
+id 0 111
+integer 0 112
+term 0 113
+11
++ 0 114
+- 0 115
+< 1 0
+<= 1 0
+<> 1 0
+= 1 0
+> 1 0
+>= 1 0
+_aop 0 116
+aop 0 117
+then 1 0
+2
+_id 0 118
+id 0 119
+1
+end 1 0
+8
+( 0 84
++ 0 85
+- 0 86
+exp 0 120
+factor 0 88
+id 0 89
+integer 0 90
+term 0 91
+5
+( 0 52
+factor 0 56
+id 0 57
+integer 0 58
+term 0 121
+5
+( 0 52
+factor 0 56
+id 0 57
+integer 0 58
+term 0 122
+8
+< 0 94
+<= 0 95
+<> 0 96
+= 0 97
+> 0 98
+>= 0 99
+do 1 0
+lop 0 123
+13
+* 0 101
++ 1 0
+- 1 0
+/ 0 102
+< 1 0
+<= 1 0
+<> 1 0
+= 1 0
+> 1 0
+>= 1 0
+_factor 0 124
+do 1 0
+mop 0 125
+11
+* 1 0
++ 1 0
+- 1 0
+/ 1 0
+< 1 0
+<= 1 0
+<> 1 0
+= 1 0
+> 1 0
+>= 1 0
+do 1 0
+11
+* 1 0
++ 1 0
+- 1 0
+/ 1 0
+< 1 0
+<= 1 0
+<> 1 0
+= 1 0
+> 1 0
+>= 1 0
+do 1 0
+1
+do 0 126
+8
+( 0 127
++ 0 128
+- 0 129
+exp 0 130
+factor 0 131
+id 0 132
+integer 0 133
+term 0 134
+11
++ 0 114
+- 0 115
+< 1 0
+<= 1 0
+<> 1 0
+= 1 0
+> 1 0
+>= 1 0
+_aop 0 135
+aop 0 136
+do 1 0
+9
+( 0 137
++ 0 138
+- 0 139
+_exp 0 140
+exp 0 141
+factor 0 142
+id 0 143
+integer 0 144
+term 0 145
+1
+end 1 0
+2
+begin 0 5
+body 0 146
+1
+; 0 147
+3
+_constv 0 148
+constv 0 28
+id 0 29
+1
+integer 0 149
+3
+) 0 150
+_id 0 151
+id 0 119
+1
+; 0 152
+2
+_id 0 153
+id 0 33
+1
+end 1 0
+2
+begin 0 5
+body 0 154
+8
+begin 1 0
+call 1 0
+end 1 0
+id 1 0
+if 1 0
+read 1 0
+while 1 0
+write 1 0
+9
+( 0 137
++ 0 138
+- 0 139
+_exp 0 155
+exp 0 141
+factor 0 142
+id 0 143
+integer 0 144
+term 0 145
+8
+begin 1 0
+call 1 0
+end 1 0
+id 1 0
+if 1 0
+read 1 0
+while 1 0
+write 1 0
+8
+( 0 84
++ 0 85
+- 0 86
+exp 0 156
+factor 0 88
+id 0 89
+integer 0 90
+term 0 91
+5
+( 0 76
+factor 0 80
+id 0 81
+integer 0 82
+term 0 157
+5
+( 0 76
+factor 0 80
+id 0 81
+integer 0 82
+term 0 158
+1
+; 0 159
+7
+* 0 101
++ 1 0
+- 1 0
+/ 0 102
+; 1 0
+_factor 0 160
+mop 0 161
+5
+* 1 0
++ 1 0
+- 1 0
+/ 1 0
+; 1 0
+5
+* 1 0
++ 1 0
+- 1 0
+/ 1 0
+; 1 0
+5
++ 0 114
+- 0 115
+; 1 0
+_aop 0 162
+aop 0 163
+8
+( 0 84
++ 0 85
+- 0 86
+exp 0 164
+factor 0 88
+id 0 89
+integer 0 90
+term 0 91
+5
+( 0 84
+factor 0 88
+id 0 89
+integer 0 90
+term 0 165
+5
+( 0 84
+factor 0 88
+id 0 89
+integer 0 90
+term 0 166
+1
+) 0 167
+7
+) 1 0
+* 0 101
++ 1 0
+- 1 0
+/ 0 102
+_factor 0 168
+mop 0 169
+5
+) 1 0
+* 1 0
++ 1 0
+- 1 0
+/ 1 0
+5
+) 1 0
+* 1 0
++ 1 0
+- 1 0
+/ 1 0
+5
+) 1 0
++ 0 114
+- 0 115
+_aop 0 170
+aop 0 171
+11
++ 0 114
+- 0 115
+< 1 0
+<= 1 0
+<> 1 0
+= 1 0
+> 1 0
+>= 1 0
+_aop 0 172
+aop 0 117
+then 1 0
+11
++ 0 114
+- 0 115
+< 1 0
+<= 1 0
+<> 1 0
+= 1 0
+> 1 0
+>= 1 0
+_aop 0 173
+aop 0 117
+then 1 0
+5
+( 1 0
++ 1 0
+- 1 0
+id 1 0
+integer 1 0
+5
+( 1 0
++ 1 0
+- 1 0
+id 1 0
+integer 1 0
+5
+( 1 0
++ 1 0
+- 1 0
+id 1 0
+integer 1 0
+5
+( 1 0
++ 1 0
+- 1 0
+id 1 0
+integer 1 0
+5
+( 1 0
++ 1 0
+- 1 0
+id 1 0
+integer 1 0
+5
+( 1 0
++ 1 0
+- 1 0
+id 1 0
+integer 1 0
+8
+( 0 106
++ 0 107
+- 0 108
+exp 0 174
+factor 0 110
+id 0 111
+integer 0 112
+term 0 113
+3
+( 1 0
+id 1 0
+integer 1 0
+3
+( 1 0
+id 1 0
+integer 1 0
+9
++ 1 0
+- 1 0
+< 1 0
+<= 1 0
+<> 1 0
+= 1 0
+> 1 0
+>= 1 0
+then 1 0
+4
+( 0 40
+factor 0 175
+id 0 45
+integer 0 46
+9
+begin 0 176
+body 0 177
+call 0 178
+id 0 179
+if 0 180
+read 0 181
+statement 0 182
+while 0 183
+write 0 184
+8
+( 0 84
++ 0 85
+- 0 86
+exp 0 185
+factor 0 88
+id 0 89
+integer 0 90
+term 0 91
+5
+( 0 106
+factor 0 110
+id 0 111
+integer 0 112
+term 0 186
+5
+( 0 106
+factor 0 110
+id 0 111
+integer 0 112
+term 0 187
+1
+then 1 0
+7
+* 0 101
++ 1 0
+- 1 0
+/ 0 102
+_factor 0 188
+mop 0 189
+then 1 0
+5
+* 1 0
++ 1 0
+- 1 0
+/ 1 0
+then 1 0
+5
+* 1 0
++ 1 0
+- 1 0
+/ 1 0
+then 1 0
+5
++ 0 114
+- 0 115
+_aop 0 190
+aop 0 191
+then 1 0
+3
+( 1 0
+id 1 0
+integer 1 0
+3
+( 1 0
+id 1 0
+integer 1 0
+7
+< 1 0
+<= 1 0
+<> 1 0
+= 1 0
+> 1 0
+>= 1 0
+then 1 0
+5
+( 0 40
+factor 0 44
+id 0 45
+integer 0 46
+term 0 192
+1
+) 0 193
+2
+) 1 0
+, 0 194
+1
+) 0 195
+11
++ 0 114
+- 0 115
+< 1 0
+<= 1 0
+<> 1 0
+= 1 0
+> 1 0
+>= 1 0
+_aop 0 196
+aop 0 136
+do 1 0
+11
++ 0 114
+- 0 115
+< 1 0
+<= 1 0
+<> 1 0
+= 1 0
+> 1 0
+>= 1 0
+_aop 0 197
+aop 0 136
+do 1 0
+8
+( 0 127
++ 0 128
+- 0 129
+exp 0 198
+factor 0 131
+id 0 132
+integer 0 133
+term 0 134
+9
++ 1 0
+- 1 0
+< 1 0
+<= 1 0
+<> 1 0
+= 1 0
+> 1 0
+>= 1 0
+do 1 0
+4
+( 0 52
+factor 0 199
+id 0 57
+integer 0 58
+9
+begin 0 15
+body 0 16
+call 0 17
+id 0 19
+if 0 20
+read 0 21
+statement 0 200
+while 0 23
+write 0 24
+8
+( 0 84
++ 0 85
+- 0 86
+exp 0 201
+factor 0 88
+id 0 89
+integer 0 90
+term 0 91
+5
+( 0 127
+factor 0 131
+id 0 132
+integer 0 133
+term 0 202
+5
+( 0 127
+factor 0 131
+id 0 132
+integer 0 133
+term 0 203
+1
+do 1 0
+7
+* 0 101
++ 1 0
+- 1 0
+/ 0 102
+_factor 0 204
+do 1 0
+mop 0 205
+5
+* 1 0
++ 1 0
+- 1 0
+/ 1 0
+do 1 0
+5
+* 1 0
++ 1 0
+- 1 0
+/ 1 0
+do 1 0
+5
++ 0 114
+- 0 115
+_aop 0 206
+aop 0 207
+do 1 0
+7
+< 1 0
+<= 1 0
+<> 1 0
+= 1 0
+> 1 0
+>= 1 0
+do 1 0
+5
+( 0 52
+factor 0 56
+id 0 57
+integer 0 58
+term 0 208
+8
+( 0 84
++ 0 85
+- 0 86
+exp 0 209
+factor 0 88
+id 0 89
+integer 0 90
+term 0 91
+5
+( 0 137
+factor 0 142
+id 0 143
+integer 0 144
+term 0 210
+5
+( 0 137
+factor 0 142
+id 0 143
+integer 0 144
+term 0 211
+1
+) 0 212
+2
+) 1 0
+, 0 213
+8
+) 1 0
+* 0 101
++ 1 0
+, 1 0
+- 1 0
+/ 0 102
+_factor 0 214
+mop 0 215
+6
+) 1 0
+* 1 0
++ 1 0
+, 1 0
+- 1 0
+/ 1 0
+6
+) 1 0
+* 1 0
++ 1 0
+, 1 0
+- 1 0
+/ 1 0
+6
+) 1 0
++ 0 114
+, 1 0
+- 0 115
+_aop 0 216
+aop 0 217
+1
+end 1 0
+4
+begin 0 5
+body 0 218
+proc 0 219
+procedure 0 11
+1
+; 1 0
+2
+, 1 0
+; 1 0
+1
+; 1 0
+1
+) 0 220
+9
+begin 0 221
+block 0 222
+body 0 223
+condecl 0 224
+const 0 9
+proc 0 225
+procedure 0 11
+var 0 12
+vardecl 0 226
+1
+; 1 0
+1
+end 1 0
+1
+) 0 227
+1
+) 0 228
+5
++ 0 114
+- 0 115
+; 1 0
+_aop 0 229
+aop 0 163
+5
++ 0 114
+- 0 115
+; 1 0
+_aop 0 230
+aop 0 163
+8
+begin 1 0
+call 1 0
+end 1 0
+id 1 0
+if 1 0
+read 1 0
+while 1 0
+write 1 0
+3
++ 1 0
+- 1 0
+; 1 0
+4
+( 0 76
+factor 0 231
+id 0 81
+integer 0 82
+1
+; 1 0
+5
+( 0 76
+factor 0 80
+id 0 81
+integer 0 82
+term 0 232
+1
+) 0 233
+5
+) 1 0
++ 0 114
+- 0 115
+_aop 0 234
+aop 0 171
+5
+) 1 0
++ 0 114
+- 0 115
+_aop 0 235
+aop 0 171
+11
+* 1 0
++ 1 0
+- 1 0
+/ 1 0
+< 1 0
+<= 1 0
+<> 1 0
+= 1 0
+> 1 0
+>= 1 0
+then 1 0
+3
+) 1 0
++ 1 0
+- 1 0
+4
+( 0 84
+factor 0 236
+id 0 89
+integer 0 90
+1
+) 1 0
+5
+( 0 84
+factor 0 88
+id 0 89
+integer 0 90
+term 0 237
+7
+< 1 0
+<= 1 0
+<> 1 0
+= 1 0
+> 1 0
+>= 1 0
+then 1 0
+7
+< 1 0
+<= 1 0
+<> 1 0
+= 1 0
+> 1 0
+>= 1 0
+then 1 0
+1
+then 1 0
+13
+* 0 101
++ 1 0
+- 1 0
+/ 0 102
+< 1 0
+<= 1 0
+<> 1 0
+= 1 0
+> 1 0
+>= 1 0
+_factor 0 238
+mop 0 104
+then 1 0
+11
+_statement 0 239
+begin 0 15
+body 0 16
+call 0 17
+end 0 240
+id 0 19
+if 0 20
+read 0 21
+statement 0 22
+while 0 23
+write 0 24
+9
+begin 1 0
+call 1 0
+else 1 0
+end 1 0
+id 1 0
+if 1 0
+read 1 0
+while 1 0
+write 1 0
+1
+id 0 241
+1
+:= 0 242
+10
+( 0 40
++ 0 41
+- 0 42
+exp 0 43
+factor 0 44
+id 0 45
+integer 0 46
+lexp 0 243
+odd 0 48
+term 0 49
+1
+( 0 244
+9
+begin 1 0
+call 1 0
+else 0 245
+end 1 0
+id 1 0
+if 1 0
+read 1 0
+while 1 0
+write 1 0
+10
+( 0 52
++ 0 53
+- 0 54
+exp 0 55
+factor 0 56
+id 0 57
+integer 0 58
+lexp 0 246
+odd 0 60
+term 0 61
+1
+( 0 247
+1
+) 0 248
+5
++ 0 114
+- 0 115
+_aop 0 249
+aop 0 191
+then 1 0
+5
++ 0 114
+- 0 115
+_aop 0 250
+aop 0 191
+then 1 0
+3
++ 1 0
+- 1 0
+then 1 0
+4
+( 0 106
+factor 0 251
+id 0 111
+integer 0 112
+1
+then 1 0
+5
+( 0 106
+factor 0 110
+id 0 111
+integer 0 112
+term 0 252
+11
++ 0 114
+- 0 115
+< 1 0
+<= 1 0
+<> 1 0
+= 1 0
+> 1 0
+>= 1 0
+_aop 0 253
+aop 0 117
+then 1 0
+1
+; 0 254
+2
+_id 0 255
+id 0 119
+11
+* 1 0
++ 1 0
+- 1 0
+/ 1 0
+< 1 0
+<= 1 0
+<> 1 0
+= 1 0
+> 1 0
+>= 1 0
+do 1 0
+7
+< 1 0
+<= 1 0
+<> 1 0
+= 1 0
+> 1 0
+>= 1 0
+do 1 0
+7
+< 1 0
+<= 1 0
+<> 1 0
+= 1 0
+> 1 0
+>= 1 0
+do 1 0
+1
+do 1 0
+13
+* 0 101
++ 1 0
+- 1 0
+/ 0 102
+< 1 0
+<= 1 0
+<> 1 0
+= 1 0
+> 1 0
+>= 1 0
+_factor 0 256
+do 1 0
+mop 0 125
+8
+begin 1 0
+call 1 0
+end 1 0
+id 1 0
+if 1 0
+read 1 0
+while 1 0
+write 1 0
+1
+) 0 257
+5
++ 0 114
+- 0 115
+_aop 0 258
+aop 0 207
+do 1 0
+5
++ 0 114
+- 0 115
+_aop 0 259
+aop 0 207
+do 1 0
+3
++ 1 0
+- 1 0
+do 1 0
+4
+( 0 127
+factor 0 260
+id 0 132
+integer 0 133
+1
+do 1 0
+5
+( 0 127
+factor 0 131
+id 0 132
+integer 0 133
+term 0 261
+11
++ 0 114
+- 0 115
+< 1 0
+<= 1 0
+<> 1 0
+= 1 0
+> 1 0
+>= 1 0
+_aop 0 262
+aop 0 136
+do 1 0
+1
+) 0 263
+6
+) 1 0
++ 0 114
+, 1 0
+- 0 115
+_aop 0 264
+aop 0 217
+6
+) 1 0
++ 0 114
+, 1 0
+- 0 115
+_aop 0 265
+aop 0 217
+1
+; 0 266
+9
+( 0 137
++ 0 138
+- 0 139
+_exp 0 267
+exp 0 141
+factor 0 142
+id 0 143
+integer 0 144
+term 0 145
+4
+) 1 0
++ 1 0
+, 1 0
+- 1 0
+4
+( 0 137
+factor 0 268
+id 0 143
+integer 0 144
+2
+) 1 0
+, 1 0
+5
+( 0 137
+factor 0 142
+id 0 143
+integer 0 144
+term 0 269
+1
+end 1 0
+2
+begin 0 5
+body 0 270
+1
+; 1 0
+11
+_statement 0 271
+begin 0 15
+body 0 16
+call 0 17
+end 0 272
+id 0 19
+if 0 20
+read 0 21
+statement 0 22
+while 0 23
+write 0 24
+4
+_proc 0 273
+begin 1 0
+proc 0 274
+procedure 0 275
+2
+begin 1 0
+procedure 1 0
+1
+; 0 276
+2
+begin 0 221
+body 0 277
+1
+; 0 278
+1
+; 0 279
+5
+* 1 0
++ 1 0
+- 1 0
+/ 1 0
+; 1 0
+1
+; 1 0
+1
+; 1 0
+7
+* 0 101
++ 1 0
+- 1 0
+/ 0 102
+; 1 0
+_factor 0 280
+mop 0 161
+5
++ 0 114
+- 0 115
+; 1 0
+_aop 0 281
+aop 0 163
+5
+) 1 0
+* 1 0
++ 1 0
+- 1 0
+/ 1 0
+1
+) 1 0
+1
+) 1 0
+7
+) 1 0
+* 0 101
++ 1 0
+- 1 0
+/ 0 102
+_factor 0 282
+mop 0 169
+5
+) 1 0
++ 0 114
+- 0 115
+_aop 0 283
+aop 0 171
+9
++ 1 0
+- 1 0
+< 1 0
+<= 1 0
+<> 1 0
+= 1 0
+> 1 0
+>= 1 0
+then 1 0
+1
+end 0 284
+9
+begin 1 0
+call 1 0
+else 1 0
+end 1 0
+id 1 0
+if 1 0
+read 1 0
+while 1 0
+write 1 0
+2
+( 0 285
+; 0 286
+8
+( 0 76
++ 0 77
+- 0 78
+exp 0 287
+factor 0 80
+id 0 81
+integer 0 82
+term 0 83
+1
+then 0 288
+2
+_id 0 289
+id 0 119
+9
+begin 0 15
+body 0 16
+call 0 17
+id 0 19
+if 0 20
+read 0 21
+statement 0 290
+while 0 23
+write 0 24
+1
+do 0 291
+9
+( 0 137
++ 0 138
+- 0 139
+_exp 0 292
+exp 0 141
+factor 0 142
+id 0 143
+integer 0 144
+term 0 145
+5
+* 1 0
++ 1 0
+- 1 0
+/ 1 0
+then 1 0
+1
+then 1 0
+1
+then 1 0
+7
+* 0 101
++ 1 0
+- 1 0
+/ 0 102
+_factor 0 293
+mop 0 189
+then 1 0
+5
++ 0 114
+- 0 115
+_aop 0 294
+aop 0 191
+then 1 0
+7
+< 1 0
+<= 1 0
+<> 1 0
+= 1 0
+> 1 0
+>= 1 0
+then 1 0
+8
+begin 1 0
+call 1 0
+end 1 0
+id 1 0
+if 1 0
+read 1 0
+while 1 0
+write 1 0
+1
+) 1 0
+9
++ 1 0
+- 1 0
+< 1 0
+<= 1 0
+<> 1 0
+= 1 0
+> 1 0
+>= 1 0
+do 1 0
+5
+* 1 0
++ 1 0
+- 1 0
+/ 1 0
+do 1 0
+1
+do 1 0
+1
+do 1 0
+7
+* 0 101
++ 1 0
+- 1 0
+/ 0 102
+_factor 0 295
+do 1 0
+mop 0 205
+5
++ 0 114
+- 0 115
+_aop 0 296
+aop 0 207
+do 1 0
+7
+< 1 0
+<= 1 0
+<> 1 0
+= 1 0
+> 1 0
+>= 1 0
+do 1 0
+6
+) 1 0
+* 1 0
++ 1 0
+, 1 0
+- 1 0
+/ 1 0
+2
+) 1 0
+, 1 0
+2
+) 1 0
+, 1 0
+8
+begin 1 0
+call 1 0
+end 1 0
+id 1 0
+if 1 0
+read 1 0
+while 1 0
+write 1 0
+1
+) 1 0
+8
+) 1 0
+* 0 101
++ 1 0
+, 1 0
+- 1 0
+/ 0 102
+_factor 0 297
+mop 0 215
+6
+) 1 0
++ 0 114
+, 1 0
+- 0 115
+_aop 0 298
+aop 0 217
+1
+end 1 0
+1
+end 0 299
+2
+begin 1 0
+procedure 1 0
+1
+begin 1 0
+4
+_proc 0 300
+begin 1 0
+proc 0 274
+procedure 0 275
+1
+id 0 301
+6
+begin 0 221
+body 0 302
+proc 0 303
+procedure 0 11
+var 0 12
+vardecl 0 304
+2
+begin 1 0
+procedure 1 0
+4
+begin 0 221
+body 0 305
+proc 0 306
+procedure 0 11
+8
+begin 1 0
+call 1 0
+end 1 0
+id 1 0
+if 1 0
+read 1 0
+while 1 0
+write 1 0
+3
++ 1 0
+- 1 0
+; 1 0
+1
+; 1 0
+3
+) 1 0
++ 1 0
+- 1 0
+1
+) 1 0
+9
+begin 1 0
+call 1 0
+else 1 0
+end 1 0
+id 1 0
+if 1 0
+read 1 0
+while 1 0
+write 1 0
+9
+( 0 137
++ 0 138
+- 0 139
+_exp 0 307
+exp 0 141
+factor 0 142
+id 0 143
+integer 0 144
+term 0 145
+9
+begin 1 0
+call 1 0
+else 1 0
+end 1 0
+id 1 0
+if 1 0
+read 1 0
+while 1 0
+write 1 0
+1
+; 0 308
+9
+begin 0 176
+body 0 177
+call 0 178
+id 0 179
+if 0 180
+read 0 181
+statement 0 309
+while 0 183
+write 0 184
+1
+) 0 310
+8
+begin 1 0
+call 1 0
+end 1 0
+id 1 0
+if 1 0
+read 1 0
+while 1 0
+write 1 0
+9
+begin 0 176
+body 0 177
+call 0 178
+id 0 179
+if 0 180
+read 0 181
+statement 0 311
+while 0 183
+write 0 184
+1
+) 0 312
+3
++ 1 0
+- 1 0
+then 1 0
+1
+then 1 0
+3
++ 1 0
+- 1 0
+do 1 0
+1
+do 1 0
+4
+) 1 0
++ 1 0
+, 1 0
+- 1 0
+2
+) 1 0
+, 1 0
+2
+begin 1 0
+procedure 1 0
+1
+begin 1 0
+2
+( 0 68
+arg 0 313
+2
+begin 1 0
+procedure 1 0
+2
+begin 0 221
+body 0 314
+1
+; 0 315
+2
+begin 1 0
+procedure 1 0
+2
+begin 0 221
+body 0 316
+1
+) 0 317
+9
+begin 1 0
+call 1 0
+else 1 0
+end 1 0
+id 1 0
+if 1 0
+read 1 0
+while 1 0
+write 1 0
+9
+begin 1 0
+call 1 0
+else 1 0
+end 1 0
+id 1 0
+if 1 0
+read 1 0
+while 1 0
+write 1 0
+1
+; 0 319
+9
+begin 1 0
+call 1 0
+else 1 0
+end 1 0
+id 1 0
+if 1 0
+read 1 0
+while 1 0
+write 1 0
+1
+; 0 320
+1
+; 0 321
+2
+begin 1 0
+procedure 1 0
+4
+begin 0 221
+body 0 322
+proc 0 323
+procedure 0 11
+2
+begin 1 0
+procedure 1 0
+1
+; 0 324
+9
+begin 0 176
+body 0 177
+call 0 178
+id 0 179
+if 0 180
+read 0 181
+statement 0 325
+while 0 183
+write 0 184
+9
+begin 1 0
+call 1 0
+else 1 0
+end 1 0
+id 1 0
+if 1 0
+read 1 0
+while 1 0
+write 1 0
+9
+begin 1 0
+call 1 0
+else 1 0
+end 1 0
+id 1 0
+if 1 0
+read 1 0
+while 1 0
+write 1 0
+9
+begin 0 221
+block 0 326
+body 0 223
+condecl 0 224
+const 0 9
+proc 0 225
+procedure 0 11
+var 0 12
+vardecl 0 226
+2
+begin 1 0
+procedure 1 0
+2
+begin 0 221
+body 0 327
+9
+begin 1 0
+call 1 0
+else 1 0
+end 1 0
+id 1 0
+if 1 0
+read 1 0
+while 1 0
+write 1 0
+9
+begin 1 0
+call 1 0
+else 1 0
+end 1 0
+id 1 0
+if 1 0
+read 1 0
+while 1 0
+write 1 0
+4
+_proc 0 328
+begin 1 0
+proc 0 329
+procedure 1 0
+2
+begin 1 0
+procedure 1 0
+2
+begin 1 0
+procedure 1 0
+4
+_proc 0 330
+begin 1 0
+proc 0 329
+procedure 1 0
+2
+begin 1 0
+procedure 1 0
+331 1
+_S 0 $ 1 prog 0 
+1
+prog 0 $ 5 program id ; block end 0 
+1
+_S 1 $ 1 prog 0 
+0
+1
+prog 1 $ 5 program id ; block end 0 
+0
+1
+prog 2 $ 5 program id ; block end 0 
+0
+1
+prog 3 $ 5 program id ; block end 0 
+14
+block 0 end 1 body 0 
+block 0 end 3 condecl ; body 0 
+block 0 end 4 condecl ; proc body 0 
+block 0 end 5 condecl ; vardecl ; body 0 
+block 0 end 6 condecl ; vardecl ; proc body 0 
+block 0 end 2 proc body 0 
+block 0 end 3 vardecl ; body 0 
+block 0 end 4 vardecl ; proc body 0 
+body 0 end 3 begin _statement end 0 
+body 0 end 2 begin end 0 
+condecl 0 ; 2 const _constv 0 
+proc 0 begin 5 procedure id arg ; block 0 
+proc 0 begin 6 procedure id arg ; block _proc 0 
+vardecl 0 ; 2 var _id 0 
+2
+body 1 end 3 begin _statement end 0 
+body 1 end 2 begin end 0 
+90
+_statement 0 end 1 statement 0 
+_statement 0 end 2 statement _statement 0 
+body 0 begin 3 begin _statement end 0 
+body 0 call 3 begin _statement end 0 
+body 0 end 3 begin _statement end 0 
+body 0 id 3 begin _statement end 0 
+body 0 if 3 begin _statement end 0 
+body 0 read 3 begin _statement end 0 
+body 0 while 3 begin _statement end 0 
+body 0 write 3 begin _statement end 0 
+body 0 begin 2 begin end 0 
+body 0 call 2 begin end 0 
+body 0 end 2 begin end 0 
+body 0 id 2 begin end 0 
+body 0 if 2 begin end 0 
+body 0 read 2 begin end 0 
+body 0 while 2 begin end 0 
+body 0 write 2 begin end 0 
+statement 0 begin 1 body 0 
+statement 0 call 1 body 0 
+statement 0 end 1 body 0 
+statement 0 id 1 body 0 
+statement 0 if 1 body 0 
+statement 0 read 1 body 0 
+statement 0 while 1 body 0 
+statement 0 write 1 body 0 
+statement 0 begin 6 call id ( _exp ) ; 0 
+statement 0 call 6 call id ( _exp ) ; 0 
+statement 0 end 6 call id ( _exp ) ; 0 
+statement 0 id 6 call id ( _exp ) ; 0 
+statement 0 if 6 call id ( _exp ) ; 0 
+statement 0 read 6 call id ( _exp ) ; 0 
+statement 0 while 6 call id ( _exp ) ; 0 
+statement 0 write 6 call id ( _exp ) ; 0 
+statement 0 begin 3 call id ; 0 
+statement 0 call 3 call id ; 0 
+statement 0 end 3 call id ; 0 
+statement 0 id 3 call id ; 0 
+statement 0 if 3 call id ; 0 
+statement 0 read 3 call id ; 0 
+statement 0 while 3 call id ; 0 
+statement 0 write 3 call id ; 0 
+statement 0 begin 4 id := exp ; 0 
+statement 0 call 4 id := exp ; 0 
+statement 0 end 4 id := exp ; 0 
+statement 0 id 4 id := exp ; 0 
+statement 0 if 4 id := exp ; 0 
+statement 0 read 4 id := exp ; 0 
+statement 0 while 4 id := exp ; 0 
+statement 0 write 4 id := exp ; 0 
+statement 0 begin 4 if lexp then statement 0 
+statement 0 call 4 if lexp then statement 0 
+statement 0 end 4 if lexp then statement 0 
+statement 0 id 4 if lexp then statement 0 
+statement 0 if 4 if lexp then statement 0 
+statement 0 read 4 if lexp then statement 0 
+statement 0 while 4 if lexp then statement 0 
+statement 0 write 4 if lexp then statement 0 
+statement 0 begin 6 if lexp then statement else statement 0 
+statement 0 call 6 if lexp then statement else statement 0 
+statement 0 end 6 if lexp then statement else statement 0 
+statement 0 id 6 if lexp then statement else statement 0 
+statement 0 if 6 if lexp then statement else statement 0 
+statement 0 read 6 if lexp then statement else statement 0 
+statement 0 while 6 if lexp then statement else statement 0 
+statement 0 write 6 if lexp then statement else statement 0 
+statement 0 begin 5 read ( _id ) ; 0 
+statement 0 call 5 read ( _id ) ; 0 
+statement 0 end 5 read ( _id ) ; 0 
+statement 0 id 5 read ( _id ) ; 0 
+statement 0 if 5 read ( _id ) ; 0 
+statement 0 read 5 read ( _id ) ; 0 
+statement 0 while 5 read ( _id ) ; 0 
+statement 0 write 5 read ( _id ) ; 0 
+statement 0 begin 4 while lexp do statement 0 
+statement 0 call 4 while lexp do statement 0 
+statement 0 end 4 while lexp do statement 0 
+statement 0 id 4 while lexp do statement 0 
+statement 0 if 4 while lexp do statement 0 
+statement 0 read 4 while lexp do statement 0 
+statement 0 while 4 while lexp do statement 0 
+statement 0 write 4 while lexp do statement 0 
+statement 0 begin 5 write ( _exp ) ; 0 
+statement 0 call 5 write ( _exp ) ; 0 
+statement 0 end 5 write ( _exp ) ; 0 
+statement 0 id 5 write ( _exp ) ; 0 
+statement 0 if 5 write ( _exp ) ; 0 
+statement 0 read 5 write ( _exp ) ; 0 
+statement 0 while 5 write ( _exp ) ; 0 
+statement 0 write 5 write ( _exp ) ; 0 
+1
+prog 4 $ 5 program id ; block end 0 
+0
+1
+block 1 end 1 body 0 
+0
+4
+block 1 end 3 condecl ; body 0 
+block 1 end 4 condecl ; proc body 0 
+block 1 end 5 condecl ; vardecl ; body 0 
+block 1 end 6 condecl ; vardecl ; proc body 0 
+0
+1
+condecl 1 ; 2 const _constv 0 
+4
+_constv 0 ; 1 constv 0 
+_constv 0 ; 3 constv , _constv 0 
+constv 0 , 3 id := integer 0 
+constv 0 ; 3 id := integer 0 
+1
+block 1 end 2 proc body 0 
+2
+body 0 end 3 begin _statement end 0 
+body 0 end 2 begin end 0 
+2
+proc 1 begin 5 procedure id arg ; block 0 
+proc 1 begin 6 procedure id arg ; block _proc 0 
+0
+1
+vardecl 1 ; 2 var _id 0 
+2
+_id 0 ; 1 id 0 
+_id 0 ; 3 id , _id 0 
+2
+block 1 end 3 vardecl ; body 0 
+block 1 end 4 vardecl ; proc body 0 
+0
+1
+body 2 end 3 begin _statement end 0 
+0
+16
+body 1 begin 3 begin _statement end 0 
+body 1 call 3 begin _statement end 0 
+body 1 end 3 begin _statement end 0 
+body 1 id 3 begin _statement end 0 
+body 1 if 3 begin _statement end 0 
+body 1 read 3 begin _statement end 0 
+body 1 while 3 begin _statement end 0 
+body 1 write 3 begin _statement end 0 
+body 1 begin 2 begin end 0 
+body 1 call 2 begin end 0 
+body 1 end 2 begin end 0 
+body 1 id 2 begin end 0 
+body 1 if 2 begin end 0 
+body 1 read 2 begin end 0 
+body 1 while 2 begin end 0 
+body 1 write 2 begin end 0 
+90
+_statement 0 end 1 statement 0 
+_statement 0 end 2 statement _statement 0 
+body 0 begin 3 begin _statement end 0 
+body 0 call 3 begin _statement end 0 
+body 0 end 3 begin _statement end 0 
+body 0 id 3 begin _statement end 0 
+body 0 if 3 begin _statement end 0 
+body 0 read 3 begin _statement end 0 
+body 0 while 3 begin _statement end 0 
+body 0 write 3 begin _statement end 0 
+body 0 begin 2 begin end 0 
+body 0 call 2 begin end 0 
+body 0 end 2 begin end 0 
+body 0 id 2 begin end 0 
+body 0 if 2 begin end 0 
+body 0 read 2 begin end 0 
+body 0 while 2 begin end 0 
+body 0 write 2 begin end 0 
+statement 0 begin 1 body 0 
+statement 0 call 1 body 0 
+statement 0 end 1 body 0 
+statement 0 id 1 body 0 
+statement 0 if 1 body 0 
+statement 0 read 1 body 0 
+statement 0 while 1 body 0 
+statement 0 write 1 body 0 
+statement 0 begin 6 call id ( _exp ) ; 0 
+statement 0 call 6 call id ( _exp ) ; 0 
+statement 0 end 6 call id ( _exp ) ; 0 
+statement 0 id 6 call id ( _exp ) ; 0 
+statement 0 if 6 call id ( _exp ) ; 0 
+statement 0 read 6 call id ( _exp ) ; 0 
+statement 0 while 6 call id ( _exp ) ; 0 
+statement 0 write 6 call id ( _exp ) ; 0 
+statement 0 begin 3 call id ; 0 
+statement 0 call 3 call id ; 0 
+statement 0 end 3 call id ; 0 
+statement 0 id 3 call id ; 0 
+statement 0 if 3 call id ; 0 
+statement 0 read 3 call id ; 0 
+statement 0 while 3 call id ; 0 
+statement 0 write 3 call id ; 0 
+statement 0 begin 4 id := exp ; 0 
+statement 0 call 4 id := exp ; 0 
+statement 0 end 4 id := exp ; 0 
+statement 0 id 4 id := exp ; 0 
+statement 0 if 4 id := exp ; 0 
+statement 0 read 4 id := exp ; 0 
+statement 0 while 4 id := exp ; 0 
+statement 0 write 4 id := exp ; 0 
+statement 0 begin 4 if lexp then statement 0 
+statement 0 call 4 if lexp then statement 0 
+statement 0 end 4 if lexp then statement 0 
+statement 0 id 4 if lexp then statement 0 
+statement 0 if 4 if lexp then statement 0 
+statement 0 read 4 if lexp then statement 0 
+statement 0 while 4 if lexp then statement 0 
+statement 0 write 4 if lexp then statement 0 
+statement 0 begin 6 if lexp then statement else statement 0 
+statement 0 call 6 if lexp then statement else statement 0 
+statement 0 end 6 if lexp then statement else statement 0 
+statement 0 id 6 if lexp then statement else statement 0 
+statement 0 if 6 if lexp then statement else statement 0 
+statement 0 read 6 if lexp then statement else statement 0 
+statement 0 while 6 if lexp then statement else statement 0 
+statement 0 write 6 if lexp then statement else statement 0 
+statement 0 begin 5 read ( _id ) ; 0 
+statement 0 call 5 read ( _id ) ; 0 
+statement 0 end 5 read ( _id ) ; 0 
+statement 0 id 5 read ( _id ) ; 0 
+statement 0 if 5 read ( _id ) ; 0 
+statement 0 read 5 read ( _id ) ; 0 
+statement 0 while 5 read ( _id ) ; 0 
+statement 0 write 5 read ( _id ) ; 0 
+statement 0 begin 4 while lexp do statement 0 
+statement 0 call 4 while lexp do statement 0 
+statement 0 end 4 while lexp do statement 0 
+statement 0 id 4 while lexp do statement 0 
+statement 0 if 4 while lexp do statement 0 
+statement 0 read 4 while lexp do statement 0 
+statement 0 while 4 while lexp do statement 0 
+statement 0 write 4 while lexp do statement 0 
+statement 0 begin 5 write ( _exp ) ; 0 
+statement 0 call 5 write ( _exp ) ; 0 
+statement 0 end 5 write ( _exp ) ; 0 
+statement 0 id 5 write ( _exp ) ; 0 
+statement 0 if 5 write ( _exp ) ; 0 
+statement 0 read 5 write ( _exp ) ; 0 
+statement 0 while 5 write ( _exp ) ; 0 
+statement 0 write 5 write ( _exp ) ; 0 
+8
+statement 1 begin 1 body 0 
+statement 1 call 1 body 0 
+statement 1 end 1 body 0 
+statement 1 id 1 body 0 
+statement 1 if 1 body 0 
+statement 1 read 1 body 0 
+statement 1 while 1 body 0 
+statement 1 write 1 body 0 
+0
+16
+statement 1 begin 6 call id ( _exp ) ; 0 
+statement 1 call 6 call id ( _exp ) ; 0 
+statement 1 end 6 call id ( _exp ) ; 0 
+statement 1 id 6 call id ( _exp ) ; 0 
+statement 1 if 6 call id ( _exp ) ; 0 
+statement 1 read 6 call id ( _exp ) ; 0 
+statement 1 while 6 call id ( _exp ) ; 0 
+statement 1 write 6 call id ( _exp ) ; 0 
+statement 1 begin 3 call id ; 0 
+statement 1 call 3 call id ; 0 
+statement 1 end 3 call id ; 0 
+statement 1 id 3 call id ; 0 
+statement 1 if 3 call id ; 0 
+statement 1 read 3 call id ; 0 
+statement 1 while 3 call id ; 0 
+statement 1 write 3 call id ; 0 
+0
+1
+body 2 end 2 begin end 0 
+0
+8
+statement 1 begin 4 id := exp ; 0 
+statement 1 call 4 id := exp ; 0 
+statement 1 end 4 id := exp ; 0 
+statement 1 id 4 id := exp ; 0 
+statement 1 if 4 id := exp ; 0 
+statement 1 read 4 id := exp ; 0 
+statement 1 while 4 id := exp ; 0 
+statement 1 write 4 id := exp ; 0 
+0
+16
+statement 1 begin 4 if lexp then statement 0 
+statement 1 call 4 if lexp then statement 0 
+statement 1 end 4 if lexp then statement 0 
+statement 1 id 4 if lexp then statement 0 
+statement 1 if 4 if lexp then statement 0 
+statement 1 read 4 if lexp then statement 0 
+statement 1 while 4 if lexp then statement 0 
+statement 1 write 4 if lexp then statement 0 
+statement 1 begin 6 if lexp then statement else statement 0 
+statement 1 call 6 if lexp then statement else statement 0 
+statement 1 end 6 if lexp then statement else statement 0 
+statement 1 id 6 if lexp then statement else statement 0 
+statement 1 if 6 if lexp then statement else statement 0 
+statement 1 read 6 if lexp then statement else statement 0 
+statement 1 while 6 if lexp then statement else statement 0 
+statement 1 write 6 if lexp then statement else statement 0 
+96
+exp 0 < 2 + term 0 
+exp 0 <= 2 + term 0 
+exp 0 <> 2 + term 0 
+exp 0 = 2 + term 0 
+exp 0 > 2 + term 0 
+exp 0 >= 2 + term 0 
+exp 0 then 2 + term 0 
+exp 0 < 3 + term _aop 0 
+exp 0 <= 3 + term _aop 0 
+exp 0 <> 3 + term _aop 0 
+exp 0 = 3 + term _aop 0 
+exp 0 > 3 + term _aop 0 
+exp 0 >= 3 + term _aop 0 
+exp 0 then 3 + term _aop 0 
+exp 0 < 2 - term 0 
+exp 0 <= 2 - term 0 
+exp 0 <> 2 - term 0 
+exp 0 = 2 - term 0 
+exp 0 > 2 - term 0 
+exp 0 >= 2 - term 0 
+exp 0 then 2 - term 0 
+exp 0 < 3 - term _aop 0 
+exp 0 <= 3 - term _aop 0 
+exp 0 <> 3 - term _aop 0 
+exp 0 = 3 - term _aop 0 
+exp 0 > 3 - term _aop 0 
+exp 0 >= 3 - term _aop 0 
+exp 0 then 3 - term _aop 0 
+exp 0 < 1 term 0 
+exp 0 <= 1 term 0 
+exp 0 <> 1 term 0 
+exp 0 = 1 term 0 
+exp 0 > 1 term 0 
+exp 0 >= 1 term 0 
+exp 0 then 1 term 0 
+exp 0 < 2 term _aop 0 
+exp 0 <= 2 term _aop 0 
+exp 0 <> 2 term _aop 0 
+exp 0 = 2 term _aop 0 
+exp 0 > 2 term _aop 0 
+exp 0 >= 2 term _aop 0 
+exp 0 then 2 term _aop 0 
+factor 0 * 3 ( exp ) 0 
+factor 0 + 3 ( exp ) 0 
+factor 0 - 3 ( exp ) 0 
+factor 0 / 3 ( exp ) 0 
+factor 0 < 3 ( exp ) 0 
+factor 0 <= 3 ( exp ) 0 
+factor 0 <> 3 ( exp ) 0 
+factor 0 = 3 ( exp ) 0 
+factor 0 > 3 ( exp ) 0 
+factor 0 >= 3 ( exp ) 0 
+factor 0 then 3 ( exp ) 0 
+factor 0 * 1 id 0 
+factor 0 + 1 id 0 
+factor 0 - 1 id 0 
+factor 0 / 1 id 0 
+factor 0 < 1 id 0 
+factor 0 <= 1 id 0 
+factor 0 <> 1 id 0 
+factor 0 = 1 id 0 
+factor 0 > 1 id 0 
+factor 0 >= 1 id 0 
+factor 0 then 1 id 0 
+factor 0 * 1 integer 0 
+factor 0 + 1 integer 0 
+factor 0 - 1 integer 0 
+factor 0 / 1 integer 0 
+factor 0 < 1 integer 0 
+factor 0 <= 1 integer 0 
+factor 0 <> 1 integer 0 
+factor 0 = 1 integer 0 
+factor 0 > 1 integer 0 
+factor 0 >= 1 integer 0 
+factor 0 then 1 integer 0 
+lexp 0 then 1 exp 0 
+lexp 0 then 3 exp lop exp 0 
+lexp 0 then 2 odd exp 0 
+term 0 + 1 factor 0 
+term 0 - 1 factor 0 
+term 0 < 1 factor 0 
+term 0 <= 1 factor 0 
+term 0 <> 1 factor 0 
+term 0 = 1 factor 0 
+term 0 > 1 factor 0 
+term 0 >= 1 factor 0 
+term 0 then 1 factor 0 
+term 0 + 2 factor _factor 0 
+term 0 - 2 factor _factor 0 
+term 0 < 2 factor _factor 0 
+term 0 <= 2 factor _factor 0 
+term 0 <> 2 factor _factor 0 
+term 0 = 2 factor _factor 0 
+term 0 > 2 factor _factor 0 
+term 0 >= 2 factor _factor 0 
+term 0 then 2 factor _factor 0 
+8
+statement 1 begin 5 read ( _id ) ; 0 
+statement 1 call 5 read ( _id ) ; 0 
+statement 1 end 5 read ( _id ) ; 0 
+statement 1 id 5 read ( _id ) ; 0 
+statement 1 if 5 read ( _id ) ; 0 
+statement 1 read 5 read ( _id ) ; 0 
+statement 1 while 5 read ( _id ) ; 0 
+statement 1 write 5 read ( _id ) ; 0 
+0
+2
+_statement 1 end 1 statement 0 
+_statement 1 end 2 statement _statement 0 
+90
+_statement 0 end 1 statement 0 
+_statement 0 end 2 statement _statement 0 
+body 0 begin 3 begin _statement end 0 
+body 0 call 3 begin _statement end 0 
+body 0 end 3 begin _statement end 0 
+body 0 id 3 begin _statement end 0 
+body 0 if 3 begin _statement end 0 
+body 0 read 3 begin _statement end 0 
+body 0 while 3 begin _statement end 0 
+body 0 write 3 begin _statement end 0 
+body 0 begin 2 begin end 0 
+body 0 call 2 begin end 0 
+body 0 end 2 begin end 0 
+body 0 id 2 begin end 0 
+body 0 if 2 begin end 0 
+body 0 read 2 begin end 0 
+body 0 while 2 begin end 0 
+body 0 write 2 begin end 0 
+statement 0 begin 1 body 0 
+statement 0 call 1 body 0 
+statement 0 end 1 body 0 
+statement 0 id 1 body 0 
+statement 0 if 1 body 0 
+statement 0 read 1 body 0 
+statement 0 while 1 body 0 
+statement 0 write 1 body 0 
+statement 0 begin 6 call id ( _exp ) ; 0 
+statement 0 call 6 call id ( _exp ) ; 0 
+statement 0 end 6 call id ( _exp ) ; 0 
+statement 0 id 6 call id ( _exp ) ; 0 
+statement 0 if 6 call id ( _exp ) ; 0 
+statement 0 read 6 call id ( _exp ) ; 0 
+statement 0 while 6 call id ( _exp ) ; 0 
+statement 0 write 6 call id ( _exp ) ; 0 
+statement 0 begin 3 call id ; 0 
+statement 0 call 3 call id ; 0 
+statement 0 end 3 call id ; 0 
+statement 0 id 3 call id ; 0 
+statement 0 if 3 call id ; 0 
+statement 0 read 3 call id ; 0 
+statement 0 while 3 call id ; 0 
+statement 0 write 3 call id ; 0 
+statement 0 begin 4 id := exp ; 0 
+statement 0 call 4 id := exp ; 0 
+statement 0 end 4 id := exp ; 0 
+statement 0 id 4 id := exp ; 0 
+statement 0 if 4 id := exp ; 0 
+statement 0 read 4 id := exp ; 0 
+statement 0 while 4 id := exp ; 0 
+statement 0 write 4 id := exp ; 0 
+statement 0 begin 4 if lexp then statement 0 
+statement 0 call 4 if lexp then statement 0 
+statement 0 end 4 if lexp then statement 0 
+statement 0 id 4 if lexp then statement 0 
+statement 0 if 4 if lexp then statement 0 
+statement 0 read 4 if lexp then statement 0 
+statement 0 while 4 if lexp then statement 0 
+statement 0 write 4 if lexp then statement 0 
+statement 0 begin 6 if lexp then statement else statement 0 
+statement 0 call 6 if lexp then statement else statement 0 
+statement 0 end 6 if lexp then statement else statement 0 
+statement 0 id 6 if lexp then statement else statement 0 
+statement 0 if 6 if lexp then statement else statement 0 
+statement 0 read 6 if lexp then statement else statement 0 
+statement 0 while 6 if lexp then statement else statement 0 
+statement 0 write 6 if lexp then statement else statement 0 
+statement 0 begin 5 read ( _id ) ; 0 
+statement 0 call 5 read ( _id ) ; 0 
+statement 0 end 5 read ( _id ) ; 0 
+statement 0 id 5 read ( _id ) ; 0 
+statement 0 if 5 read ( _id ) ; 0 
+statement 0 read 5 read ( _id ) ; 0 
+statement 0 while 5 read ( _id ) ; 0 
+statement 0 write 5 read ( _id ) ; 0 
+statement 0 begin 4 while lexp do statement 0 
+statement 0 call 4 while lexp do statement 0 
+statement 0 end 4 while lexp do statement 0 
+statement 0 id 4 while lexp do statement 0 
+statement 0 if 4 while lexp do statement 0 
+statement 0 read 4 while lexp do statement 0 
+statement 0 while 4 while lexp do statement 0 
+statement 0 write 4 while lexp do statement 0 
+statement 0 begin 5 write ( _exp ) ; 0 
+statement 0 call 5 write ( _exp ) ; 0 
+statement 0 end 5 write ( _exp ) ; 0 
+statement 0 id 5 write ( _exp ) ; 0 
+statement 0 if 5 write ( _exp ) ; 0 
+statement 0 read 5 write ( _exp ) ; 0 
+statement 0 while 5 write ( _exp ) ; 0 
+statement 0 write 5 write ( _exp ) ; 0 
+8
+statement 1 begin 4 while lexp do statement 0 
+statement 1 call 4 while lexp do statement 0 
+statement 1 end 4 while lexp do statement 0 
+statement 1 id 4 while lexp do statement 0 
+statement 1 if 4 while lexp do statement 0 
+statement 1 read 4 while lexp do statement 0 
+statement 1 while 4 while lexp do statement 0 
+statement 1 write 4 while lexp do statement 0 
+96
+exp 0 < 2 + term 0 
+exp 0 <= 2 + term 0 
+exp 0 <> 2 + term 0 
+exp 0 = 2 + term 0 
+exp 0 > 2 + term 0 
+exp 0 >= 2 + term 0 
+exp 0 do 2 + term 0 
+exp 0 < 3 + term _aop 0 
+exp 0 <= 3 + term _aop 0 
+exp 0 <> 3 + term _aop 0 
+exp 0 = 3 + term _aop 0 
+exp 0 > 3 + term _aop 0 
+exp 0 >= 3 + term _aop 0 
+exp 0 do 3 + term _aop 0 
+exp 0 < 2 - term 0 
+exp 0 <= 2 - term 0 
+exp 0 <> 2 - term 0 
+exp 0 = 2 - term 0 
+exp 0 > 2 - term 0 
+exp 0 >= 2 - term 0 
+exp 0 do 2 - term 0 
+exp 0 < 3 - term _aop 0 
+exp 0 <= 3 - term _aop 0 
+exp 0 <> 3 - term _aop 0 
+exp 0 = 3 - term _aop 0 
+exp 0 > 3 - term _aop 0 
+exp 0 >= 3 - term _aop 0 
+exp 0 do 3 - term _aop 0 
+exp 0 < 1 term 0 
+exp 0 <= 1 term 0 
+exp 0 <> 1 term 0 
+exp 0 = 1 term 0 
+exp 0 > 1 term 0 
+exp 0 >= 1 term 0 
+exp 0 do 1 term 0 
+exp 0 < 2 term _aop 0 
+exp 0 <= 2 term _aop 0 
+exp 0 <> 2 term _aop 0 
+exp 0 = 2 term _aop 0 
+exp 0 > 2 term _aop 0 
+exp 0 >= 2 term _aop 0 
+exp 0 do 2 term _aop 0 
+factor 0 * 3 ( exp ) 0 
+factor 0 + 3 ( exp ) 0 
+factor 0 - 3 ( exp ) 0 
+factor 0 / 3 ( exp ) 0 
+factor 0 < 3 ( exp ) 0 
+factor 0 <= 3 ( exp ) 0 
+factor 0 <> 3 ( exp ) 0 
+factor 0 = 3 ( exp ) 0 
+factor 0 > 3 ( exp ) 0 
+factor 0 >= 3 ( exp ) 0 
+factor 0 do 3 ( exp ) 0 
+factor 0 * 1 id 0 
+factor 0 + 1 id 0 
+factor 0 - 1 id 0 
+factor 0 / 1 id 0 
+factor 0 < 1 id 0 
+factor 0 <= 1 id 0 
+factor 0 <> 1 id 0 
+factor 0 = 1 id 0 
+factor 0 > 1 id 0 
+factor 0 >= 1 id 0 
+factor 0 do 1 id 0 
+factor 0 * 1 integer 0 
+factor 0 + 1 integer 0 
+factor 0 - 1 integer 0 
+factor 0 / 1 integer 0 
+factor 0 < 1 integer 0 
+factor 0 <= 1 integer 0 
+factor 0 <> 1 integer 0 
+factor 0 = 1 integer 0 
+factor 0 > 1 integer 0 
+factor 0 >= 1 integer 0 
+factor 0 do 1 integer 0 
+lexp 0 do 1 exp 0 
+lexp 0 do 3 exp lop exp 0 
+lexp 0 do 2 odd exp 0 
+term 0 + 1 factor 0 
+term 0 - 1 factor 0 
+term 0 < 1 factor 0 
+term 0 <= 1 factor 0 
+term 0 <> 1 factor 0 
+term 0 = 1 factor 0 
+term 0 > 1 factor 0 
+term 0 >= 1 factor 0 
+term 0 do 1 factor 0 
+term 0 + 2 factor _factor 0 
+term 0 - 2 factor _factor 0 
+term 0 < 2 factor _factor 0 
+term 0 <= 2 factor _factor 0 
+term 0 <> 2 factor _factor 0 
+term 0 = 2 factor _factor 0 
+term 0 > 2 factor _factor 0 
+term 0 >= 2 factor _factor 0 
+term 0 do 2 factor _factor 0 
+8
+statement 1 begin 5 write ( _exp ) ; 0 
+statement 1 call 5 write ( _exp ) ; 0 
+statement 1 end 5 write ( _exp ) ; 0 
+statement 1 id 5 write ( _exp ) ; 0 
+statement 1 if 5 write ( _exp ) ; 0 
+statement 1 read 5 write ( _exp ) ; 0 
+statement 1 while 5 write ( _exp ) ; 0 
+statement 1 write 5 write ( _exp ) ; 0 
+0
+1
+prog 5 $ 5 program id ; block end 0 
+0
+4
+block 2 end 3 condecl ; body 0 
+block 2 end 4 condecl ; proc body 0 
+block 2 end 5 condecl ; vardecl ; body 0 
+block 2 end 6 condecl ; vardecl ; proc body 0 
+5
+body 0 end 3 begin _statement end 0 
+body 0 end 2 begin end 0 
+proc 0 begin 5 procedure id arg ; block 0 
+proc 0 begin 6 procedure id arg ; block _proc 0 
+vardecl 0 ; 2 var _id 0 
+1
+condecl 2 ; 2 const _constv 0 
+0
+2
+_constv 1 ; 1 constv 0 
+_constv 1 ; 3 constv , _constv 0 
+0
+2
+constv 1 , 3 id := integer 0 
+constv 1 ; 3 id := integer 0 
+0
+1
+block 2 end 2 proc body 0 
+0
+2
+proc 2 begin 5 procedure id arg ; block 0 
+proc 2 begin 6 procedure id arg ; block _proc 0 
+2
+arg 0 ; 2 ( ) 0 
+arg 0 ; 3 ( _id ) 0 
+1
+vardecl 2 ; 2 var _id 0 
+0
+2
+_id 1 ; 1 id 0 
+_id 1 ; 3 id , _id 0 
+0
+2
+block 2 end 3 vardecl ; body 0 
+block 2 end 4 vardecl ; proc body 0 
+4
+body 0 end 3 begin _statement end 0 
+body 0 end 2 begin end 0 
+proc 0 begin 5 procedure id arg ; block 0 
+proc 0 begin 6 procedure id arg ; block _proc 0 
+1
+body 3 end 3 begin _statement end 0 
+0
+8
+body 2 begin 3 begin _statement end 0 
+body 2 call 3 begin _statement end 0 
+body 2 end 3 begin _statement end 0 
+body 2 id 3 begin _statement end 0 
+body 2 if 3 begin _statement end 0 
+body 2 read 3 begin _statement end 0 
+body 2 while 3 begin _statement end 0 
+body 2 write 3 begin _statement end 0 
+0
+8
+body 2 begin 2 begin end 0 
+body 2 call 2 begin end 0 
+body 2 end 2 begin end 0 
+body 2 id 2 begin end 0 
+body 2 if 2 begin end 0 
+body 2 read 2 begin end 0 
+body 2 while 2 begin end 0 
+body 2 write 2 begin end 0 
+0
+16
+statement 2 begin 6 call id ( _exp ) ; 0 
+statement 2 call 6 call id ( _exp ) ; 0 
+statement 2 end 6 call id ( _exp ) ; 0 
+statement 2 id 6 call id ( _exp ) ; 0 
+statement 2 if 6 call id ( _exp ) ; 0 
+statement 2 read 6 call id ( _exp ) ; 0 
+statement 2 while 6 call id ( _exp ) ; 0 
+statement 2 write 6 call id ( _exp ) ; 0 
+statement 2 begin 3 call id ; 0 
+statement 2 call 3 call id ; 0 
+statement 2 end 3 call id ; 0 
+statement 2 id 3 call id ; 0 
+statement 2 if 3 call id ; 0 
+statement 2 read 3 call id ; 0 
+statement 2 while 3 call id ; 0 
+statement 2 write 3 call id ; 0 
+0
+8
+statement 2 begin 4 id := exp ; 0 
+statement 2 call 4 id := exp ; 0 
+statement 2 end 4 id := exp ; 0 
+statement 2 id 4 id := exp ; 0 
+statement 2 if 4 id := exp ; 0 
+statement 2 read 4 id := exp ; 0 
+statement 2 while 4 id := exp ; 0 
+statement 2 write 4 id := exp ; 0 
+27
+exp 0 ; 2 + term 0 
+exp 0 ; 3 + term _aop 0 
+exp 0 ; 2 - term 0 
+exp 0 ; 3 - term _aop 0 
+exp 0 ; 1 term 0 
+exp 0 ; 2 term _aop 0 
+factor 0 * 3 ( exp ) 0 
+factor 0 + 3 ( exp ) 0 
+factor 0 - 3 ( exp ) 0 
+factor 0 / 3 ( exp ) 0 
+factor 0 ; 3 ( exp ) 0 
+factor 0 * 1 id 0 
+factor 0 + 1 id 0 
+factor 0 - 1 id 0 
+factor 0 / 1 id 0 
+factor 0 ; 1 id 0 
+factor 0 * 1 integer 0 
+factor 0 + 1 integer 0 
+factor 0 - 1 integer 0 
+factor 0 / 1 integer 0 
+factor 0 ; 1 integer 0 
+term 0 + 1 factor 0 
+term 0 - 1 factor 0 
+term 0 ; 1 factor 0 
+term 0 + 2 factor _factor 0 
+term 0 - 2 factor _factor 0 
+term 0 ; 2 factor _factor 0 
+11
+factor 1 * 3 ( exp ) 0 
+factor 1 + 3 ( exp ) 0 
+factor 1 - 3 ( exp ) 0 
+factor 1 / 3 ( exp ) 0 
+factor 1 < 3 ( exp ) 0 
+factor 1 <= 3 ( exp ) 0 
+factor 1 <> 3 ( exp ) 0 
+factor 1 = 3 ( exp ) 0 
+factor 1 > 3 ( exp ) 0 
+factor 1 >= 3 ( exp ) 0 
+factor 1 then 3 ( exp ) 0 
+27
+exp 0 ) 2 + term 0 
+exp 0 ) 3 + term _aop 0 
+exp 0 ) 2 - term 0 
+exp 0 ) 3 - term _aop 0 
+exp 0 ) 1 term 0 
+exp 0 ) 2 term _aop 0 
+factor 0 ) 3 ( exp ) 0 
+factor 0 * 3 ( exp ) 0 
+factor 0 + 3 ( exp ) 0 
+factor 0 - 3 ( exp ) 0 
+factor 0 / 3 ( exp ) 0 
+factor 0 ) 1 id 0 
+factor 0 * 1 id 0 
+factor 0 + 1 id 0 
+factor 0 - 1 id 0 
+factor 0 / 1 id 0 
+factor 0 ) 1 integer 0 
+factor 0 * 1 integer 0 
+factor 0 + 1 integer 0 
+factor 0 - 1 integer 0 
+factor 0 / 1 integer 0 
+term 0 ) 1 factor 0 
+term 0 + 1 factor 0 
+term 0 - 1 factor 0 
+term 0 ) 2 factor _factor 0 
+term 0 + 2 factor _factor 0 
+term 0 - 2 factor _factor 0 
+14
+exp 1 < 2 + term 0 
+exp 1 <= 2 + term 0 
+exp 1 <> 2 + term 0 
+exp 1 = 2 + term 0 
+exp 1 > 2 + term 0 
+exp 1 >= 2 + term 0 
+exp 1 then 2 + term 0 
+exp 1 < 3 + term _aop 0 
+exp 1 <= 3 + term _aop 0 
+exp 1 <> 3 + term _aop 0 
+exp 1 = 3 + term _aop 0 
+exp 1 > 3 + term _aop 0 
+exp 1 >= 3 + term _aop 0 
+exp 1 then 3 + term _aop 0 
+51
+factor 0 * 3 ( exp ) 0 
+factor 0 + 3 ( exp ) 0 
+factor 0 - 3 ( exp ) 0 
+factor 0 / 3 ( exp ) 0 
+factor 0 < 3 ( exp ) 0 
+factor 0 <= 3 ( exp ) 0 
+factor 0 <> 3 ( exp ) 0 
+factor 0 = 3 ( exp ) 0 
+factor 0 > 3 ( exp ) 0 
+factor 0 >= 3 ( exp ) 0 
+factor 0 then 3 ( exp ) 0 
+factor 0 * 1 id 0 
+factor 0 + 1 id 0 
+factor 0 - 1 id 0 
+factor 0 / 1 id 0 
+factor 0 < 1 id 0 
+factor 0 <= 1 id 0 
+factor 0 <> 1 id 0 
+factor 0 = 1 id 0 
+factor 0 > 1 id 0 
+factor 0 >= 1 id 0 
+factor 0 then 1 id 0 
+factor 0 * 1 integer 0 
+factor 0 + 1 integer 0 
+factor 0 - 1 integer 0 
+factor 0 / 1 integer 0 
+factor 0 < 1 integer 0 
+factor 0 <= 1 integer 0 
+factor 0 <> 1 integer 0 
+factor 0 = 1 integer 0 
+factor 0 > 1 integer 0 
+factor 0 >= 1 integer 0 
+factor 0 then 1 integer 0 
+term 0 + 1 factor 0 
+term 0 - 1 factor 0 
+term 0 < 1 factor 0 
+term 0 <= 1 factor 0 
+term 0 <> 1 factor 0 
+term 0 = 1 factor 0 
+term 0 > 1 factor 0 
+term 0 >= 1 factor 0 
+term 0 then 1 factor 0 
+term 0 + 2 factor _factor 0 
+term 0 - 2 factor _factor 0 
+term 0 < 2 factor _factor 0 
+term 0 <= 2 factor _factor 0 
+term 0 <> 2 factor _factor 0 
+term 0 = 2 factor _factor 0 
+term 0 > 2 factor _factor 0 
+term 0 >= 2 factor _factor 0 
+term 0 then 2 factor _factor 0 
+14
+exp 1 < 2 - term 0 
+exp 1 <= 2 - term 0 
+exp 1 <> 2 - term 0 
+exp 1 = 2 - term 0 
+exp 1 > 2 - term 0 
+exp 1 >= 2 - term 0 
+exp 1 then 2 - term 0 
+exp 1 < 3 - term _aop 0 
+exp 1 <= 3 - term _aop 0 
+exp 1 <> 3 - term _aop 0 
+exp 1 = 3 - term _aop 0 
+exp 1 > 3 - term _aop 0 
+exp 1 >= 3 - term _aop 0 
+exp 1 then 3 - term _aop 0 
+51
+factor 0 * 3 ( exp ) 0 
+factor 0 + 3 ( exp ) 0 
+factor 0 - 3 ( exp ) 0 
+factor 0 / 3 ( exp ) 0 
+factor 0 < 3 ( exp ) 0 
+factor 0 <= 3 ( exp ) 0 
+factor 0 <> 3 ( exp ) 0 
+factor 0 = 3 ( exp ) 0 
+factor 0 > 3 ( exp ) 0 
+factor 0 >= 3 ( exp ) 0 
+factor 0 then 3 ( exp ) 0 
+factor 0 * 1 id 0 
+factor 0 + 1 id 0 
+factor 0 - 1 id 0 
+factor 0 / 1 id 0 
+factor 0 < 1 id 0 
+factor 0 <= 1 id 0 
+factor 0 <> 1 id 0 
+factor 0 = 1 id 0 
+factor 0 > 1 id 0 
+factor 0 >= 1 id 0 
+factor 0 then 1 id 0 
+factor 0 * 1 integer 0 
+factor 0 + 1 integer 0 
+factor 0 - 1 integer 0 
+factor 0 / 1 integer 0 
+factor 0 < 1 integer 0 
+factor 0 <= 1 integer 0 
+factor 0 <> 1 integer 0 
+factor 0 = 1 integer 0 
+factor 0 > 1 integer 0 
+factor 0 >= 1 integer 0 
+factor 0 then 1 integer 0 
+term 0 + 1 factor 0 
+term 0 - 1 factor 0 
+term 0 < 1 factor 0 
+term 0 <= 1 factor 0 
+term 0 <> 1 factor 0 
+term 0 = 1 factor 0 
+term 0 > 1 factor 0 
+term 0 >= 1 factor 0 
+term 0 then 1 factor 0 
+term 0 + 2 factor _factor 0 
+term 0 - 2 factor _factor 0 
+term 0 < 2 factor _factor 0 
+term 0 <= 2 factor _factor 0 
+term 0 <> 2 factor _factor 0 
+term 0 = 2 factor _factor 0 
+term 0 > 2 factor _factor 0 
+term 0 >= 2 factor _factor 0 
+term 0 then 2 factor _factor 0 
+2
+lexp 1 then 1 exp 0 
+lexp 1 then 3 exp lop exp 0 
+30
+lop 0 ( 1 < 0 
+lop 0 + 1 < 0 
+lop 0 - 1 < 0 
+lop 0 id 1 < 0 
+lop 0 integer 1 < 0 
+lop 0 ( 1 <= 0 
+lop 0 + 1 <= 0 
+lop 0 - 1 <= 0 
+lop 0 id 1 <= 0 
+lop 0 integer 1 <= 0 
+lop 0 ( 1 <> 0 
+lop 0 + 1 <> 0 
+lop 0 - 1 <> 0 
+lop 0 id 1 <> 0 
+lop 0 integer 1 <> 0 
+lop 0 ( 1 = 0 
+lop 0 + 1 = 0 
+lop 0 - 1 = 0 
+lop 0 id 1 = 0 
+lop 0 integer 1 = 0 
+lop 0 ( 1 > 0 
+lop 0 + 1 > 0 
+lop 0 - 1 > 0 
+lop 0 id 1 > 0 
+lop 0 integer 1 > 0 
+lop 0 ( 1 >= 0 
+lop 0 + 1 >= 0 
+lop 0 - 1 >= 0 
+lop 0 id 1 >= 0 
+lop 0 integer 1 >= 0 
+18
+term 1 + 1 factor 0 
+term 1 - 1 factor 0 
+term 1 < 1 factor 0 
+term 1 <= 1 factor 0 
+term 1 <> 1 factor 0 
+term 1 = 1 factor 0 
+term 1 > 1 factor 0 
+term 1 >= 1 factor 0 
+term 1 then 1 factor 0 
+term 1 + 2 factor _factor 0 
+term 1 - 2 factor _factor 0 
+term 1 < 2 factor _factor 0 
+term 1 <= 2 factor _factor 0 
+term 1 <> 2 factor _factor 0 
+term 1 = 2 factor _factor 0 
+term 1 > 2 factor _factor 0 
+term 1 >= 2 factor _factor 0 
+term 1 then 2 factor _factor 0 
+24
+_factor 0 + 2 mop factor 0 
+_factor 0 - 2 mop factor 0 
+_factor 0 < 2 mop factor 0 
+_factor 0 <= 2 mop factor 0 
+_factor 0 <> 2 mop factor 0 
+_factor 0 = 2 mop factor 0 
+_factor 0 > 2 mop factor 0 
+_factor 0 >= 2 mop factor 0 
+_factor 0 then 2 mop factor 0 
+_factor 0 + 3 mop factor _factor 0 
+_factor 0 - 3 mop factor _factor 0 
+_factor 0 < 3 mop factor _factor 0 
+_factor 0 <= 3 mop factor _factor 0 
+_factor 0 <> 3 mop factor _factor 0 
+_factor 0 = 3 mop factor _factor 0 
+_factor 0 > 3 mop factor _factor 0 
+_factor 0 >= 3 mop factor _factor 0 
+_factor 0 then 3 mop factor _factor 0 
+mop 0 ( 1 * 0 
+mop 0 id 1 * 0 
+mop 0 integer 1 * 0 
+mop 0 ( 1 / 0 
+mop 0 id 1 / 0 
+mop 0 integer 1 / 0 
+11
+factor 1 * 1 id 0 
+factor 1 + 1 id 0 
+factor 1 - 1 id 0 
+factor 1 / 1 id 0 
+factor 1 < 1 id 0 
+factor 1 <= 1 id 0 
+factor 1 <> 1 id 0 
+factor 1 = 1 id 0 
+factor 1 > 1 id 0 
+factor 1 >= 1 id 0 
+factor 1 then 1 id 0 
+0
+11
+factor 1 * 1 integer 0 
+factor 1 + 1 integer 0 
+factor 1 - 1 integer 0 
+factor 1 / 1 integer 0 
+factor 1 < 1 integer 0 
+factor 1 <= 1 integer 0 
+factor 1 <> 1 integer 0 
+factor 1 = 1 integer 0 
+factor 1 > 1 integer 0 
+factor 1 >= 1 integer 0 
+factor 1 then 1 integer 0 
+0
+16
+statement 2 begin 4 if lexp then statement 0 
+statement 2 call 4 if lexp then statement 0 
+statement 2 end 4 if lexp then statement 0 
+statement 2 id 4 if lexp then statement 0 
+statement 2 if 4 if lexp then statement 0 
+statement 2 read 4 if lexp then statement 0 
+statement 2 while 4 if lexp then statement 0 
+statement 2 write 4 if lexp then statement 0 
+statement 2 begin 6 if lexp then statement else statement 0 
+statement 2 call 6 if lexp then statement else statement 0 
+statement 2 end 6 if lexp then statement else statement 0 
+statement 2 id 6 if lexp then statement else statement 0 
+statement 2 if 6 if lexp then statement else statement 0 
+statement 2 read 6 if lexp then statement else statement 0 
+statement 2 while 6 if lexp then statement else statement 0 
+statement 2 write 6 if lexp then statement else statement 0 
+0
+1
+lexp 1 then 2 odd exp 0 
+27
+exp 0 then 2 + term 0 
+exp 0 then 3 + term _aop 0 
+exp 0 then 2 - term 0 
+exp 0 then 3 - term _aop 0 
+exp 0 then 1 term 0 
+exp 0 then 2 term _aop 0 
+factor 0 * 3 ( exp ) 0 
+factor 0 + 3 ( exp ) 0 
+factor 0 - 3 ( exp ) 0 
+factor 0 / 3 ( exp ) 0 
+factor 0 then 3 ( exp ) 0 
+factor 0 * 1 id 0 
+factor 0 + 1 id 0 
+factor 0 - 1 id 0 
+factor 0 / 1 id 0 
+factor 0 then 1 id 0 
+factor 0 * 1 integer 0 
+factor 0 + 1 integer 0 
+factor 0 - 1 integer 0 
+factor 0 / 1 integer 0 
+factor 0 then 1 integer 0 
+term 0 + 1 factor 0 
+term 0 - 1 factor 0 
+term 0 then 1 factor 0 
+term 0 + 2 factor _factor 0 
+term 0 - 2 factor _factor 0 
+term 0 then 2 factor _factor 0 
+14
+exp 1 < 1 term 0 
+exp 1 <= 1 term 0 
+exp 1 <> 1 term 0 
+exp 1 = 1 term 0 
+exp 1 > 1 term 0 
+exp 1 >= 1 term 0 
+exp 1 then 1 term 0 
+exp 1 < 2 term _aop 0 
+exp 1 <= 2 term _aop 0 
+exp 1 <> 2 term _aop 0 
+exp 1 = 2 term _aop 0 
+exp 1 > 2 term _aop 0 
+exp 1 >= 2 term _aop 0 
+exp 1 then 2 term _aop 0 
+20
+_aop 0 < 2 aop term 0 
+_aop 0 <= 2 aop term 0 
+_aop 0 <> 2 aop term 0 
+_aop 0 = 2 aop term 0 
+_aop 0 > 2 aop term 0 
+_aop 0 >= 2 aop term 0 
+_aop 0 then 2 aop term 0 
+_aop 0 < 3 aop term _aop 0 
+_aop 0 <= 3 aop term _aop 0 
+_aop 0 <> 3 aop term _aop 0 
+_aop 0 = 3 aop term _aop 0 
+_aop 0 > 3 aop term _aop 0 
+_aop 0 >= 3 aop term _aop 0 
+_aop 0 then 3 aop term _aop 0 
+aop 0 ( 1 + 0 
+aop 0 id 1 + 0 
+aop 0 integer 1 + 0 
+aop 0 ( 1 - 0 
+aop 0 id 1 - 0 
+aop 0 integer 1 - 0 
+8
+statement 2 begin 5 read ( _id ) ; 0 
+statement 2 call 5 read ( _id ) ; 0 
+statement 2 end 5 read ( _id ) ; 0 
+statement 2 id 5 read ( _id ) ; 0 
+statement 2 if 5 read ( _id ) ; 0 
+statement 2 read 5 read ( _id ) ; 0 
+statement 2 while 5 read ( _id ) ; 0 
+statement 2 write 5 read ( _id ) ; 0 
+2
+_id 0 ) 1 id 0 
+_id 0 ) 3 id , _id 0 
+1
+_statement 2 end 2 statement _statement 0 
+0
+11
+factor 1 * 3 ( exp ) 0 
+factor 1 + 3 ( exp ) 0 
+factor 1 - 3 ( exp ) 0 
+factor 1 / 3 ( exp ) 0 
+factor 1 < 3 ( exp ) 0 
+factor 1 <= 3 ( exp ) 0 
+factor 1 <> 3 ( exp ) 0 
+factor 1 = 3 ( exp ) 0 
+factor 1 > 3 ( exp ) 0 
+factor 1 >= 3 ( exp ) 0 
+factor 1 do 3 ( exp ) 0 
+27
+exp 0 ) 2 + term 0 
+exp 0 ) 3 + term _aop 0 
+exp 0 ) 2 - term 0 
+exp 0 ) 3 - term _aop 0 
+exp 0 ) 1 term 0 
+exp 0 ) 2 term _aop 0 
+factor 0 ) 3 ( exp ) 0 
+factor 0 * 3 ( exp ) 0 
+factor 0 + 3 ( exp ) 0 
+factor 0 - 3 ( exp ) 0 
+factor 0 / 3 ( exp ) 0 
+factor 0 ) 1 id 0 
+factor 0 * 1 id 0 
+factor 0 + 1 id 0 
+factor 0 - 1 id 0 
+factor 0 / 1 id 0 
+factor 0 ) 1 integer 0 
+factor 0 * 1 integer 0 
+factor 0 + 1 integer 0 
+factor 0 - 1 integer 0 
+factor 0 / 1 integer 0 
+term 0 ) 1 factor 0 
+term 0 + 1 factor 0 
+term 0 - 1 factor 0 
+term 0 ) 2 factor _factor 0 
+term 0 + 2 factor _factor 0 
+term 0 - 2 factor _factor 0 
+14
+exp 1 < 2 + term 0 
+exp 1 <= 2 + term 0 
+exp 1 <> 2 + term 0 
+exp 1 = 2 + term 0 
+exp 1 > 2 + term 0 
+exp 1 >= 2 + term 0 
+exp 1 do 2 + term 0 
+exp 1 < 3 + term _aop 0 
+exp 1 <= 3 + term _aop 0 
+exp 1 <> 3 + term _aop 0 
+exp 1 = 3 + term _aop 0 
+exp 1 > 3 + term _aop 0 
+exp 1 >= 3 + term _aop 0 
+exp 1 do 3 + term _aop 0 
+51
+factor 0 * 3 ( exp ) 0 
+factor 0 + 3 ( exp ) 0 
+factor 0 - 3 ( exp ) 0 
+factor 0 / 3 ( exp ) 0 
+factor 0 < 3 ( exp ) 0 
+factor 0 <= 3 ( exp ) 0 
+factor 0 <> 3 ( exp ) 0 
+factor 0 = 3 ( exp ) 0 
+factor 0 > 3 ( exp ) 0 
+factor 0 >= 3 ( exp ) 0 
+factor 0 do 3 ( exp ) 0 
+factor 0 * 1 id 0 
+factor 0 + 1 id 0 
+factor 0 - 1 id 0 
+factor 0 / 1 id 0 
+factor 0 < 1 id 0 
+factor 0 <= 1 id 0 
+factor 0 <> 1 id 0 
+factor 0 = 1 id 0 
+factor 0 > 1 id 0 
+factor 0 >= 1 id 0 
+factor 0 do 1 id 0 
+factor 0 * 1 integer 0 
+factor 0 + 1 integer 0 
+factor 0 - 1 integer 0 
+factor 0 / 1 integer 0 
+factor 0 < 1 integer 0 
+factor 0 <= 1 integer 0 
+factor 0 <> 1 integer 0 
+factor 0 = 1 integer 0 
+factor 0 > 1 integer 0 
+factor 0 >= 1 integer 0 
+factor 0 do 1 integer 0 
+term 0 + 1 factor 0 
+term 0 - 1 factor 0 
+term 0 < 1 factor 0 
+term 0 <= 1 factor 0 
+term 0 <> 1 factor 0 
+term 0 = 1 factor 0 
+term 0 > 1 factor 0 
+term 0 >= 1 factor 0 
+term 0 do 1 factor 0 
+term 0 + 2 factor _factor 0 
+term 0 - 2 factor _factor 0 
+term 0 < 2 factor _factor 0 
+term 0 <= 2 factor _factor 0 
+term 0 <> 2 factor _factor 0 
+term 0 = 2 factor _factor 0 
+term 0 > 2 factor _factor 0 
+term 0 >= 2 factor _factor 0 
+term 0 do 2 factor _factor 0 
+14
+exp 1 < 2 - term 0 
+exp 1 <= 2 - term 0 
+exp 1 <> 2 - term 0 
+exp 1 = 2 - term 0 
+exp 1 > 2 - term 0 
+exp 1 >= 2 - term 0 
+exp 1 do 2 - term 0 
+exp 1 < 3 - term _aop 0 
+exp 1 <= 3 - term _aop 0 
+exp 1 <> 3 - term _aop 0 
+exp 1 = 3 - term _aop 0 
+exp 1 > 3 - term _aop 0 
+exp 1 >= 3 - term _aop 0 
+exp 1 do 3 - term _aop 0 
+51
+factor 0 * 3 ( exp ) 0 
+factor 0 + 3 ( exp ) 0 
+factor 0 - 3 ( exp ) 0 
+factor 0 / 3 ( exp ) 0 
+factor 0 < 3 ( exp ) 0 
+factor 0 <= 3 ( exp ) 0 
+factor 0 <> 3 ( exp ) 0 
+factor 0 = 3 ( exp ) 0 
+factor 0 > 3 ( exp ) 0 
+factor 0 >= 3 ( exp ) 0 
+factor 0 do 3 ( exp ) 0 
+factor 0 * 1 id 0 
+factor 0 + 1 id 0 
+factor 0 - 1 id 0 
+factor 0 / 1 id 0 
+factor 0 < 1 id 0 
+factor 0 <= 1 id 0 
+factor 0 <> 1 id 0 
+factor 0 = 1 id 0 
+factor 0 > 1 id 0 
+factor 0 >= 1 id 0 
+factor 0 do 1 id 0 
+factor 0 * 1 integer 0 
+factor 0 + 1 integer 0 
+factor 0 - 1 integer 0 
+factor 0 / 1 integer 0 
+factor 0 < 1 integer 0 
+factor 0 <= 1 integer 0 
+factor 0 <> 1 integer 0 
+factor 0 = 1 integer 0 
+factor 0 > 1 integer 0 
+factor 0 >= 1 integer 0 
+factor 0 do 1 integer 0 
+term 0 + 1 factor 0 
+term 0 - 1 factor 0 
+term 0 < 1 factor 0 
+term 0 <= 1 factor 0 
+term 0 <> 1 factor 0 
+term 0 = 1 factor 0 
+term 0 > 1 factor 0 
+term 0 >= 1 factor 0 
+term 0 do 1 factor 0 
+term 0 + 2 factor _factor 0 
+term 0 - 2 factor _factor 0 
+term 0 < 2 factor _factor 0 
+term 0 <= 2 factor _factor 0 
+term 0 <> 2 factor _factor 0 
+term 0 = 2 factor _factor 0 
+term 0 > 2 factor _factor 0 
+term 0 >= 2 factor _factor 0 
+term 0 do 2 factor _factor 0 
+2
+lexp 1 do 1 exp 0 
+lexp 1 do 3 exp lop exp 0 
+30
+lop 0 ( 1 < 0 
+lop 0 + 1 < 0 
+lop 0 - 1 < 0 
+lop 0 id 1 < 0 
+lop 0 integer 1 < 0 
+lop 0 ( 1 <= 0 
+lop 0 + 1 <= 0 
+lop 0 - 1 <= 0 
+lop 0 id 1 <= 0 
+lop 0 integer 1 <= 0 
+lop 0 ( 1 <> 0 
+lop 0 + 1 <> 0 
+lop 0 - 1 <> 0 
+lop 0 id 1 <> 0 
+lop 0 integer 1 <> 0 
+lop 0 ( 1 = 0 
+lop 0 + 1 = 0 
+lop 0 - 1 = 0 
+lop 0 id 1 = 0 
+lop 0 integer 1 = 0 
+lop 0 ( 1 > 0 
+lop 0 + 1 > 0 
+lop 0 - 1 > 0 
+lop 0 id 1 > 0 
+lop 0 integer 1 > 0 
+lop 0 ( 1 >= 0 
+lop 0 + 1 >= 0 
+lop 0 - 1 >= 0 
+lop 0 id 1 >= 0 
+lop 0 integer 1 >= 0 
+18
+term 1 + 1 factor 0 
+term 1 - 1 factor 0 
+term 1 < 1 factor 0 
+term 1 <= 1 factor 0 
+term 1 <> 1 factor 0 
+term 1 = 1 factor 0 
+term 1 > 1 factor 0 
+term 1 >= 1 factor 0 
+term 1 do 1 factor 0 
+term 1 + 2 factor _factor 0 
+term 1 - 2 factor _factor 0 
+term 1 < 2 factor _factor 0 
+term 1 <= 2 factor _factor 0 
+term 1 <> 2 factor _factor 0 
+term 1 = 2 factor _factor 0 
+term 1 > 2 factor _factor 0 
+term 1 >= 2 factor _factor 0 
+term 1 do 2 factor _factor 0 
+24
+_factor 0 + 2 mop factor 0 
+_factor 0 - 2 mop factor 0 
+_factor 0 < 2 mop factor 0 
+_factor 0 <= 2 mop factor 0 
+_factor 0 <> 2 mop factor 0 
+_factor 0 = 2 mop factor 0 
+_factor 0 > 2 mop factor 0 
+_factor 0 >= 2 mop factor 0 
+_factor 0 do 2 mop factor 0 
+_factor 0 + 3 mop factor _factor 0 
+_factor 0 - 3 mop factor _factor 0 
+_factor 0 < 3 mop factor _factor 0 
+_factor 0 <= 3 mop factor _factor 0 
+_factor 0 <> 3 mop factor _factor 0 
+_factor 0 = 3 mop factor _factor 0 
+_factor 0 > 3 mop factor _factor 0 
+_factor 0 >= 3 mop factor _factor 0 
+_factor 0 do 3 mop factor _factor 0 
+mop 0 ( 1 * 0 
+mop 0 id 1 * 0 
+mop 0 integer 1 * 0 
+mop 0 ( 1 / 0 
+mop 0 id 1 / 0 
+mop 0 integer 1 / 0 
+11
+factor 1 * 1 id 0 
+factor 1 + 1 id 0 
+factor 1 - 1 id 0 
+factor 1 / 1 id 0 
+factor 1 < 1 id 0 
+factor 1 <= 1 id 0 
+factor 1 <> 1 id 0 
+factor 1 = 1 id 0 
+factor 1 > 1 id 0 
+factor 1 >= 1 id 0 
+factor 1 do 1 id 0 
+0
+11
+factor 1 * 1 integer 0 
+factor 1 + 1 integer 0 
+factor 1 - 1 integer 0 
+factor 1 / 1 integer 0 
+factor 1 < 1 integer 0 
+factor 1 <= 1 integer 0 
+factor 1 <> 1 integer 0 
+factor 1 = 1 integer 0 
+factor 1 > 1 integer 0 
+factor 1 >= 1 integer 0 
+factor 1 do 1 integer 0 
+0
+8
+statement 2 begin 4 while lexp do statement 0 
+statement 2 call 4 while lexp do statement 0 
+statement 2 end 4 while lexp do statement 0 
+statement 2 id 4 while lexp do statement 0 
+statement 2 if 4 while lexp do statement 0 
+statement 2 read 4 while lexp do statement 0 
+statement 2 while 4 while lexp do statement 0 
+statement 2 write 4 while lexp do statement 0 
+0
+1
+lexp 1 do 2 odd exp 0 
+27
+exp 0 do 2 + term 0 
+exp 0 do 3 + term _aop 0 
+exp 0 do 2 - term 0 
+exp 0 do 3 - term _aop 0 
+exp 0 do 1 term 0 
+exp 0 do 2 term _aop 0 
+factor 0 * 3 ( exp ) 0 
+factor 0 + 3 ( exp ) 0 
+factor 0 - 3 ( exp ) 0 
+factor 0 / 3 ( exp ) 0 
+factor 0 do 3 ( exp ) 0 
+factor 0 * 1 id 0 
+factor 0 + 1 id 0 
+factor 0 - 1 id 0 
+factor 0 / 1 id 0 
+factor 0 do 1 id 0 
+factor 0 * 1 integer 0 
+factor 0 + 1 integer 0 
+factor 0 - 1 integer 0 
+factor 0 / 1 integer 0 
+factor 0 do 1 integer 0 
+term 0 + 1 factor 0 
+term 0 - 1 factor 0 
+term 0 do 1 factor 0 
+term 0 + 2 factor _factor 0 
+term 0 - 2 factor _factor 0 
+term 0 do 2 factor _factor 0 
+14
+exp 1 < 1 term 0 
+exp 1 <= 1 term 0 
+exp 1 <> 1 term 0 
+exp 1 = 1 term 0 
+exp 1 > 1 term 0 
+exp 1 >= 1 term 0 
+exp 1 do 1 term 0 
+exp 1 < 2 term _aop 0 
+exp 1 <= 2 term _aop 0 
+exp 1 <> 2 term _aop 0 
+exp 1 = 2 term _aop 0 
+exp 1 > 2 term _aop 0 
+exp 1 >= 2 term _aop 0 
+exp 1 do 2 term _aop 0 
+20
+_aop 0 < 2 aop term 0 
+_aop 0 <= 2 aop term 0 
+_aop 0 <> 2 aop term 0 
+_aop 0 = 2 aop term 0 
+_aop 0 > 2 aop term 0 
+_aop 0 >= 2 aop term 0 
+_aop 0 do 2 aop term 0 
+_aop 0 < 3 aop term _aop 0 
+_aop 0 <= 3 aop term _aop 0 
+_aop 0 <> 3 aop term _aop 0 
+_aop 0 = 3 aop term _aop 0 
+_aop 0 > 3 aop term _aop 0 
+_aop 0 >= 3 aop term _aop 0 
+_aop 0 do 3 aop term _aop 0 
+aop 0 ( 1 + 0 
+aop 0 id 1 + 0 
+aop 0 integer 1 + 0 
+aop 0 ( 1 - 0 
+aop 0 id 1 - 0 
+aop 0 integer 1 - 0 
+8
+statement 2 begin 5 write ( _exp ) ; 0 
+statement 2 call 5 write ( _exp ) ; 0 
+statement 2 end 5 write ( _exp ) ; 0 
+statement 2 id 5 write ( _exp ) ; 0 
+statement 2 if 5 write ( _exp ) ; 0 
+statement 2 read 5 write ( _exp ) ; 0 
+statement 2 while 5 write ( _exp ) ; 0 
+statement 2 write 5 write ( _exp ) ; 0 
+40
+_exp 0 ) 1 exp 0 
+_exp 0 ) 3 exp , _exp 0 
+exp 0 ) 2 + term 0 
+exp 0 , 2 + term 0 
+exp 0 ) 3 + term _aop 0 
+exp 0 , 3 + term _aop 0 
+exp 0 ) 2 - term 0 
+exp 0 , 2 - term 0 
+exp 0 ) 3 - term _aop 0 
+exp 0 , 3 - term _aop 0 
+exp 0 ) 1 term 0 
+exp 0 , 1 term 0 
+exp 0 ) 2 term _aop 0 
+exp 0 , 2 term _aop 0 
+factor 0 ) 3 ( exp ) 0 
+factor 0 * 3 ( exp ) 0 
+factor 0 + 3 ( exp ) 0 
+factor 0 , 3 ( exp ) 0 
+factor 0 - 3 ( exp ) 0 
+factor 0 / 3 ( exp ) 0 
+factor 0 ) 1 id 0 
+factor 0 * 1 id 0 
+factor 0 + 1 id 0 
+factor 0 , 1 id 0 
+factor 0 - 1 id 0 
+factor 0 / 1 id 0 
+factor 0 ) 1 integer 0 
+factor 0 * 1 integer 0 
+factor 0 + 1 integer 0 
+factor 0 , 1 integer 0 
+factor 0 - 1 integer 0 
+factor 0 / 1 integer 0 
+term 0 ) 1 factor 0 
+term 0 + 1 factor 0 
+term 0 , 1 factor 0 
+term 0 - 1 factor 0 
+term 0 ) 2 factor _factor 0 
+term 0 + 2 factor _factor 0 
+term 0 , 2 factor _factor 0 
+term 0 - 2 factor _factor 0 
+1
+block 3 end 3 condecl ; body 0 
+0
+1
+block 3 end 4 condecl ; proc body 0 
+2
+body 0 end 3 begin _statement end 0 
+body 0 end 2 begin end 0 
+2
+block 3 end 5 condecl ; vardecl ; body 0 
+block 3 end 6 condecl ; vardecl ; proc body 0 
+0
+1
+_constv 2 ; 3 constv , _constv 0 
+4
+_constv 0 ; 1 constv 0 
+_constv 0 ; 3 constv , _constv 0 
+constv 0 , 3 id := integer 0 
+constv 0 ; 3 id := integer 0 
+2
+constv 2 , 3 id := integer 0 
+constv 2 ; 3 id := integer 0 
+0
+2
+arg 1 ; 2 ( ) 0 
+arg 1 ; 3 ( _id ) 0 
+2
+_id 0 ) 1 id 0 
+_id 0 ) 3 id , _id 0 
+2
+proc 3 begin 5 procedure id arg ; block 0 
+proc 3 begin 6 procedure id arg ; block _proc 0 
+0
+1
+_id 2 ; 3 id , _id 0 
+2
+_id 0 ; 1 id 0 
+_id 0 ; 3 id , _id 0 
+1
+block 3 end 3 vardecl ; body 0 
+0
+1
+block 3 end 4 vardecl ; proc body 0 
+2
+body 0 end 3 begin _statement end 0 
+body 0 end 2 begin end 0 
+8
+body 3 begin 3 begin _statement end 0 
+body 3 call 3 begin _statement end 0 
+body 3 end 3 begin _statement end 0 
+body 3 id 3 begin _statement end 0 
+body 3 if 3 begin _statement end 0 
+body 3 read 3 begin _statement end 0 
+body 3 while 3 begin _statement end 0 
+body 3 write 3 begin _statement end 0 
+0
+8
+statement 3 begin 6 call id ( _exp ) ; 0 
+statement 3 call 6 call id ( _exp ) ; 0 
+statement 3 end 6 call id ( _exp ) ; 0 
+statement 3 id 6 call id ( _exp ) ; 0 
+statement 3 if 6 call id ( _exp ) ; 0 
+statement 3 read 6 call id ( _exp ) ; 0 
+statement 3 while 6 call id ( _exp ) ; 0 
+statement 3 write 6 call id ( _exp ) ; 0 
+40
+_exp 0 ) 1 exp 0 
+_exp 0 ) 3 exp , _exp 0 
+exp 0 ) 2 + term 0 
+exp 0 , 2 + term 0 
+exp 0 ) 3 + term _aop 0 
+exp 0 , 3 + term _aop 0 
+exp 0 ) 2 - term 0 
+exp 0 , 2 - term 0 
+exp 0 ) 3 - term _aop 0 
+exp 0 , 3 - term _aop 0 
+exp 0 ) 1 term 0 
+exp 0 , 1 term 0 
+exp 0 ) 2 term _aop 0 
+exp 0 , 2 term _aop 0 
+factor 0 ) 3 ( exp ) 0 
+factor 0 * 3 ( exp ) 0 
+factor 0 + 3 ( exp ) 0 
+factor 0 , 3 ( exp ) 0 
+factor 0 - 3 ( exp ) 0 
+factor 0 / 3 ( exp ) 0 
+factor 0 ) 1 id 0 
+factor 0 * 1 id 0 
+factor 0 + 1 id 0 
+factor 0 , 1 id 0 
+factor 0 - 1 id 0 
+factor 0 / 1 id 0 
+factor 0 ) 1 integer 0 
+factor 0 * 1 integer 0 
+factor 0 + 1 integer 0 
+factor 0 , 1 integer 0 
+factor 0 - 1 integer 0 
+factor 0 / 1 integer 0 
+term 0 ) 1 factor 0 
+term 0 + 1 factor 0 
+term 0 , 1 factor 0 
+term 0 - 1 factor 0 
+term 0 ) 2 factor _factor 0 
+term 0 + 2 factor _factor 0 
+term 0 , 2 factor _factor 0 
+term 0 - 2 factor _factor 0 
+8
+statement 3 begin 3 call id ; 0 
+statement 3 call 3 call id ; 0 
+statement 3 end 3 call id ; 0 
+statement 3 id 3 call id ; 0 
+statement 3 if 3 call id ; 0 
+statement 3 read 3 call id ; 0 
+statement 3 while 3 call id ; 0 
+statement 3 write 3 call id ; 0 
+0
+5
+factor 1 * 3 ( exp ) 0 
+factor 1 + 3 ( exp ) 0 
+factor 1 - 3 ( exp ) 0 
+factor 1 / 3 ( exp ) 0 
+factor 1 ; 3 ( exp ) 0 
+27
+exp 0 ) 2 + term 0 
+exp 0 ) 3 + term _aop 0 
+exp 0 ) 2 - term 0 
+exp 0 ) 3 - term _aop 0 
+exp 0 ) 1 term 0 
+exp 0 ) 2 term _aop 0 
+factor 0 ) 3 ( exp ) 0 
+factor 0 * 3 ( exp ) 0 
+factor 0 + 3 ( exp ) 0 
+factor 0 - 3 ( exp ) 0 
+factor 0 / 3 ( exp ) 0 
+factor 0 ) 1 id 0 
+factor 0 * 1 id 0 
+factor 0 + 1 id 0 
+factor 0 - 1 id 0 
+factor 0 / 1 id 0 
+factor 0 ) 1 integer 0 
+factor 0 * 1 integer 0 
+factor 0 + 1 integer 0 
+factor 0 - 1 integer 0 
+factor 0 / 1 integer 0 
+term 0 ) 1 factor 0 
+term 0 + 1 factor 0 
+term 0 - 1 factor 0 
+term 0 ) 2 factor _factor 0 
+term 0 + 2 factor _factor 0 
+term 0 - 2 factor _factor 0 
+2
+exp 1 ; 2 + term 0 
+exp 1 ; 3 + term _aop 0 
+21
+factor 0 * 3 ( exp ) 0 
+factor 0 + 3 ( exp ) 0 
+factor 0 - 3 ( exp ) 0 
+factor 0 / 3 ( exp ) 0 
+factor 0 ; 3 ( exp ) 0 
+factor 0 * 1 id 0 
+factor 0 + 1 id 0 
+factor 0 - 1 id 0 
+factor 0 / 1 id 0 
+factor 0 ; 1 id 0 
+factor 0 * 1 integer 0 
+factor 0 + 1 integer 0 
+factor 0 - 1 integer 0 
+factor 0 / 1 integer 0 
+factor 0 ; 1 integer 0 
+term 0 + 1 factor 0 
+term 0 - 1 factor 0 
+term 0 ; 1 factor 0 
+term 0 + 2 factor _factor 0 
+term 0 - 2 factor _factor 0 
+term 0 ; 2 factor _factor 0 
+2
+exp 1 ; 2 - term 0 
+exp 1 ; 3 - term _aop 0 
+21
+factor 0 * 3 ( exp ) 0 
+factor 0 + 3 ( exp ) 0 
+factor 0 - 3 ( exp ) 0 
+factor 0 / 3 ( exp ) 0 
+factor 0 ; 3 ( exp ) 0 
+factor 0 * 1 id 0 
+factor 0 + 1 id 0 
+factor 0 - 1 id 0 
+factor 0 / 1 id 0 
+factor 0 ; 1 id 0 
+factor 0 * 1 integer 0 
+factor 0 + 1 integer 0 
+factor 0 - 1 integer 0 
+factor 0 / 1 integer 0 
+factor 0 ; 1 integer 0 
+term 0 + 1 factor 0 
+term 0 - 1 factor 0 
+term 0 ; 1 factor 0 
+term 0 + 2 factor _factor 0 
+term 0 - 2 factor _factor 0 
+term 0 ; 2 factor _factor 0 
+8
+statement 3 begin 4 id := exp ; 0 
+statement 3 call 4 id := exp ; 0 
+statement 3 end 4 id := exp ; 0 
+statement 3 id 4 id := exp ; 0 
+statement 3 if 4 id := exp ; 0 
+statement 3 read 4 id := exp ; 0 
+statement 3 while 4 id := exp ; 0 
+statement 3 write 4 id := exp ; 0 
+0
+6
+term 1 + 1 factor 0 
+term 1 - 1 factor 0 
+term 1 ; 1 factor 0 
+term 1 + 2 factor _factor 0 
+term 1 - 2 factor _factor 0 
+term 1 ; 2 factor _factor 0 
+12
+_factor 0 + 2 mop factor 0 
+_factor 0 - 2 mop factor 0 
+_factor 0 ; 2 mop factor 0 
+_factor 0 + 3 mop factor _factor 0 
+_factor 0 - 3 mop factor _factor 0 
+_factor 0 ; 3 mop factor _factor 0 
+mop 0 ( 1 * 0 
+mop 0 id 1 * 0 
+mop 0 integer 1 * 0 
+mop 0 ( 1 / 0 
+mop 0 id 1 / 0 
+mop 0 integer 1 / 0 
+5
+factor 1 * 1 id 0 
+factor 1 + 1 id 0 
+factor 1 - 1 id 0 
+factor 1 / 1 id 0 
+factor 1 ; 1 id 0 
+0
+5
+factor 1 * 1 integer 0 
+factor 1 + 1 integer 0 
+factor 1 - 1 integer 0 
+factor 1 / 1 integer 0 
+factor 1 ; 1 integer 0 
+0
+2
+exp 1 ; 1 term 0 
+exp 1 ; 2 term _aop 0 
+8
+_aop 0 ; 2 aop term 0 
+_aop 0 ; 3 aop term _aop 0 
+aop 0 ( 1 + 0 
+aop 0 id 1 + 0 
+aop 0 integer 1 + 0 
+aop 0 ( 1 - 0 
+aop 0 id 1 - 0 
+aop 0 integer 1 - 0 
+5
+factor 1 ) 3 ( exp ) 0 
+factor 1 * 3 ( exp ) 0 
+factor 1 + 3 ( exp ) 0 
+factor 1 - 3 ( exp ) 0 
+factor 1 / 3 ( exp ) 0 
+27
+exp 0 ) 2 + term 0 
+exp 0 ) 3 + term _aop 0 
+exp 0 ) 2 - term 0 
+exp 0 ) 3 - term _aop 0 
+exp 0 ) 1 term 0 
+exp 0 ) 2 term _aop 0 
+factor 0 ) 3 ( exp ) 0 
+factor 0 * 3 ( exp ) 0 
+factor 0 + 3 ( exp ) 0 
+factor 0 - 3 ( exp ) 0 
+factor 0 / 3 ( exp ) 0 
+factor 0 ) 1 id 0 
+factor 0 * 1 id 0 
+factor 0 + 1 id 0 
+factor 0 - 1 id 0 
+factor 0 / 1 id 0 
+factor 0 ) 1 integer 0 
+factor 0 * 1 integer 0 
+factor 0 + 1 integer 0 
+factor 0 - 1 integer 0 
+factor 0 / 1 integer 0 
+term 0 ) 1 factor 0 
+term 0 + 1 factor 0 
+term 0 - 1 factor 0 
+term 0 ) 2 factor _factor 0 
+term 0 + 2 factor _factor 0 
+term 0 - 2 factor _factor 0 
+2
+exp 1 ) 2 + term 0 
+exp 1 ) 3 + term _aop 0 
+21
+factor 0 ) 3 ( exp ) 0 
+factor 0 * 3 ( exp ) 0 
+factor 0 + 3 ( exp ) 0 
+factor 0 - 3 ( exp ) 0 
+factor 0 / 3 ( exp ) 0 
+factor 0 ) 1 id 0 
+factor 0 * 1 id 0 
+factor 0 + 1 id 0 
+factor 0 - 1 id 0 
+factor 0 / 1 id 0 
+factor 0 ) 1 integer 0 
+factor 0 * 1 integer 0 
+factor 0 + 1 integer 0 
+factor 0 - 1 integer 0 
+factor 0 / 1 integer 0 
+term 0 ) 1 factor 0 
+term 0 + 1 factor 0 
+term 0 - 1 factor 0 
+term 0 ) 2 factor _factor 0 
+term 0 + 2 factor _factor 0 
+term 0 - 2 factor _factor 0 
+2
+exp 1 ) 2 - term 0 
+exp 1 ) 3 - term _aop 0 
+21
+factor 0 ) 3 ( exp ) 0 
+factor 0 * 3 ( exp ) 0 
+factor 0 + 3 ( exp ) 0 
+factor 0 - 3 ( exp ) 0 
+factor 0 / 3 ( exp ) 0 
+factor 0 ) 1 id 0 
+factor 0 * 1 id 0 
+factor 0 + 1 id 0 
+factor 0 - 1 id 0 
+factor 0 / 1 id 0 
+factor 0 ) 1 integer 0 
+factor 0 * 1 integer 0 
+factor 0 + 1 integer 0 
+factor 0 - 1 integer 0 
+factor 0 / 1 integer 0 
+term 0 ) 1 factor 0 
+term 0 + 1 factor 0 
+term 0 - 1 factor 0 
+term 0 ) 2 factor _factor 0 
+term 0 + 2 factor _factor 0 
+term 0 - 2 factor _factor 0 
+11
+factor 2 * 3 ( exp ) 0 
+factor 2 + 3 ( exp ) 0 
+factor 2 - 3 ( exp ) 0 
+factor 2 / 3 ( exp ) 0 
+factor 2 < 3 ( exp ) 0 
+factor 2 <= 3 ( exp ) 0 
+factor 2 <> 3 ( exp ) 0 
+factor 2 = 3 ( exp ) 0 
+factor 2 > 3 ( exp ) 0 
+factor 2 >= 3 ( exp ) 0 
+factor 2 then 3 ( exp ) 0 
+0
+6
+term 1 ) 1 factor 0 
+term 1 + 1 factor 0 
+term 1 - 1 factor 0 
+term 1 ) 2 factor _factor 0 
+term 1 + 2 factor _factor 0 
+term 1 - 2 factor _factor 0 
+12
+_factor 0 ) 2 mop factor 0 
+_factor 0 + 2 mop factor 0 
+_factor 0 - 2 mop factor 0 
+_factor 0 ) 3 mop factor _factor 0 
+_factor 0 + 3 mop factor _factor 0 
+_factor 0 - 3 mop factor _factor 0 
+mop 0 ( 1 * 0 
+mop 0 id 1 * 0 
+mop 0 integer 1 * 0 
+mop 0 ( 1 / 0 
+mop 0 id 1 / 0 
+mop 0 integer 1 / 0 
+5
+factor 1 ) 1 id 0 
+factor 1 * 1 id 0 
+factor 1 + 1 id 0 
+factor 1 - 1 id 0 
+factor 1 / 1 id 0 
+0
+5
+factor 1 ) 1 integer 0 
+factor 1 * 1 integer 0 
+factor 1 + 1 integer 0 
+factor 1 - 1 integer 0 
+factor 1 / 1 integer 0 
+0
+2
+exp 1 ) 1 term 0 
+exp 1 ) 2 term _aop 0 
+8
+_aop 0 ) 2 aop term 0 
+_aop 0 ) 3 aop term _aop 0 
+aop 0 ( 1 + 0 
+aop 0 id 1 + 0 
+aop 0 integer 1 + 0 
+aop 0 ( 1 - 0 
+aop 0 id 1 - 0 
+aop 0 integer 1 - 0 
+14
+exp 2 < 2 + term 0 
+exp 2 <= 2 + term 0 
+exp 2 <> 2 + term 0 
+exp 2 = 2 + term 0 
+exp 2 > 2 + term 0 
+exp 2 >= 2 + term 0 
+exp 2 then 2 + term 0 
+exp 2 < 3 + term _aop 0 
+exp 2 <= 3 + term _aop 0 
+exp 2 <> 3 + term _aop 0 
+exp 2 = 3 + term _aop 0 
+exp 2 > 3 + term _aop 0 
+exp 2 >= 3 + term _aop 0 
+exp 2 then 3 + term _aop 0 
+20
+_aop 0 < 2 aop term 0 
+_aop 0 <= 2 aop term 0 
+_aop 0 <> 2 aop term 0 
+_aop 0 = 2 aop term 0 
+_aop 0 > 2 aop term 0 
+_aop 0 >= 2 aop term 0 
+_aop 0 then 2 aop term 0 
+_aop 0 < 3 aop term _aop 0 
+_aop 0 <= 3 aop term _aop 0 
+_aop 0 <> 3 aop term _aop 0 
+_aop 0 = 3 aop term _aop 0 
+_aop 0 > 3 aop term _aop 0 
+_aop 0 >= 3 aop term _aop 0 
+_aop 0 then 3 aop term _aop 0 
+aop 0 ( 1 + 0 
+aop 0 id 1 + 0 
+aop 0 integer 1 + 0 
+aop 0 ( 1 - 0 
+aop 0 id 1 - 0 
+aop 0 integer 1 - 0 
+14
+exp 2 < 2 - term 0 
+exp 2 <= 2 - term 0 
+exp 2 <> 2 - term 0 
+exp 2 = 2 - term 0 
+exp 2 > 2 - term 0 
+exp 2 >= 2 - term 0 
+exp 2 then 2 - term 0 
+exp 2 < 3 - term _aop 0 
+exp 2 <= 3 - term _aop 0 
+exp 2 <> 3 - term _aop 0 
+exp 2 = 3 - term _aop 0 
+exp 2 > 3 - term _aop 0 
+exp 2 >= 3 - term _aop 0 
+exp 2 then 3 - term _aop 0 
+20
+_aop 0 < 2 aop term 0 
+_aop 0 <= 2 aop term 0 
+_aop 0 <> 2 aop term 0 
+_aop 0 = 2 aop term 0 
+_aop 0 > 2 aop term 0 
+_aop 0 >= 2 aop term 0 
+_aop 0 then 2 aop term 0 
+_aop 0 < 3 aop term _aop 0 
+_aop 0 <= 3 aop term _aop 0 
+_aop 0 <> 3 aop term _aop 0 
+_aop 0 = 3 aop term _aop 0 
+_aop 0 > 3 aop term _aop 0 
+_aop 0 >= 3 aop term _aop 0 
+_aop 0 then 3 aop term _aop 0 
+aop 0 ( 1 + 0 
+aop 0 id 1 + 0 
+aop 0 integer 1 + 0 
+aop 0 ( 1 - 0 
+aop 0 id 1 - 0 
+aop 0 integer 1 - 0 
+5
+lop 1 ( 1 < 0 
+lop 1 + 1 < 0 
+lop 1 - 1 < 0 
+lop 1 id 1 < 0 
+lop 1 integer 1 < 0 
+0
+5
+lop 1 ( 1 <= 0 
+lop 1 + 1 <= 0 
+lop 1 - 1 <= 0 
+lop 1 id 1 <= 0 
+lop 1 integer 1 <= 0 
+0
+5
+lop 1 ( 1 <> 0 
+lop 1 + 1 <> 0 
+lop 1 - 1 <> 0 
+lop 1 id 1 <> 0 
+lop 1 integer 1 <> 0 
+0
+5
+lop 1 ( 1 = 0 
+lop 1 + 1 = 0 
+lop 1 - 1 = 0 
+lop 1 id 1 = 0 
+lop 1 integer 1 = 0 
+0
+5
+lop 1 ( 1 > 0 
+lop 1 + 1 > 0 
+lop 1 - 1 > 0 
+lop 1 id 1 > 0 
+lop 1 integer 1 > 0 
+0
+5
+lop 1 ( 1 >= 0 
+lop 1 + 1 >= 0 
+lop 1 - 1 >= 0 
+lop 1 id 1 >= 0 
+lop 1 integer 1 >= 0 
+0
+1
+lexp 2 then 3 exp lop exp 0 
+27
+exp 0 then 2 + term 0 
+exp 0 then 3 + term _aop 0 
+exp 0 then 2 - term 0 
+exp 0 then 3 - term _aop 0 
+exp 0 then 1 term 0 
+exp 0 then 2 term _aop 0 
+factor 0 * 3 ( exp ) 0 
+factor 0 + 3 ( exp ) 0 
+factor 0 - 3 ( exp ) 0 
+factor 0 / 3 ( exp ) 0 
+factor 0 then 3 ( exp ) 0 
+factor 0 * 1 id 0 
+factor 0 + 1 id 0 
+factor 0 - 1 id 0 
+factor 0 / 1 id 0 
+factor 0 then 1 id 0 
+factor 0 * 1 integer 0 
+factor 0 + 1 integer 0 
+factor 0 - 1 integer 0 
+factor 0 / 1 integer 0 
+factor 0 then 1 integer 0 
+term 0 + 1 factor 0 
+term 0 - 1 factor 0 
+term 0 then 1 factor 0 
+term 0 + 2 factor _factor 0 
+term 0 - 2 factor _factor 0 
+term 0 then 2 factor _factor 0 
+3
+mop 1 ( 1 * 0 
+mop 1 id 1 * 0 
+mop 1 integer 1 * 0 
+0
+3
+mop 1 ( 1 / 0 
+mop 1 id 1 / 0 
+mop 1 integer 1 / 0 
+0
+9
+term 2 + 2 factor _factor 0 
+term 2 - 2 factor _factor 0 
+term 2 < 2 factor _factor 0 
+term 2 <= 2 factor _factor 0 
+term 2 <> 2 factor _factor 0 
+term 2 = 2 factor _factor 0 
+term 2 > 2 factor _factor 0 
+term 2 >= 2 factor _factor 0 
+term 2 then 2 factor _factor 0 
+0
+18
+_factor 1 + 2 mop factor 0 
+_factor 1 - 2 mop factor 0 
+_factor 1 < 2 mop factor 0 
+_factor 1 <= 2 mop factor 0 
+_factor 1 <> 2 mop factor 0 
+_factor 1 = 2 mop factor 0 
+_factor 1 > 2 mop factor 0 
+_factor 1 >= 2 mop factor 0 
+_factor 1 then 2 mop factor 0 
+_factor 1 + 3 mop factor _factor 0 
+_factor 1 - 3 mop factor _factor 0 
+_factor 1 < 3 mop factor _factor 0 
+_factor 1 <= 3 mop factor _factor 0 
+_factor 1 <> 3 mop factor _factor 0 
+_factor 1 = 3 mop factor _factor 0 
+_factor 1 > 3 mop factor _factor 0 
+_factor 1 >= 3 mop factor _factor 0 
+_factor 1 then 3 mop factor _factor 0 
+33
+factor 0 * 3 ( exp ) 0 
+factor 0 + 3 ( exp ) 0 
+factor 0 - 3 ( exp ) 0 
+factor 0 / 3 ( exp ) 0 
+factor 0 < 3 ( exp ) 0 
+factor 0 <= 3 ( exp ) 0 
+factor 0 <> 3 ( exp ) 0 
+factor 0 = 3 ( exp ) 0 
+factor 0 > 3 ( exp ) 0 
+factor 0 >= 3 ( exp ) 0 
+factor 0 then 3 ( exp ) 0 
+factor 0 * 1 id 0 
+factor 0 + 1 id 0 
+factor 0 - 1 id 0 
+factor 0 / 1 id 0 
+factor 0 < 1 id 0 
+factor 0 <= 1 id 0 
+factor 0 <> 1 id 0 
+factor 0 = 1 id 0 
+factor 0 > 1 id 0 
+factor 0 >= 1 id 0 
+factor 0 then 1 id 0 
+factor 0 * 1 integer 0 
+factor 0 + 1 integer 0 
+factor 0 - 1 integer 0 
+factor 0 / 1 integer 0 
+factor 0 < 1 integer 0 
+factor 0 <= 1 integer 0 
+factor 0 <> 1 integer 0 
+factor 0 = 1 integer 0 
+factor 0 > 1 integer 0 
+factor 0 >= 1 integer 0 
+factor 0 then 1 integer 0 
+16
+statement 3 begin 4 if lexp then statement 0 
+statement 3 call 4 if lexp then statement 0 
+statement 3 end 4 if lexp then statement 0 
+statement 3 id 4 if lexp then statement 0 
+statement 3 if 4 if lexp then statement 0 
+statement 3 read 4 if lexp then statement 0 
+statement 3 while 4 if lexp then statement 0 
+statement 3 write 4 if lexp then statement 0 
+statement 3 begin 6 if lexp then statement else statement 0 
+statement 3 call 6 if lexp then statement else statement 0 
+statement 3 end 6 if lexp then statement else statement 0 
+statement 3 id 6 if lexp then statement else statement 0 
+statement 3 if 6 if lexp then statement else statement 0 
+statement 3 read 6 if lexp then statement else statement 0 
+statement 3 while 6 if lexp then statement else statement 0 
+statement 3 write 6 if lexp then statement else statement 0 
+99
+body 0 begin 3 begin _statement end 0 
+body 0 call 3 begin _statement end 0 
+body 0 else 3 begin _statement end 0 
+body 0 end 3 begin _statement end 0 
+body 0 id 3 begin _statement end 0 
+body 0 if 3 begin _statement end 0 
+body 0 read 3 begin _statement end 0 
+body 0 while 3 begin _statement end 0 
+body 0 write 3 begin _statement end 0 
+body 0 begin 2 begin end 0 
+body 0 call 2 begin end 0 
+body 0 else 2 begin end 0 
+body 0 end 2 begin end 0 
+body 0 id 2 begin end 0 
+body 0 if 2 begin end 0 
+body 0 read 2 begin end 0 
+body 0 while 2 begin end 0 
+body 0 write 2 begin end 0 
+statement 0 begin 1 body 0 
+statement 0 call 1 body 0 
+statement 0 else 1 body 0 
+statement 0 end 1 body 0 
+statement 0 id 1 body 0 
+statement 0 if 1 body 0 
+statement 0 read 1 body 0 
+statement 0 while 1 body 0 
+statement 0 write 1 body 0 
+statement 0 begin 6 call id ( _exp ) ; 0 
+statement 0 call 6 call id ( _exp ) ; 0 
+statement 0 else 6 call id ( _exp ) ; 0 
+statement 0 end 6 call id ( _exp ) ; 0 
+statement 0 id 6 call id ( _exp ) ; 0 
+statement 0 if 6 call id ( _exp ) ; 0 
+statement 0 read 6 call id ( _exp ) ; 0 
+statement 0 while 6 call id ( _exp ) ; 0 
+statement 0 write 6 call id ( _exp ) ; 0 
+statement 0 begin 3 call id ; 0 
+statement 0 call 3 call id ; 0 
+statement 0 else 3 call id ; 0 
+statement 0 end 3 call id ; 0 
+statement 0 id 3 call id ; 0 
+statement 0 if 3 call id ; 0 
+statement 0 read 3 call id ; 0 
+statement 0 while 3 call id ; 0 
+statement 0 write 3 call id ; 0 
+statement 0 begin 4 id := exp ; 0 
+statement 0 call 4 id := exp ; 0 
+statement 0 else 4 id := exp ; 0 
+statement 0 end 4 id := exp ; 0 
+statement 0 id 4 id := exp ; 0 
+statement 0 if 4 id := exp ; 0 
+statement 0 read 4 id := exp ; 0 
+statement 0 while 4 id := exp ; 0 
+statement 0 write 4 id := exp ; 0 
+statement 0 begin 4 if lexp then statement 0 
+statement 0 call 4 if lexp then statement 0 
+statement 0 else 4 if lexp then statement 0 
+statement 0 end 4 if lexp then statement 0 
+statement 0 id 4 if lexp then statement 0 
+statement 0 if 4 if lexp then statement 0 
+statement 0 read 4 if lexp then statement 0 
+statement 0 while 4 if lexp then statement 0 
+statement 0 write 4 if lexp then statement 0 
+statement 0 begin 6 if lexp then statement else statement 0 
+statement 0 call 6 if lexp then statement else statement 0 
+statement 0 else 6 if lexp then statement else statement 0 
+statement 0 end 6 if lexp then statement else statement 0 
+statement 0 id 6 if lexp then statement else statement 0 
+statement 0 if 6 if lexp then statement else statement 0 
+statement 0 read 6 if lexp then statement else statement 0 
+statement 0 while 6 if lexp then statement else statement 0 
+statement 0 write 6 if lexp then statement else statement 0 
+statement 0 begin 5 read ( _id ) ; 0 
+statement 0 call 5 read ( _id ) ; 0 
+statement 0 else 5 read ( _id ) ; 0 
+statement 0 end 5 read ( _id ) ; 0 
+statement 0 id 5 read ( _id ) ; 0 
+statement 0 if 5 read ( _id ) ; 0 
+statement 0 read 5 read ( _id ) ; 0 
+statement 0 while 5 read ( _id ) ; 0 
+statement 0 write 5 read ( _id ) ; 0 
+statement 0 begin 4 while lexp do statement 0 
+statement 0 call 4 while lexp do statement 0 
+statement 0 else 4 while lexp do statement 0 
+statement 0 end 4 while lexp do statement 0 
+statement 0 id 4 while lexp do statement 0 
+statement 0 if 4 while lexp do statement 0 
+statement 0 read 4 while lexp do statement 0 
+statement 0 while 4 while lexp do statement 0 
+statement 0 write 4 while lexp do statement 0 
+statement 0 begin 5 write ( _exp ) ; 0 
+statement 0 call 5 write ( _exp ) ; 0 
+statement 0 else 5 write ( _exp ) ; 0 
+statement 0 end 5 write ( _exp ) ; 0 
+statement 0 id 5 write ( _exp ) ; 0 
+statement 0 if 5 write ( _exp ) ; 0 
+statement 0 read 5 write ( _exp ) ; 0 
+statement 0 while 5 write ( _exp ) ; 0 
+statement 0 write 5 write ( _exp ) ; 0 
+5
+factor 1 * 3 ( exp ) 0 
+factor 1 + 3 ( exp ) 0 
+factor 1 - 3 ( exp ) 0 
+factor 1 / 3 ( exp ) 0 
+factor 1 then 3 ( exp ) 0 
+27
+exp 0 ) 2 + term 0 
+exp 0 ) 3 + term _aop 0 
+exp 0 ) 2 - term 0 
+exp 0 ) 3 - term _aop 0 
+exp 0 ) 1 term 0 
+exp 0 ) 2 term _aop 0 
+factor 0 ) 3 ( exp ) 0 
+factor 0 * 3 ( exp ) 0 
+factor 0 + 3 ( exp ) 0 
+factor 0 - 3 ( exp ) 0 
+factor 0 / 3 ( exp ) 0 
+factor 0 ) 1 id 0 
+factor 0 * 1 id 0 
+factor 0 + 1 id 0 
+factor 0 - 1 id 0 
+factor 0 / 1 id 0 
+factor 0 ) 1 integer 0 
+factor 0 * 1 integer 0 
+factor 0 + 1 integer 0 
+factor 0 - 1 integer 0 
+factor 0 / 1 integer 0 
+term 0 ) 1 factor 0 
+term 0 + 1 factor 0 
+term 0 - 1 factor 0 
+term 0 ) 2 factor _factor 0 
+term 0 + 2 factor _factor 0 
+term 0 - 2 factor _factor 0 
+2
+exp 1 then 2 + term 0 
+exp 1 then 3 + term _aop 0 
+21
+factor 0 * 3 ( exp ) 0 
+factor 0 + 3 ( exp ) 0 
+factor 0 - 3 ( exp ) 0 
+factor 0 / 3 ( exp ) 0 
+factor 0 then 3 ( exp ) 0 
+factor 0 * 1 id 0 
+factor 0 + 1 id 0 
+factor 0 - 1 id 0 
+factor 0 / 1 id 0 
+factor 0 then 1 id 0 
+factor 0 * 1 integer 0 
+factor 0 + 1 integer 0 
+factor 0 - 1 integer 0 
+factor 0 / 1 integer 0 
+factor 0 then 1 integer 0 
+term 0 + 1 factor 0 
+term 0 - 1 factor 0 
+term 0 then 1 factor 0 
+term 0 + 2 factor _factor 0 
+term 0 - 2 factor _factor 0 
+term 0 then 2 factor _factor 0 
+2
+exp 1 then 2 - term 0 
+exp 1 then 3 - term _aop 0 
+21
+factor 0 * 3 ( exp ) 0 
+factor 0 + 3 ( exp ) 0 
+factor 0 - 3 ( exp ) 0 
+factor 0 / 3 ( exp ) 0 
+factor 0 then 3 ( exp ) 0 
+factor 0 * 1 id 0 
+factor 0 + 1 id 0 
+factor 0 - 1 id 0 
+factor 0 / 1 id 0 
+factor 0 then 1 id 0 
+factor 0 * 1 integer 0 
+factor 0 + 1 integer 0 
+factor 0 - 1 integer 0 
+factor 0 / 1 integer 0 
+factor 0 then 1 integer 0 
+term 0 + 1 factor 0 
+term 0 - 1 factor 0 
+term 0 then 1 factor 0 
+term 0 + 2 factor _factor 0 
+term 0 - 2 factor _factor 0 
+term 0 then 2 factor _factor 0 
+1
+lexp 2 then 2 odd exp 0 
+0
+6
+term 1 + 1 factor 0 
+term 1 - 1 factor 0 
+term 1 then 1 factor 0 
+term 1 + 2 factor _factor 0 
+term 1 - 2 factor _factor 0 
+term 1 then 2 factor _factor 0 
+12
+_factor 0 + 2 mop factor 0 
+_factor 0 - 2 mop factor 0 
+_factor 0 then 2 mop factor 0 
+_factor 0 + 3 mop factor _factor 0 
+_factor 0 - 3 mop factor _factor 0 
+_factor 0 then 3 mop factor _factor 0 
+mop 0 ( 1 * 0 
+mop 0 id 1 * 0 
+mop 0 integer 1 * 0 
+mop 0 ( 1 / 0 
+mop 0 id 1 / 0 
+mop 0 integer 1 / 0 
+5
+factor 1 * 1 id 0 
+factor 1 + 1 id 0 
+factor 1 - 1 id 0 
+factor 1 / 1 id 0 
+factor 1 then 1 id 0 
+0
+5
+factor 1 * 1 integer 0 
+factor 1 + 1 integer 0 
+factor 1 - 1 integer 0 
+factor 1 / 1 integer 0 
+factor 1 then 1 integer 0 
+0
+2
+exp 1 then 1 term 0 
+exp 1 then 2 term _aop 0 
+8
+_aop 0 then 2 aop term 0 
+_aop 0 then 3 aop term _aop 0 
+aop 0 ( 1 + 0 
+aop 0 id 1 + 0 
+aop 0 integer 1 + 0 
+aop 0 ( 1 - 0 
+aop 0 id 1 - 0 
+aop 0 integer 1 - 0 
+3
+aop 1 ( 1 + 0 
+aop 1 id 1 + 0 
+aop 1 integer 1 + 0 
+0
+3
+aop 1 ( 1 - 0 
+aop 1 id 1 - 0 
+aop 1 integer 1 - 0 
+0
+7
+exp 2 < 2 term _aop 0 
+exp 2 <= 2 term _aop 0 
+exp 2 <> 2 term _aop 0 
+exp 2 = 2 term _aop 0 
+exp 2 > 2 term _aop 0 
+exp 2 >= 2 term _aop 0 
+exp 2 then 2 term _aop 0 
+0
+14
+_aop 1 < 2 aop term 0 
+_aop 1 <= 2 aop term 0 
+_aop 1 <> 2 aop term 0 
+_aop 1 = 2 aop term 0 
+_aop 1 > 2 aop term 0 
+_aop 1 >= 2 aop term 0 
+_aop 1 then 2 aop term 0 
+_aop 1 < 3 aop term _aop 0 
+_aop 1 <= 3 aop term _aop 0 
+_aop 1 <> 3 aop term _aop 0 
+_aop 1 = 3 aop term _aop 0 
+_aop 1 > 3 aop term _aop 0 
+_aop 1 >= 3 aop term _aop 0 
+_aop 1 then 3 aop term _aop 0 
+51
+factor 0 * 3 ( exp ) 0 
+factor 0 + 3 ( exp ) 0 
+factor 0 - 3 ( exp ) 0 
+factor 0 / 3 ( exp ) 0 
+factor 0 < 3 ( exp ) 0 
+factor 0 <= 3 ( exp ) 0 
+factor 0 <> 3 ( exp ) 0 
+factor 0 = 3 ( exp ) 0 
+factor 0 > 3 ( exp ) 0 
+factor 0 >= 3 ( exp ) 0 
+factor 0 then 3 ( exp ) 0 
+factor 0 * 1 id 0 
+factor 0 + 1 id 0 
+factor 0 - 1 id 0 
+factor 0 / 1 id 0 
+factor 0 < 1 id 0 
+factor 0 <= 1 id 0 
+factor 0 <> 1 id 0 
+factor 0 = 1 id 0 
+factor 0 > 1 id 0 
+factor 0 >= 1 id 0 
+factor 0 then 1 id 0 
+factor 0 * 1 integer 0 
+factor 0 + 1 integer 0 
+factor 0 - 1 integer 0 
+factor 0 / 1 integer 0 
+factor 0 < 1 integer 0 
+factor 0 <= 1 integer 0 
+factor 0 <> 1 integer 0 
+factor 0 = 1 integer 0 
+factor 0 > 1 integer 0 
+factor 0 >= 1 integer 0 
+factor 0 then 1 integer 0 
+term 0 + 1 factor 0 
+term 0 - 1 factor 0 
+term 0 < 1 factor 0 
+term 0 <= 1 factor 0 
+term 0 <> 1 factor 0 
+term 0 = 1 factor 0 
+term 0 > 1 factor 0 
+term 0 >= 1 factor 0 
+term 0 then 1 factor 0 
+term 0 + 2 factor _factor 0 
+term 0 - 2 factor _factor 0 
+term 0 < 2 factor _factor 0 
+term 0 <= 2 factor _factor 0 
+term 0 <> 2 factor _factor 0 
+term 0 = 2 factor _factor 0 
+term 0 > 2 factor _factor 0 
+term 0 >= 2 factor _factor 0 
+term 0 then 2 factor _factor 0 
+8
+statement 3 begin 5 read ( _id ) ; 0 
+statement 3 call 5 read ( _id ) ; 0 
+statement 3 end 5 read ( _id ) ; 0 
+statement 3 id 5 read ( _id ) ; 0 
+statement 3 if 5 read ( _id ) ; 0 
+statement 3 read 5 read ( _id ) ; 0 
+statement 3 while 5 read ( _id ) ; 0 
+statement 3 write 5 read ( _id ) ; 0 
+0
+2
+_id 1 ) 1 id 0 
+_id 1 ) 3 id , _id 0 
+0
+11
+factor 2 * 3 ( exp ) 0 
+factor 2 + 3 ( exp ) 0 
+factor 2 - 3 ( exp ) 0 
+factor 2 / 3 ( exp ) 0 
+factor 2 < 3 ( exp ) 0 
+factor 2 <= 3 ( exp ) 0 
+factor 2 <> 3 ( exp ) 0 
+factor 2 = 3 ( exp ) 0 
+factor 2 > 3 ( exp ) 0 
+factor 2 >= 3 ( exp ) 0 
+factor 2 do 3 ( exp ) 0 
+0
+14
+exp 2 < 2 + term 0 
+exp 2 <= 2 + term 0 
+exp 2 <> 2 + term 0 
+exp 2 = 2 + term 0 
+exp 2 > 2 + term 0 
+exp 2 >= 2 + term 0 
+exp 2 do 2 + term 0 
+exp 2 < 3 + term _aop 0 
+exp 2 <= 3 + term _aop 0 
+exp 2 <> 3 + term _aop 0 
+exp 2 = 3 + term _aop 0 
+exp 2 > 3 + term _aop 0 
+exp 2 >= 3 + term _aop 0 
+exp 2 do 3 + term _aop 0 
+20
+_aop 0 < 2 aop term 0 
+_aop 0 <= 2 aop term 0 
+_aop 0 <> 2 aop term 0 
+_aop 0 = 2 aop term 0 
+_aop 0 > 2 aop term 0 
+_aop 0 >= 2 aop term 0 
+_aop 0 do 2 aop term 0 
+_aop 0 < 3 aop term _aop 0 
+_aop 0 <= 3 aop term _aop 0 
+_aop 0 <> 3 aop term _aop 0 
+_aop 0 = 3 aop term _aop 0 
+_aop 0 > 3 aop term _aop 0 
+_aop 0 >= 3 aop term _aop 0 
+_aop 0 do 3 aop term _aop 0 
+aop 0 ( 1 + 0 
+aop 0 id 1 + 0 
+aop 0 integer 1 + 0 
+aop 0 ( 1 - 0 
+aop 0 id 1 - 0 
+aop 0 integer 1 - 0 
+14
+exp 2 < 2 - term 0 
+exp 2 <= 2 - term 0 
+exp 2 <> 2 - term 0 
+exp 2 = 2 - term 0 
+exp 2 > 2 - term 0 
+exp 2 >= 2 - term 0 
+exp 2 do 2 - term 0 
+exp 2 < 3 - term _aop 0 
+exp 2 <= 3 - term _aop 0 
+exp 2 <> 3 - term _aop 0 
+exp 2 = 3 - term _aop 0 
+exp 2 > 3 - term _aop 0 
+exp 2 >= 3 - term _aop 0 
+exp 2 do 3 - term _aop 0 
+20
+_aop 0 < 2 aop term 0 
+_aop 0 <= 2 aop term 0 
+_aop 0 <> 2 aop term 0 
+_aop 0 = 2 aop term 0 
+_aop 0 > 2 aop term 0 
+_aop 0 >= 2 aop term 0 
+_aop 0 do 2 aop term 0 
+_aop 0 < 3 aop term _aop 0 
+_aop 0 <= 3 aop term _aop 0 
+_aop 0 <> 3 aop term _aop 0 
+_aop 0 = 3 aop term _aop 0 
+_aop 0 > 3 aop term _aop 0 
+_aop 0 >= 3 aop term _aop 0 
+_aop 0 do 3 aop term _aop 0 
+aop 0 ( 1 + 0 
+aop 0 id 1 + 0 
+aop 0 integer 1 + 0 
+aop 0 ( 1 - 0 
+aop 0 id 1 - 0 
+aop 0 integer 1 - 0 
+1
+lexp 2 do 3 exp lop exp 0 
+27
+exp 0 do 2 + term 0 
+exp 0 do 3 + term _aop 0 
+exp 0 do 2 - term 0 
+exp 0 do 3 - term _aop 0 
+exp 0 do 1 term 0 
+exp 0 do 2 term _aop 0 
+factor 0 * 3 ( exp ) 0 
+factor 0 + 3 ( exp ) 0 
+factor 0 - 3 ( exp ) 0 
+factor 0 / 3 ( exp ) 0 
+factor 0 do 3 ( exp ) 0 
+factor 0 * 1 id 0 
+factor 0 + 1 id 0 
+factor 0 - 1 id 0 
+factor 0 / 1 id 0 
+factor 0 do 1 id 0 
+factor 0 * 1 integer 0 
+factor 0 + 1 integer 0 
+factor 0 - 1 integer 0 
+factor 0 / 1 integer 0 
+factor 0 do 1 integer 0 
+term 0 + 1 factor 0 
+term 0 - 1 factor 0 
+term 0 do 1 factor 0 
+term 0 + 2 factor _factor 0 
+term 0 - 2 factor _factor 0 
+term 0 do 2 factor _factor 0 
+9
+term 2 + 2 factor _factor 0 
+term 2 - 2 factor _factor 0 
+term 2 < 2 factor _factor 0 
+term 2 <= 2 factor _factor 0 
+term 2 <> 2 factor _factor 0 
+term 2 = 2 factor _factor 0 
+term 2 > 2 factor _factor 0 
+term 2 >= 2 factor _factor 0 
+term 2 do 2 factor _factor 0 
+0
+18
+_factor 1 + 2 mop factor 0 
+_factor 1 - 2 mop factor 0 
+_factor 1 < 2 mop factor 0 
+_factor 1 <= 2 mop factor 0 
+_factor 1 <> 2 mop factor 0 
+_factor 1 = 2 mop factor 0 
+_factor 1 > 2 mop factor 0 
+_factor 1 >= 2 mop factor 0 
+_factor 1 do 2 mop factor 0 
+_factor 1 + 3 mop factor _factor 0 
+_factor 1 - 3 mop factor _factor 0 
+_factor 1 < 3 mop factor _factor 0 
+_factor 1 <= 3 mop factor _factor 0 
+_factor 1 <> 3 mop factor _factor 0 
+_factor 1 = 3 mop factor _factor 0 
+_factor 1 > 3 mop factor _factor 0 
+_factor 1 >= 3 mop factor _factor 0 
+_factor 1 do 3 mop factor _factor 0 
+33
+factor 0 * 3 ( exp ) 0 
+factor 0 + 3 ( exp ) 0 
+factor 0 - 3 ( exp ) 0 
+factor 0 / 3 ( exp ) 0 
+factor 0 < 3 ( exp ) 0 
+factor 0 <= 3 ( exp ) 0 
+factor 0 <> 3 ( exp ) 0 
+factor 0 = 3 ( exp ) 0 
+factor 0 > 3 ( exp ) 0 
+factor 0 >= 3 ( exp ) 0 
+factor 0 do 3 ( exp ) 0 
+factor 0 * 1 id 0 
+factor 0 + 1 id 0 
+factor 0 - 1 id 0 
+factor 0 / 1 id 0 
+factor 0 < 1 id 0 
+factor 0 <= 1 id 0 
+factor 0 <> 1 id 0 
+factor 0 = 1 id 0 
+factor 0 > 1 id 0 
+factor 0 >= 1 id 0 
+factor 0 do 1 id 0 
+factor 0 * 1 integer 0 
+factor 0 + 1 integer 0 
+factor 0 - 1 integer 0 
+factor 0 / 1 integer 0 
+factor 0 < 1 integer 0 
+factor 0 <= 1 integer 0 
+factor 0 <> 1 integer 0 
+factor 0 = 1 integer 0 
+factor 0 > 1 integer 0 
+factor 0 >= 1 integer 0 
+factor 0 do 1 integer 0 
+8
+statement 3 begin 4 while lexp do statement 0 
+statement 3 call 4 while lexp do statement 0 
+statement 3 end 4 while lexp do statement 0 
+statement 3 id 4 while lexp do statement 0 
+statement 3 if 4 while lexp do statement 0 
+statement 3 read 4 while lexp do statement 0 
+statement 3 while 4 while lexp do statement 0 
+statement 3 write 4 while lexp do statement 0 
+88
+body 0 begin 3 begin _statement end 0 
+body 0 call 3 begin _statement end 0 
+body 0 end 3 begin _statement end 0 
+body 0 id 3 begin _statement end 0 
+body 0 if 3 begin _statement end 0 
+body 0 read 3 begin _statement end 0 
+body 0 while 3 begin _statement end 0 
+body 0 write 3 begin _statement end 0 
+body 0 begin 2 begin end 0 
+body 0 call 2 begin end 0 
+body 0 end 2 begin end 0 
+body 0 id 2 begin end 0 
+body 0 if 2 begin end 0 
+body 0 read 2 begin end 0 
+body 0 while 2 begin end 0 
+body 0 write 2 begin end 0 
+statement 0 begin 1 body 0 
+statement 0 call 1 body 0 
+statement 0 end 1 body 0 
+statement 0 id 1 body 0 
+statement 0 if 1 body 0 
+statement 0 read 1 body 0 
+statement 0 while 1 body 0 
+statement 0 write 1 body 0 
+statement 0 begin 6 call id ( _exp ) ; 0 
+statement 0 call 6 call id ( _exp ) ; 0 
+statement 0 end 6 call id ( _exp ) ; 0 
+statement 0 id 6 call id ( _exp ) ; 0 
+statement 0 if 6 call id ( _exp ) ; 0 
+statement 0 read 6 call id ( _exp ) ; 0 
+statement 0 while 6 call id ( _exp ) ; 0 
+statement 0 write 6 call id ( _exp ) ; 0 
+statement 0 begin 3 call id ; 0 
+statement 0 call 3 call id ; 0 
+statement 0 end 3 call id ; 0 
+statement 0 id 3 call id ; 0 
+statement 0 if 3 call id ; 0 
+statement 0 read 3 call id ; 0 
+statement 0 while 3 call id ; 0 
+statement 0 write 3 call id ; 0 
+statement 0 begin 4 id := exp ; 0 
+statement 0 call 4 id := exp ; 0 
+statement 0 end 4 id := exp ; 0 
+statement 0 id 4 id := exp ; 0 
+statement 0 if 4 id := exp ; 0 
+statement 0 read 4 id := exp ; 0 
+statement 0 while 4 id := exp ; 0 
+statement 0 write 4 id := exp ; 0 
+statement 0 begin 4 if lexp then statement 0 
+statement 0 call 4 if lexp then statement 0 
+statement 0 end 4 if lexp then statement 0 
+statement 0 id 4 if lexp then statement 0 
+statement 0 if 4 if lexp then statement 0 
+statement 0 read 4 if lexp then statement 0 
+statement 0 while 4 if lexp then statement 0 
+statement 0 write 4 if lexp then statement 0 
+statement 0 begin 6 if lexp then statement else statement 0 
+statement 0 call 6 if lexp then statement else statement 0 
+statement 0 end 6 if lexp then statement else statement 0 
+statement 0 id 6 if lexp then statement else statement 0 
+statement 0 if 6 if lexp then statement else statement 0 
+statement 0 read 6 if lexp then statement else statement 0 
+statement 0 while 6 if lexp then statement else statement 0 
+statement 0 write 6 if lexp then statement else statement 0 
+statement 0 begin 5 read ( _id ) ; 0 
+statement 0 call 5 read ( _id ) ; 0 
+statement 0 end 5 read ( _id ) ; 0 
+statement 0 id 5 read ( _id ) ; 0 
+statement 0 if 5 read ( _id ) ; 0 
+statement 0 read 5 read ( _id ) ; 0 
+statement 0 while 5 read ( _id ) ; 0 
+statement 0 write 5 read ( _id ) ; 0 
+statement 0 begin 4 while lexp do statement 0 
+statement 0 call 4 while lexp do statement 0 
+statement 0 end 4 while lexp do statement 0 
+statement 0 id 4 while lexp do statement 0 
+statement 0 if 4 while lexp do statement 0 
+statement 0 read 4 while lexp do statement 0 
+statement 0 while 4 while lexp do statement 0 
+statement 0 write 4 while lexp do statement 0 
+statement 0 begin 5 write ( _exp ) ; 0 
+statement 0 call 5 write ( _exp ) ; 0 
+statement 0 end 5 write ( _exp ) ; 0 
+statement 0 id 5 write ( _exp ) ; 0 
+statement 0 if 5 write ( _exp ) ; 0 
+statement 0 read 5 write ( _exp ) ; 0 
+statement 0 while 5 write ( _exp ) ; 0 
+statement 0 write 5 write ( _exp ) ; 0 
+5
+factor 1 * 3 ( exp ) 0 
+factor 1 + 3 ( exp ) 0 
+factor 1 - 3 ( exp ) 0 
+factor 1 / 3 ( exp ) 0 
+factor 1 do 3 ( exp ) 0 
+27
+exp 0 ) 2 + term 0 
+exp 0 ) 3 + term _aop 0 
+exp 0 ) 2 - term 0 
+exp 0 ) 3 - term _aop 0 
+exp 0 ) 1 term 0 
+exp 0 ) 2 term _aop 0 
+factor 0 ) 3 ( exp ) 0 
+factor 0 * 3 ( exp ) 0 
+factor 0 + 3 ( exp ) 0 
+factor 0 - 3 ( exp ) 0 
+factor 0 / 3 ( exp ) 0 
+factor 0 ) 1 id 0 
+factor 0 * 1 id 0 
+factor 0 + 1 id 0 
+factor 0 - 1 id 0 
+factor 0 / 1 id 0 
+factor 0 ) 1 integer 0 
+factor 0 * 1 integer 0 
+factor 0 + 1 integer 0 
+factor 0 - 1 integer 0 
+factor 0 / 1 integer 0 
+term 0 ) 1 factor 0 
+term 0 + 1 factor 0 
+term 0 - 1 factor 0 
+term 0 ) 2 factor _factor 0 
+term 0 + 2 factor _factor 0 
+term 0 - 2 factor _factor 0 
+2
+exp 1 do 2 + term 0 
+exp 1 do 3 + term _aop 0 
+21
+factor 0 * 3 ( exp ) 0 
+factor 0 + 3 ( exp ) 0 
+factor 0 - 3 ( exp ) 0 
+factor 0 / 3 ( exp ) 0 
+factor 0 do 3 ( exp ) 0 
+factor 0 * 1 id 0 
+factor 0 + 1 id 0 
+factor 0 - 1 id 0 
+factor 0 / 1 id 0 
+factor 0 do 1 id 0 
+factor 0 * 1 integer 0 
+factor 0 + 1 integer 0 
+factor 0 - 1 integer 0 
+factor 0 / 1 integer 0 
+factor 0 do 1 integer 0 
+term 0 + 1 factor 0 
+term 0 - 1 factor 0 
+term 0 do 1 factor 0 
+term 0 + 2 factor _factor 0 
+term 0 - 2 factor _factor 0 
+term 0 do 2 factor _factor 0 
+2
+exp 1 do 2 - term 0 
+exp 1 do 3 - term _aop 0 
+21
+factor 0 * 3 ( exp ) 0 
+factor 0 + 3 ( exp ) 0 
+factor 0 - 3 ( exp ) 0 
+factor 0 / 3 ( exp ) 0 
+factor 0 do 3 ( exp ) 0 
+factor 0 * 1 id 0 
+factor 0 + 1 id 0 
+factor 0 - 1 id 0 
+factor 0 / 1 id 0 
+factor 0 do 1 id 0 
+factor 0 * 1 integer 0 
+factor 0 + 1 integer 0 
+factor 0 - 1 integer 0 
+factor 0 / 1 integer 0 
+factor 0 do 1 integer 0 
+term 0 + 1 factor 0 
+term 0 - 1 factor 0 
+term 0 do 1 factor 0 
+term 0 + 2 factor _factor 0 
+term 0 - 2 factor _factor 0 
+term 0 do 2 factor _factor 0 
+1
+lexp 2 do 2 odd exp 0 
+0
+6
+term 1 + 1 factor 0 
+term 1 - 1 factor 0 
+term 1 do 1 factor 0 
+term 1 + 2 factor _factor 0 
+term 1 - 2 factor _factor 0 
+term 1 do 2 factor _factor 0 
+12
+_factor 0 + 2 mop factor 0 
+_factor 0 - 2 mop factor 0 
+_factor 0 do 2 mop factor 0 
+_factor 0 + 3 mop factor _factor 0 
+_factor 0 - 3 mop factor _factor 0 
+_factor 0 do 3 mop factor _factor 0 
+mop 0 ( 1 * 0 
+mop 0 id 1 * 0 
+mop 0 integer 1 * 0 
+mop 0 ( 1 / 0 
+mop 0 id 1 / 0 
+mop 0 integer 1 / 0 
+5
+factor 1 * 1 id 0 
+factor 1 + 1 id 0 
+factor 1 - 1 id 0 
+factor 1 / 1 id 0 
+factor 1 do 1 id 0 
+0
+5
+factor 1 * 1 integer 0 
+factor 1 + 1 integer 0 
+factor 1 - 1 integer 0 
+factor 1 / 1 integer 0 
+factor 1 do 1 integer 0 
+0
+2
+exp 1 do 1 term 0 
+exp 1 do 2 term _aop 0 
+8
+_aop 0 do 2 aop term 0 
+_aop 0 do 3 aop term _aop 0 
+aop 0 ( 1 + 0 
+aop 0 id 1 + 0 
+aop 0 integer 1 + 0 
+aop 0 ( 1 - 0 
+aop 0 id 1 - 0 
+aop 0 integer 1 - 0 
+7
+exp 2 < 2 term _aop 0 
+exp 2 <= 2 term _aop 0 
+exp 2 <> 2 term _aop 0 
+exp 2 = 2 term _aop 0 
+exp 2 > 2 term _aop 0 
+exp 2 >= 2 term _aop 0 
+exp 2 do 2 term _aop 0 
+0
+14
+_aop 1 < 2 aop term 0 
+_aop 1 <= 2 aop term 0 
+_aop 1 <> 2 aop term 0 
+_aop 1 = 2 aop term 0 
+_aop 1 > 2 aop term 0 
+_aop 1 >= 2 aop term 0 
+_aop 1 do 2 aop term 0 
+_aop 1 < 3 aop term _aop 0 
+_aop 1 <= 3 aop term _aop 0 
+_aop 1 <> 3 aop term _aop 0 
+_aop 1 = 3 aop term _aop 0 
+_aop 1 > 3 aop term _aop 0 
+_aop 1 >= 3 aop term _aop 0 
+_aop 1 do 3 aop term _aop 0 
+51
+factor 0 * 3 ( exp ) 0 
+factor 0 + 3 ( exp ) 0 
+factor 0 - 3 ( exp ) 0 
+factor 0 / 3 ( exp ) 0 
+factor 0 < 3 ( exp ) 0 
+factor 0 <= 3 ( exp ) 0 
+factor 0 <> 3 ( exp ) 0 
+factor 0 = 3 ( exp ) 0 
+factor 0 > 3 ( exp ) 0 
+factor 0 >= 3 ( exp ) 0 
+factor 0 do 3 ( exp ) 0 
+factor 0 * 1 id 0 
+factor 0 + 1 id 0 
+factor 0 - 1 id 0 
+factor 0 / 1 id 0 
+factor 0 < 1 id 0 
+factor 0 <= 1 id 0 
+factor 0 <> 1 id 0 
+factor 0 = 1 id 0 
+factor 0 > 1 id 0 
+factor 0 >= 1 id 0 
+factor 0 do 1 id 0 
+factor 0 * 1 integer 0 
+factor 0 + 1 integer 0 
+factor 0 - 1 integer 0 
+factor 0 / 1 integer 0 
+factor 0 < 1 integer 0 
+factor 0 <= 1 integer 0 
+factor 0 <> 1 integer 0 
+factor 0 = 1 integer 0 
+factor 0 > 1 integer 0 
+factor 0 >= 1 integer 0 
+factor 0 do 1 integer 0 
+term 0 + 1 factor 0 
+term 0 - 1 factor 0 
+term 0 < 1 factor 0 
+term 0 <= 1 factor 0 
+term 0 <> 1 factor 0 
+term 0 = 1 factor 0 
+term 0 > 1 factor 0 
+term 0 >= 1 factor 0 
+term 0 do 1 factor 0 
+term 0 + 2 factor _factor 0 
+term 0 - 2 factor _factor 0 
+term 0 < 2 factor _factor 0 
+term 0 <= 2 factor _factor 0 
+term 0 <> 2 factor _factor 0 
+term 0 = 2 factor _factor 0 
+term 0 > 2 factor _factor 0 
+term 0 >= 2 factor _factor 0 
+term 0 do 2 factor _factor 0 
+6
+factor 1 ) 3 ( exp ) 0 
+factor 1 * 3 ( exp ) 0 
+factor 1 + 3 ( exp ) 0 
+factor 1 , 3 ( exp ) 0 
+factor 1 - 3 ( exp ) 0 
+factor 1 / 3 ( exp ) 0 
+27
+exp 0 ) 2 + term 0 
+exp 0 ) 3 + term _aop 0 
+exp 0 ) 2 - term 0 
+exp 0 ) 3 - term _aop 0 
+exp 0 ) 1 term 0 
+exp 0 ) 2 term _aop 0 
+factor 0 ) 3 ( exp ) 0 
+factor 0 * 3 ( exp ) 0 
+factor 0 + 3 ( exp ) 0 
+factor 0 - 3 ( exp ) 0 
+factor 0 / 3 ( exp ) 0 
+factor 0 ) 1 id 0 
+factor 0 * 1 id 0 
+factor 0 + 1 id 0 
+factor 0 - 1 id 0 
+factor 0 / 1 id 0 
+factor 0 ) 1 integer 0 
+factor 0 * 1 integer 0 
+factor 0 + 1 integer 0 
+factor 0 - 1 integer 0 
+factor 0 / 1 integer 0 
+term 0 ) 1 factor 0 
+term 0 + 1 factor 0 
+term 0 - 1 factor 0 
+term 0 ) 2 factor _factor 0 
+term 0 + 2 factor _factor 0 
+term 0 - 2 factor _factor 0 
+4
+exp 1 ) 2 + term 0 
+exp 1 , 2 + term 0 
+exp 1 ) 3 + term _aop 0 
+exp 1 , 3 + term _aop 0 
+26
+factor 0 ) 3 ( exp ) 0 
+factor 0 * 3 ( exp ) 0 
+factor 0 + 3 ( exp ) 0 
+factor 0 , 3 ( exp ) 0 
+factor 0 - 3 ( exp ) 0 
+factor 0 / 3 ( exp ) 0 
+factor 0 ) 1 id 0 
+factor 0 * 1 id 0 
+factor 0 + 1 id 0 
+factor 0 , 1 id 0 
+factor 0 - 1 id 0 
+factor 0 / 1 id 0 
+factor 0 ) 1 integer 0 
+factor 0 * 1 integer 0 
+factor 0 + 1 integer 0 
+factor 0 , 1 integer 0 
+factor 0 - 1 integer 0 
+factor 0 / 1 integer 0 
+term 0 ) 1 factor 0 
+term 0 + 1 factor 0 
+term 0 , 1 factor 0 
+term 0 - 1 factor 0 
+term 0 ) 2 factor _factor 0 
+term 0 + 2 factor _factor 0 
+term 0 , 2 factor _factor 0 
+term 0 - 2 factor _factor 0 
+4
+exp 1 ) 2 - term 0 
+exp 1 , 2 - term 0 
+exp 1 ) 3 - term _aop 0 
+exp 1 , 3 - term _aop 0 
+26
+factor 0 ) 3 ( exp ) 0 
+factor 0 * 3 ( exp ) 0 
+factor 0 + 3 ( exp ) 0 
+factor 0 , 3 ( exp ) 0 
+factor 0 - 3 ( exp ) 0 
+factor 0 / 3 ( exp ) 0 
+factor 0 ) 1 id 0 
+factor 0 * 1 id 0 
+factor 0 + 1 id 0 
+factor 0 , 1 id 0 
+factor 0 - 1 id 0 
+factor 0 / 1 id 0 
+factor 0 ) 1 integer 0 
+factor 0 * 1 integer 0 
+factor 0 + 1 integer 0 
+factor 0 , 1 integer 0 
+factor 0 - 1 integer 0 
+factor 0 / 1 integer 0 
+term 0 ) 1 factor 0 
+term 0 + 1 factor 0 
+term 0 , 1 factor 0 
+term 0 - 1 factor 0 
+term 0 ) 2 factor _factor 0 
+term 0 + 2 factor _factor 0 
+term 0 , 2 factor _factor 0 
+term 0 - 2 factor _factor 0 
+8
+statement 3 begin 5 write ( _exp ) ; 0 
+statement 3 call 5 write ( _exp ) ; 0 
+statement 3 end 5 write ( _exp ) ; 0 
+statement 3 id 5 write ( _exp ) ; 0 
+statement 3 if 5 write ( _exp ) ; 0 
+statement 3 read 5 write ( _exp ) ; 0 
+statement 3 while 5 write ( _exp ) ; 0 
+statement 3 write 5 write ( _exp ) ; 0 
+0
+2
+_exp 1 ) 1 exp 0 
+_exp 1 ) 3 exp , _exp 0 
+0
+8
+term 1 ) 1 factor 0 
+term 1 + 1 factor 0 
+term 1 , 1 factor 0 
+term 1 - 1 factor 0 
+term 1 ) 2 factor _factor 0 
+term 1 + 2 factor _factor 0 
+term 1 , 2 factor _factor 0 
+term 1 - 2 factor _factor 0 
+14
+_factor 0 ) 2 mop factor 0 
+_factor 0 + 2 mop factor 0 
+_factor 0 , 2 mop factor 0 
+_factor 0 - 2 mop factor 0 
+_factor 0 ) 3 mop factor _factor 0 
+_factor 0 + 3 mop factor _factor 0 
+_factor 0 , 3 mop factor _factor 0 
+_factor 0 - 3 mop factor _factor 0 
+mop 0 ( 1 * 0 
+mop 0 id 1 * 0 
+mop 0 integer 1 * 0 
+mop 0 ( 1 / 0 
+mop 0 id 1 / 0 
+mop 0 integer 1 / 0 
+6
+factor 1 ) 1 id 0 
+factor 1 * 1 id 0 
+factor 1 + 1 id 0 
+factor 1 , 1 id 0 
+factor 1 - 1 id 0 
+factor 1 / 1 id 0 
+0
+6
+factor 1 ) 1 integer 0 
+factor 1 * 1 integer 0 
+factor 1 + 1 integer 0 
+factor 1 , 1 integer 0 
+factor 1 - 1 integer 0 
+factor 1 / 1 integer 0 
+0
+4
+exp 1 ) 1 term 0 
+exp 1 , 1 term 0 
+exp 1 ) 2 term _aop 0 
+exp 1 , 2 term _aop 0 
+10
+_aop 0 ) 2 aop term 0 
+_aop 0 , 2 aop term 0 
+_aop 0 ) 3 aop term _aop 0 
+_aop 0 , 3 aop term _aop 0 
+aop 0 ( 1 + 0 
+aop 0 id 1 + 0 
+aop 0 integer 1 + 0 
+aop 0 ( 1 - 0 
+aop 0 id 1 - 0 
+aop 0 integer 1 - 0 
+1
+block 4 end 4 condecl ; proc body 0 
+0
+2
+block 4 end 5 condecl ; vardecl ; body 0 
+block 4 end 6 condecl ; vardecl ; proc body 0 
+4
+body 0 end 3 begin _statement end 0 
+body 0 end 2 begin end 0 
+proc 0 begin 5 procedure id arg ; block 0 
+proc 0 begin 6 procedure id arg ; block _proc 0 
+1
+_constv 3 ; 3 constv , _constv 0 
+0
+2
+constv 3 , 3 id := integer 0 
+constv 3 ; 3 id := integer 0 
+0
+1
+arg 2 ; 2 ( ) 0 
+0
+1
+arg 2 ; 3 ( _id ) 0 
+0
+2
+proc 4 begin 5 procedure id arg ; block 0 
+proc 4 begin 6 procedure id arg ; block _proc 0 
+24
+block 0 begin 1 body 0 
+block 0 procedure 1 body 0 
+block 0 begin 3 condecl ; body 0 
+block 0 procedure 3 condecl ; body 0 
+block 0 begin 4 condecl ; proc body 0 
+block 0 procedure 4 condecl ; proc body 0 
+block 0 begin 5 condecl ; vardecl ; body 0 
+block 0 procedure 5 condecl ; vardecl ; body 0 
+block 0 begin 6 condecl ; vardecl ; proc body 0 
+block 0 procedure 6 condecl ; vardecl ; proc body 0 
+block 0 begin 2 proc body 0 
+block 0 procedure 2 proc body 0 
+block 0 begin 3 vardecl ; body 0 
+block 0 procedure 3 vardecl ; body 0 
+block 0 begin 4 vardecl ; proc body 0 
+block 0 procedure 4 vardecl ; proc body 0 
+body 0 begin 3 begin _statement end 0 
+body 0 procedure 3 begin _statement end 0 
+body 0 begin 2 begin end 0 
+body 0 procedure 2 begin end 0 
+condecl 0 ; 2 const _constv 0 
+proc 0 begin 5 procedure id arg ; block 0 
+proc 0 begin 6 procedure id arg ; block _proc 0 
+vardecl 0 ; 2 var _id 0 
+1
+_id 3 ; 3 id , _id 0 
+0
+1
+block 4 end 4 vardecl ; proc body 0 
+0
+8
+statement 4 begin 6 call id ( _exp ) ; 0 
+statement 4 call 6 call id ( _exp ) ; 0 
+statement 4 end 6 call id ( _exp ) ; 0 
+statement 4 id 6 call id ( _exp ) ; 0 
+statement 4 if 6 call id ( _exp ) ; 0 
+statement 4 read 6 call id ( _exp ) ; 0 
+statement 4 while 6 call id ( _exp ) ; 0 
+statement 4 write 6 call id ( _exp ) ; 0 
+0
+5
+factor 2 * 3 ( exp ) 0 
+factor 2 + 3 ( exp ) 0 
+factor 2 - 3 ( exp ) 0 
+factor 2 / 3 ( exp ) 0 
+factor 2 ; 3 ( exp ) 0 
+0
+2
+exp 2 ; 2 + term 0 
+exp 2 ; 3 + term _aop 0 
+8
+_aop 0 ; 2 aop term 0 
+_aop 0 ; 3 aop term _aop 0 
+aop 0 ( 1 + 0 
+aop 0 id 1 + 0 
+aop 0 integer 1 + 0 
+aop 0 ( 1 - 0 
+aop 0 id 1 - 0 
+aop 0 integer 1 - 0 
+2
+exp 2 ; 2 - term 0 
+exp 2 ; 3 - term _aop 0 
+8
+_aop 0 ; 2 aop term 0 
+_aop 0 ; 3 aop term _aop 0 
+aop 0 ( 1 + 0 
+aop 0 id 1 + 0 
+aop 0 integer 1 + 0 
+aop 0 ( 1 - 0 
+aop 0 id 1 - 0 
+aop 0 integer 1 - 0 
+8
+statement 4 begin 4 id := exp ; 0 
+statement 4 call 4 id := exp ; 0 
+statement 4 end 4 id := exp ; 0 
+statement 4 id 4 id := exp ; 0 
+statement 4 if 4 id := exp ; 0 
+statement 4 read 4 id := exp ; 0 
+statement 4 while 4 id := exp ; 0 
+statement 4 write 4 id := exp ; 0 
+0
+3
+term 2 + 2 factor _factor 0 
+term 2 - 2 factor _factor 0 
+term 2 ; 2 factor _factor 0 
+0
+6
+_factor 1 + 2 mop factor 0 
+_factor 1 - 2 mop factor 0 
+_factor 1 ; 2 mop factor 0 
+_factor 1 + 3 mop factor _factor 0 
+_factor 1 - 3 mop factor _factor 0 
+_factor 1 ; 3 mop factor _factor 0 
+15
+factor 0 * 3 ( exp ) 0 
+factor 0 + 3 ( exp ) 0 
+factor 0 - 3 ( exp ) 0 
+factor 0 / 3 ( exp ) 0 
+factor 0 ; 3 ( exp ) 0 
+factor 0 * 1 id 0 
+factor 0 + 1 id 0 
+factor 0 - 1 id 0 
+factor 0 / 1 id 0 
+factor 0 ; 1 id 0 
+factor 0 * 1 integer 0 
+factor 0 + 1 integer 0 
+factor 0 - 1 integer 0 
+factor 0 / 1 integer 0 
+factor 0 ; 1 integer 0 
+1
+exp 2 ; 2 term _aop 0 
+0
+2
+_aop 1 ; 2 aop term 0 
+_aop 1 ; 3 aop term _aop 0 
+21
+factor 0 * 3 ( exp ) 0 
+factor 0 + 3 ( exp ) 0 
+factor 0 - 3 ( exp ) 0 
+factor 0 / 3 ( exp ) 0 
+factor 0 ; 3 ( exp ) 0 
+factor 0 * 1 id 0 
+factor 0 + 1 id 0 
+factor 0 - 1 id 0 
+factor 0 / 1 id 0 
+factor 0 ; 1 id 0 
+factor 0 * 1 integer 0 
+factor 0 + 1 integer 0 
+factor 0 - 1 integer 0 
+factor 0 / 1 integer 0 
+factor 0 ; 1 integer 0 
+term 0 + 1 factor 0 
+term 0 - 1 factor 0 
+term 0 ; 1 factor 0 
+term 0 + 2 factor _factor 0 
+term 0 - 2 factor _factor 0 
+term 0 ; 2 factor _factor 0 
+5
+factor 2 ) 3 ( exp ) 0 
+factor 2 * 3 ( exp ) 0 
+factor 2 + 3 ( exp ) 0 
+factor 2 - 3 ( exp ) 0 
+factor 2 / 3 ( exp ) 0 
+0
+2
+exp 2 ) 2 + term 0 
+exp 2 ) 3 + term _aop 0 
+8
+_aop 0 ) 2 aop term 0 
+_aop 0 ) 3 aop term _aop 0 
+aop 0 ( 1 + 0 
+aop 0 id 1 + 0 
+aop 0 integer 1 + 0 
+aop 0 ( 1 - 0 
+aop 0 id 1 - 0 
+aop 0 integer 1 - 0 
+2
+exp 2 ) 2 - term 0 
+exp 2 ) 3 - term _aop 0 
+8
+_aop 0 ) 2 aop term 0 
+_aop 0 ) 3 aop term _aop 0 
+aop 0 ( 1 + 0 
+aop 0 id 1 + 0 
+aop 0 integer 1 + 0 
+aop 0 ( 1 - 0 
+aop 0 id 1 - 0 
+aop 0 integer 1 - 0 
+11
+factor 3 * 3 ( exp ) 0 
+factor 3 + 3 ( exp ) 0 
+factor 3 - 3 ( exp ) 0 
+factor 3 / 3 ( exp ) 0 
+factor 3 < 3 ( exp ) 0 
+factor 3 <= 3 ( exp ) 0 
+factor 3 <> 3 ( exp ) 0 
+factor 3 = 3 ( exp ) 0 
+factor 3 > 3 ( exp ) 0 
+factor 3 >= 3 ( exp ) 0 
+factor 3 then 3 ( exp ) 0 
+0
+3
+term 2 ) 2 factor _factor 0 
+term 2 + 2 factor _factor 0 
+term 2 - 2 factor _factor 0 
+0
+6
+_factor 1 ) 2 mop factor 0 
+_factor 1 + 2 mop factor 0 
+_factor 1 - 2 mop factor 0 
+_factor 1 ) 3 mop factor _factor 0 
+_factor 1 + 3 mop factor _factor 0 
+_factor 1 - 3 mop factor _factor 0 
+15
+factor 0 ) 3 ( exp ) 0 
+factor 0 * 3 ( exp ) 0 
+factor 0 + 3 ( exp ) 0 
+factor 0 - 3 ( exp ) 0 
+factor 0 / 3 ( exp ) 0 
+factor 0 ) 1 id 0 
+factor 0 * 1 id 0 
+factor 0 + 1 id 0 
+factor 0 - 1 id 0 
+factor 0 / 1 id 0 
+factor 0 ) 1 integer 0 
+factor 0 * 1 integer 0 
+factor 0 + 1 integer 0 
+factor 0 - 1 integer 0 
+factor 0 / 1 integer 0 
+1
+exp 2 ) 2 term _aop 0 
+0
+2
+_aop 1 ) 2 aop term 0 
+_aop 1 ) 3 aop term _aop 0 
+21
+factor 0 ) 3 ( exp ) 0 
+factor 0 * 3 ( exp ) 0 
+factor 0 + 3 ( exp ) 0 
+factor 0 - 3 ( exp ) 0 
+factor 0 / 3 ( exp ) 0 
+factor 0 ) 1 id 0 
+factor 0 * 1 id 0 
+factor 0 + 1 id 0 
+factor 0 - 1 id 0 
+factor 0 / 1 id 0 
+factor 0 ) 1 integer 0 
+factor 0 * 1 integer 0 
+factor 0 + 1 integer 0 
+factor 0 - 1 integer 0 
+factor 0 / 1 integer 0 
+term 0 ) 1 factor 0 
+term 0 + 1 factor 0 
+term 0 - 1 factor 0 
+term 0 ) 2 factor _factor 0 
+term 0 + 2 factor _factor 0 
+term 0 - 2 factor _factor 0 
+7
+exp 3 < 3 + term _aop 0 
+exp 3 <= 3 + term _aop 0 
+exp 3 <> 3 + term _aop 0 
+exp 3 = 3 + term _aop 0 
+exp 3 > 3 + term _aop 0 
+exp 3 >= 3 + term _aop 0 
+exp 3 then 3 + term _aop 0 
+0
+7
+exp 3 < 3 - term _aop 0 
+exp 3 <= 3 - term _aop 0 
+exp 3 <> 3 - term _aop 0 
+exp 3 = 3 - term _aop 0 
+exp 3 > 3 - term _aop 0 
+exp 3 >= 3 - term _aop 0 
+exp 3 then 3 - term _aop 0 
+0
+1
+lexp 3 then 3 exp lop exp 0 
+0
+18
+_factor 2 + 2 mop factor 0 
+_factor 2 - 2 mop factor 0 
+_factor 2 < 2 mop factor 0 
+_factor 2 <= 2 mop factor 0 
+_factor 2 <> 2 mop factor 0 
+_factor 2 = 2 mop factor 0 
+_factor 2 > 2 mop factor 0 
+_factor 2 >= 2 mop factor 0 
+_factor 2 then 2 mop factor 0 
+_factor 2 + 3 mop factor _factor 0 
+_factor 2 - 3 mop factor _factor 0 
+_factor 2 < 3 mop factor _factor 0 
+_factor 2 <= 3 mop factor _factor 0 
+_factor 2 <> 3 mop factor _factor 0 
+_factor 2 = 3 mop factor _factor 0 
+_factor 2 > 3 mop factor _factor 0 
+_factor 2 >= 3 mop factor _factor 0 
+_factor 2 then 3 mop factor _factor 0 
+24
+_factor 0 + 2 mop factor 0 
+_factor 0 - 2 mop factor 0 
+_factor 0 < 2 mop factor 0 
+_factor 0 <= 2 mop factor 0 
+_factor 0 <> 2 mop factor 0 
+_factor 0 = 2 mop factor 0 
+_factor 0 > 2 mop factor 0 
+_factor 0 >= 2 mop factor 0 
+_factor 0 then 2 mop factor 0 
+_factor 0 + 3 mop factor _factor 0 
+_factor 0 - 3 mop factor _factor 0 
+_factor 0 < 3 mop factor _factor 0 
+_factor 0 <= 3 mop factor _factor 0 
+_factor 0 <> 3 mop factor _factor 0 
+_factor 0 = 3 mop factor _factor 0 
+_factor 0 > 3 mop factor _factor 0 
+_factor 0 >= 3 mop factor _factor 0 
+_factor 0 then 3 mop factor _factor 0 
+mop 0 ( 1 * 0 
+mop 0 id 1 * 0 
+mop 0 integer 1 * 0 
+mop 0 ( 1 / 0 
+mop 0 id 1 / 0 
+mop 0 integer 1 / 0 
+18
+body 1 begin 3 begin _statement end 0 
+body 1 call 3 begin _statement end 0 
+body 1 else 3 begin _statement end 0 
+body 1 end 3 begin _statement end 0 
+body 1 id 3 begin _statement end 0 
+body 1 if 3 begin _statement end 0 
+body 1 read 3 begin _statement end 0 
+body 1 while 3 begin _statement end 0 
+body 1 write 3 begin _statement end 0 
+body 1 begin 2 begin end 0 
+body 1 call 2 begin end 0 
+body 1 else 2 begin end 0 
+body 1 end 2 begin end 0 
+body 1 id 2 begin end 0 
+body 1 if 2 begin end 0 
+body 1 read 2 begin end 0 
+body 1 while 2 begin end 0 
+body 1 write 2 begin end 0 
+90
+_statement 0 end 1 statement 0 
+_statement 0 end 2 statement _statement 0 
+body 0 begin 3 begin _statement end 0 
+body 0 call 3 begin _statement end 0 
+body 0 end 3 begin _statement end 0 
+body 0 id 3 begin _statement end 0 
+body 0 if 3 begin _statement end 0 
+body 0 read 3 begin _statement end 0 
+body 0 while 3 begin _statement end 0 
+body 0 write 3 begin _statement end 0 
+body 0 begin 2 begin end 0 
+body 0 call 2 begin end 0 
+body 0 end 2 begin end 0 
+body 0 id 2 begin end 0 
+body 0 if 2 begin end 0 
+body 0 read 2 begin end 0 
+body 0 while 2 begin end 0 
+body 0 write 2 begin end 0 
+statement 0 begin 1 body 0 
+statement 0 call 1 body 0 
+statement 0 end 1 body 0 
+statement 0 id 1 body 0 
+statement 0 if 1 body 0 
+statement 0 read 1 body 0 
+statement 0 while 1 body 0 
+statement 0 write 1 body 0 
+statement 0 begin 6 call id ( _exp ) ; 0 
+statement 0 call 6 call id ( _exp ) ; 0 
+statement 0 end 6 call id ( _exp ) ; 0 
+statement 0 id 6 call id ( _exp ) ; 0 
+statement 0 if 6 call id ( _exp ) ; 0 
+statement 0 read 6 call id ( _exp ) ; 0 
+statement 0 while 6 call id ( _exp ) ; 0 
+statement 0 write 6 call id ( _exp ) ; 0 
+statement 0 begin 3 call id ; 0 
+statement 0 call 3 call id ; 0 
+statement 0 end 3 call id ; 0 
+statement 0 id 3 call id ; 0 
+statement 0 if 3 call id ; 0 
+statement 0 read 3 call id ; 0 
+statement 0 while 3 call id ; 0 
+statement 0 write 3 call id ; 0 
+statement 0 begin 4 id := exp ; 0 
+statement 0 call 4 id := exp ; 0 
+statement 0 end 4 id := exp ; 0 
+statement 0 id 4 id := exp ; 0 
+statement 0 if 4 id := exp ; 0 
+statement 0 read 4 id := exp ; 0 
+statement 0 while 4 id := exp ; 0 
+statement 0 write 4 id := exp ; 0 
+statement 0 begin 4 if lexp then statement 0 
+statement 0 call 4 if lexp then statement 0 
+statement 0 end 4 if lexp then statement 0 
+statement 0 id 4 if lexp then statement 0 
+statement 0 if 4 if lexp then statement 0 
+statement 0 read 4 if lexp then statement 0 
+statement 0 while 4 if lexp then statement 0 
+statement 0 write 4 if lexp then statement 0 
+statement 0 begin 6 if lexp then statement else statement 0 
+statement 0 call 6 if lexp then statement else statement 0 
+statement 0 end 6 if lexp then statement else statement 0 
+statement 0 id 6 if lexp then statement else statement 0 
+statement 0 if 6 if lexp then statement else statement 0 
+statement 0 read 6 if lexp then statement else statement 0 
+statement 0 while 6 if lexp then statement else statement 0 
+statement 0 write 6 if lexp then statement else statement 0 
+statement 0 begin 5 read ( _id ) ; 0 
+statement 0 call 5 read ( _id ) ; 0 
+statement 0 end 5 read ( _id ) ; 0 
+statement 0 id 5 read ( _id ) ; 0 
+statement 0 if 5 read ( _id ) ; 0 
+statement 0 read 5 read ( _id ) ; 0 
+statement 0 while 5 read ( _id ) ; 0 
+statement 0 write 5 read ( _id ) ; 0 
+statement 0 begin 4 while lexp do statement 0 
+statement 0 call 4 while lexp do statement 0 
+statement 0 end 4 while lexp do statement 0 
+statement 0 id 4 while lexp do statement 0 
+statement 0 if 4 while lexp do statement 0 
+statement 0 read 4 while lexp do statement 0 
+statement 0 while 4 while lexp do statement 0 
+statement 0 write 4 while lexp do statement 0 
+statement 0 begin 5 write ( _exp ) ; 0 
+statement 0 call 5 write ( _exp ) ; 0 
+statement 0 end 5 write ( _exp ) ; 0 
+statement 0 id 5 write ( _exp ) ; 0 
+statement 0 if 5 write ( _exp ) ; 0 
+statement 0 read 5 write ( _exp ) ; 0 
+statement 0 while 5 write ( _exp ) ; 0 
+statement 0 write 5 write ( _exp ) ; 0 
+9
+statement 1 begin 1 body 0 
+statement 1 call 1 body 0 
+statement 1 else 1 body 0 
+statement 1 end 1 body 0 
+statement 1 id 1 body 0 
+statement 1 if 1 body 0 
+statement 1 read 1 body 0 
+statement 1 while 1 body 0 
+statement 1 write 1 body 0 
+0
+18
+statement 1 begin 6 call id ( _exp ) ; 0 
+statement 1 call 6 call id ( _exp ) ; 0 
+statement 1 else 6 call id ( _exp ) ; 0 
+statement 1 end 6 call id ( _exp ) ; 0 
+statement 1 id 6 call id ( _exp ) ; 0 
+statement 1 if 6 call id ( _exp ) ; 0 
+statement 1 read 6 call id ( _exp ) ; 0 
+statement 1 while 6 call id ( _exp ) ; 0 
+statement 1 write 6 call id ( _exp ) ; 0 
+statement 1 begin 3 call id ; 0 
+statement 1 call 3 call id ; 0 
+statement 1 else 3 call id ; 0 
+statement 1 end 3 call id ; 0 
+statement 1 id 3 call id ; 0 
+statement 1 if 3 call id ; 0 
+statement 1 read 3 call id ; 0 
+statement 1 while 3 call id ; 0 
+statement 1 write 3 call id ; 0 
+0
+9
+statement 1 begin 4 id := exp ; 0 
+statement 1 call 4 id := exp ; 0 
+statement 1 else 4 id := exp ; 0 
+statement 1 end 4 id := exp ; 0 
+statement 1 id 4 id := exp ; 0 
+statement 1 if 4 id := exp ; 0 
+statement 1 read 4 id := exp ; 0 
+statement 1 while 4 id := exp ; 0 
+statement 1 write 4 id := exp ; 0 
+0
+18
+statement 1 begin 4 if lexp then statement 0 
+statement 1 call 4 if lexp then statement 0 
+statement 1 else 4 if lexp then statement 0 
+statement 1 end 4 if lexp then statement 0 
+statement 1 id 4 if lexp then statement 0 
+statement 1 if 4 if lexp then statement 0 
+statement 1 read 4 if lexp then statement 0 
+statement 1 while 4 if lexp then statement 0 
+statement 1 write 4 if lexp then statement 0 
+statement 1 begin 6 if lexp then statement else statement 0 
+statement 1 call 6 if lexp then statement else statement 0 
+statement 1 else 6 if lexp then statement else statement 0 
+statement 1 end 6 if lexp then statement else statement 0 
+statement 1 id 6 if lexp then statement else statement 0 
+statement 1 if 6 if lexp then statement else statement 0 
+statement 1 read 6 if lexp then statement else statement 0 
+statement 1 while 6 if lexp then statement else statement 0 
+statement 1 write 6 if lexp then statement else statement 0 
+96
+exp 0 < 2 + term 0 
+exp 0 <= 2 + term 0 
+exp 0 <> 2 + term 0 
+exp 0 = 2 + term 0 
+exp 0 > 2 + term 0 
+exp 0 >= 2 + term 0 
+exp 0 then 2 + term 0 
+exp 0 < 3 + term _aop 0 
+exp 0 <= 3 + term _aop 0 
+exp 0 <> 3 + term _aop 0 
+exp 0 = 3 + term _aop 0 
+exp 0 > 3 + term _aop 0 
+exp 0 >= 3 + term _aop 0 
+exp 0 then 3 + term _aop 0 
+exp 0 < 2 - term 0 
+exp 0 <= 2 - term 0 
+exp 0 <> 2 - term 0 
+exp 0 = 2 - term 0 
+exp 0 > 2 - term 0 
+exp 0 >= 2 - term 0 
+exp 0 then 2 - term 0 
+exp 0 < 3 - term _aop 0 
+exp 0 <= 3 - term _aop 0 
+exp 0 <> 3 - term _aop 0 
+exp 0 = 3 - term _aop 0 
+exp 0 > 3 - term _aop 0 
+exp 0 >= 3 - term _aop 0 
+exp 0 then 3 - term _aop 0 
+exp 0 < 1 term 0 
+exp 0 <= 1 term 0 
+exp 0 <> 1 term 0 
+exp 0 = 1 term 0 
+exp 0 > 1 term 0 
+exp 0 >= 1 term 0 
+exp 0 then 1 term 0 
+exp 0 < 2 term _aop 0 
+exp 0 <= 2 term _aop 0 
+exp 0 <> 2 term _aop 0 
+exp 0 = 2 term _aop 0 
+exp 0 > 2 term _aop 0 
+exp 0 >= 2 term _aop 0 
+exp 0 then 2 term _aop 0 
+factor 0 * 3 ( exp ) 0 
+factor 0 + 3 ( exp ) 0 
+factor 0 - 3 ( exp ) 0 
+factor 0 / 3 ( exp ) 0 
+factor 0 < 3 ( exp ) 0 
+factor 0 <= 3 ( exp ) 0 
+factor 0 <> 3 ( exp ) 0 
+factor 0 = 3 ( exp ) 0 
+factor 0 > 3 ( exp ) 0 
+factor 0 >= 3 ( exp ) 0 
+factor 0 then 3 ( exp ) 0 
+factor 0 * 1 id 0 
+factor 0 + 1 id 0 
+factor 0 - 1 id 0 
+factor 0 / 1 id 0 
+factor 0 < 1 id 0 
+factor 0 <= 1 id 0 
+factor 0 <> 1 id 0 
+factor 0 = 1 id 0 
+factor 0 > 1 id 0 
+factor 0 >= 1 id 0 
+factor 0 then 1 id 0 
+factor 0 * 1 integer 0 
+factor 0 + 1 integer 0 
+factor 0 - 1 integer 0 
+factor 0 / 1 integer 0 
+factor 0 < 1 integer 0 
+factor 0 <= 1 integer 0 
+factor 0 <> 1 integer 0 
+factor 0 = 1 integer 0 
+factor 0 > 1 integer 0 
+factor 0 >= 1 integer 0 
+factor 0 then 1 integer 0 
+lexp 0 then 1 exp 0 
+lexp 0 then 3 exp lop exp 0 
+lexp 0 then 2 odd exp 0 
+term 0 + 1 factor 0 
+term 0 - 1 factor 0 
+term 0 < 1 factor 0 
+term 0 <= 1 factor 0 
+term 0 <> 1 factor 0 
+term 0 = 1 factor 0 
+term 0 > 1 factor 0 
+term 0 >= 1 factor 0 
+term 0 then 1 factor 0 
+term 0 + 2 factor _factor 0 
+term 0 - 2 factor _factor 0 
+term 0 < 2 factor _factor 0 
+term 0 <= 2 factor _factor 0 
+term 0 <> 2 factor _factor 0 
+term 0 = 2 factor _factor 0 
+term 0 > 2 factor _factor 0 
+term 0 >= 2 factor _factor 0 
+term 0 then 2 factor _factor 0 
+9
+statement 1 begin 5 read ( _id ) ; 0 
+statement 1 call 5 read ( _id ) ; 0 
+statement 1 else 5 read ( _id ) ; 0 
+statement 1 end 5 read ( _id ) ; 0 
+statement 1 id 5 read ( _id ) ; 0 
+statement 1 if 5 read ( _id ) ; 0 
+statement 1 read 5 read ( _id ) ; 0 
+statement 1 while 5 read ( _id ) ; 0 
+statement 1 write 5 read ( _id ) ; 0 
+0
+16
+statement 4 begin 4 if lexp then statement 0 
+statement 4 call 4 if lexp then statement 0 
+statement 4 end 4 if lexp then statement 0 
+statement 4 id 4 if lexp then statement 0 
+statement 4 if 4 if lexp then statement 0 
+statement 4 read 4 if lexp then statement 0 
+statement 4 while 4 if lexp then statement 0 
+statement 4 write 4 if lexp then statement 0 
+statement 4 begin 6 if lexp then statement else statement 0 
+statement 4 call 6 if lexp then statement else statement 0 
+statement 4 end 6 if lexp then statement else statement 0 
+statement 4 id 6 if lexp then statement else statement 0 
+statement 4 if 6 if lexp then statement else statement 0 
+statement 4 read 6 if lexp then statement else statement 0 
+statement 4 while 6 if lexp then statement else statement 0 
+statement 4 write 6 if lexp then statement else statement 0 
+0
+9
+statement 1 begin 4 while lexp do statement 0 
+statement 1 call 4 while lexp do statement 0 
+statement 1 else 4 while lexp do statement 0 
+statement 1 end 4 while lexp do statement 0 
+statement 1 id 4 while lexp do statement 0 
+statement 1 if 4 while lexp do statement 0 
+statement 1 read 4 while lexp do statement 0 
+statement 1 while 4 while lexp do statement 0 
+statement 1 write 4 while lexp do statement 0 
+96
+exp 0 < 2 + term 0 
+exp 0 <= 2 + term 0 
+exp 0 <> 2 + term 0 
+exp 0 = 2 + term 0 
+exp 0 > 2 + term 0 
+exp 0 >= 2 + term 0 
+exp 0 do 2 + term 0 
+exp 0 < 3 + term _aop 0 
+exp 0 <= 3 + term _aop 0 
+exp 0 <> 3 + term _aop 0 
+exp 0 = 3 + term _aop 0 
+exp 0 > 3 + term _aop 0 
+exp 0 >= 3 + term _aop 0 
+exp 0 do 3 + term _aop 0 
+exp 0 < 2 - term 0 
+exp 0 <= 2 - term 0 
+exp 0 <> 2 - term 0 
+exp 0 = 2 - term 0 
+exp 0 > 2 - term 0 
+exp 0 >= 2 - term 0 
+exp 0 do 2 - term 0 
+exp 0 < 3 - term _aop 0 
+exp 0 <= 3 - term _aop 0 
+exp 0 <> 3 - term _aop 0 
+exp 0 = 3 - term _aop 0 
+exp 0 > 3 - term _aop 0 
+exp 0 >= 3 - term _aop 0 
+exp 0 do 3 - term _aop 0 
+exp 0 < 1 term 0 
+exp 0 <= 1 term 0 
+exp 0 <> 1 term 0 
+exp 0 = 1 term 0 
+exp 0 > 1 term 0 
+exp 0 >= 1 term 0 
+exp 0 do 1 term 0 
+exp 0 < 2 term _aop 0 
+exp 0 <= 2 term _aop 0 
+exp 0 <> 2 term _aop 0 
+exp 0 = 2 term _aop 0 
+exp 0 > 2 term _aop 0 
+exp 0 >= 2 term _aop 0 
+exp 0 do 2 term _aop 0 
+factor 0 * 3 ( exp ) 0 
+factor 0 + 3 ( exp ) 0 
+factor 0 - 3 ( exp ) 0 
+factor 0 / 3 ( exp ) 0 
+factor 0 < 3 ( exp ) 0 
+factor 0 <= 3 ( exp ) 0 
+factor 0 <> 3 ( exp ) 0 
+factor 0 = 3 ( exp ) 0 
+factor 0 > 3 ( exp ) 0 
+factor 0 >= 3 ( exp ) 0 
+factor 0 do 3 ( exp ) 0 
+factor 0 * 1 id 0 
+factor 0 + 1 id 0 
+factor 0 - 1 id 0 
+factor 0 / 1 id 0 
+factor 0 < 1 id 0 
+factor 0 <= 1 id 0 
+factor 0 <> 1 id 0 
+factor 0 = 1 id 0 
+factor 0 > 1 id 0 
+factor 0 >= 1 id 0 
+factor 0 do 1 id 0 
+factor 0 * 1 integer 0 
+factor 0 + 1 integer 0 
+factor 0 - 1 integer 0 
+factor 0 / 1 integer 0 
+factor 0 < 1 integer 0 
+factor 0 <= 1 integer 0 
+factor 0 <> 1 integer 0 
+factor 0 = 1 integer 0 
+factor 0 > 1 integer 0 
+factor 0 >= 1 integer 0 
+factor 0 do 1 integer 0 
+lexp 0 do 1 exp 0 
+lexp 0 do 3 exp lop exp 0 
+lexp 0 do 2 odd exp 0 
+term 0 + 1 factor 0 
+term 0 - 1 factor 0 
+term 0 < 1 factor 0 
+term 0 <= 1 factor 0 
+term 0 <> 1 factor 0 
+term 0 = 1 factor 0 
+term 0 > 1 factor 0 
+term 0 >= 1 factor 0 
+term 0 do 1 factor 0 
+term 0 + 2 factor _factor 0 
+term 0 - 2 factor _factor 0 
+term 0 < 2 factor _factor 0 
+term 0 <= 2 factor _factor 0 
+term 0 <> 2 factor _factor 0 
+term 0 = 2 factor _factor 0 
+term 0 > 2 factor _factor 0 
+term 0 >= 2 factor _factor 0 
+term 0 do 2 factor _factor 0 
+9
+statement 1 begin 5 write ( _exp ) ; 0 
+statement 1 call 5 write ( _exp ) ; 0 
+statement 1 else 5 write ( _exp ) ; 0 
+statement 1 end 5 write ( _exp ) ; 0 
+statement 1 id 5 write ( _exp ) ; 0 
+statement 1 if 5 write ( _exp ) ; 0 
+statement 1 read 5 write ( _exp ) ; 0 
+statement 1 while 5 write ( _exp ) ; 0 
+statement 1 write 5 write ( _exp ) ; 0 
+0
+5
+factor 2 * 3 ( exp ) 0 
+factor 2 + 3 ( exp ) 0 
+factor 2 - 3 ( exp ) 0 
+factor 2 / 3 ( exp ) 0 
+factor 2 then 3 ( exp ) 0 
+0
+2
+exp 2 then 2 + term 0 
+exp 2 then 3 + term _aop 0 
+8
+_aop 0 then 2 aop term 0 
+_aop 0 then 3 aop term _aop 0 
+aop 0 ( 1 + 0 
+aop 0 id 1 + 0 
+aop 0 integer 1 + 0 
+aop 0 ( 1 - 0 
+aop 0 id 1 - 0 
+aop 0 integer 1 - 0 
+2
+exp 2 then 2 - term 0 
+exp 2 then 3 - term _aop 0 
+8
+_aop 0 then 2 aop term 0 
+_aop 0 then 3 aop term _aop 0 
+aop 0 ( 1 + 0 
+aop 0 id 1 + 0 
+aop 0 integer 1 + 0 
+aop 0 ( 1 - 0 
+aop 0 id 1 - 0 
+aop 0 integer 1 - 0 
+3
+term 2 + 2 factor _factor 0 
+term 2 - 2 factor _factor 0 
+term 2 then 2 factor _factor 0 
+0
+6
+_factor 1 + 2 mop factor 0 
+_factor 1 - 2 mop factor 0 
+_factor 1 then 2 mop factor 0 
+_factor 1 + 3 mop factor _factor 0 
+_factor 1 - 3 mop factor _factor 0 
+_factor 1 then 3 mop factor _factor 0 
+15
+factor 0 * 3 ( exp ) 0 
+factor 0 + 3 ( exp ) 0 
+factor 0 - 3 ( exp ) 0 
+factor 0 / 3 ( exp ) 0 
+factor 0 then 3 ( exp ) 0 
+factor 0 * 1 id 0 
+factor 0 + 1 id 0 
+factor 0 - 1 id 0 
+factor 0 / 1 id 0 
+factor 0 then 1 id 0 
+factor 0 * 1 integer 0 
+factor 0 + 1 integer 0 
+factor 0 - 1 integer 0 
+factor 0 / 1 integer 0 
+factor 0 then 1 integer 0 
+1
+exp 2 then 2 term _aop 0 
+0
+2
+_aop 1 then 2 aop term 0 
+_aop 1 then 3 aop term _aop 0 
+21
+factor 0 * 3 ( exp ) 0 
+factor 0 + 3 ( exp ) 0 
+factor 0 - 3 ( exp ) 0 
+factor 0 / 3 ( exp ) 0 
+factor 0 then 3 ( exp ) 0 
+factor 0 * 1 id 0 
+factor 0 + 1 id 0 
+factor 0 - 1 id 0 
+factor 0 / 1 id 0 
+factor 0 then 1 id 0 
+factor 0 * 1 integer 0 
+factor 0 + 1 integer 0 
+factor 0 - 1 integer 0 
+factor 0 / 1 integer 0 
+factor 0 then 1 integer 0 
+term 0 + 1 factor 0 
+term 0 - 1 factor 0 
+term 0 then 1 factor 0 
+term 0 + 2 factor _factor 0 
+term 0 - 2 factor _factor 0 
+term 0 then 2 factor _factor 0 
+14
+_aop 2 < 2 aop term 0 
+_aop 2 <= 2 aop term 0 
+_aop 2 <> 2 aop term 0 
+_aop 2 = 2 aop term 0 
+_aop 2 > 2 aop term 0 
+_aop 2 >= 2 aop term 0 
+_aop 2 then 2 aop term 0 
+_aop 2 < 3 aop term _aop 0 
+_aop 2 <= 3 aop term _aop 0 
+_aop 2 <> 3 aop term _aop 0 
+_aop 2 = 3 aop term _aop 0 
+_aop 2 > 3 aop term _aop 0 
+_aop 2 >= 3 aop term _aop 0 
+_aop 2 then 3 aop term _aop 0 
+20
+_aop 0 < 2 aop term 0 
+_aop 0 <= 2 aop term 0 
+_aop 0 <> 2 aop term 0 
+_aop 0 = 2 aop term 0 
+_aop 0 > 2 aop term 0 
+_aop 0 >= 2 aop term 0 
+_aop 0 then 2 aop term 0 
+_aop 0 < 3 aop term _aop 0 
+_aop 0 <= 3 aop term _aop 0 
+_aop 0 <> 3 aop term _aop 0 
+_aop 0 = 3 aop term _aop 0 
+_aop 0 > 3 aop term _aop 0 
+_aop 0 >= 3 aop term _aop 0 
+_aop 0 then 3 aop term _aop 0 
+aop 0 ( 1 + 0 
+aop 0 id 1 + 0 
+aop 0 integer 1 + 0 
+aop 0 ( 1 - 0 
+aop 0 id 1 - 0 
+aop 0 integer 1 - 0 
+8
+statement 4 begin 5 read ( _id ) ; 0 
+statement 4 call 5 read ( _id ) ; 0 
+statement 4 end 5 read ( _id ) ; 0 
+statement 4 id 5 read ( _id ) ; 0 
+statement 4 if 5 read ( _id ) ; 0 
+statement 4 read 5 read ( _id ) ; 0 
+statement 4 while 5 read ( _id ) ; 0 
+statement 4 write 5 read ( _id ) ; 0 
+0
+1
+_id 2 ) 3 id , _id 0 
+2
+_id 0 ) 1 id 0 
+_id 0 ) 3 id , _id 0 
+11
+factor 3 * 3 ( exp ) 0 
+factor 3 + 3 ( exp ) 0 
+factor 3 - 3 ( exp ) 0 
+factor 3 / 3 ( exp ) 0 
+factor 3 < 3 ( exp ) 0 
+factor 3 <= 3 ( exp ) 0 
+factor 3 <> 3 ( exp ) 0 
+factor 3 = 3 ( exp ) 0 
+factor 3 > 3 ( exp ) 0 
+factor 3 >= 3 ( exp ) 0 
+factor 3 do 3 ( exp ) 0 
+0
+7
+exp 3 < 3 + term _aop 0 
+exp 3 <= 3 + term _aop 0 
+exp 3 <> 3 + term _aop 0 
+exp 3 = 3 + term _aop 0 
+exp 3 > 3 + term _aop 0 
+exp 3 >= 3 + term _aop 0 
+exp 3 do 3 + term _aop 0 
+0
+7
+exp 3 < 3 - term _aop 0 
+exp 3 <= 3 - term _aop 0 
+exp 3 <> 3 - term _aop 0 
+exp 3 = 3 - term _aop 0 
+exp 3 > 3 - term _aop 0 
+exp 3 >= 3 - term _aop 0 
+exp 3 do 3 - term _aop 0 
+0
+1
+lexp 3 do 3 exp lop exp 0 
+0
+18
+_factor 2 + 2 mop factor 0 
+_factor 2 - 2 mop factor 0 
+_factor 2 < 2 mop factor 0 
+_factor 2 <= 2 mop factor 0 
+_factor 2 <> 2 mop factor 0 
+_factor 2 = 2 mop factor 0 
+_factor 2 > 2 mop factor 0 
+_factor 2 >= 2 mop factor 0 
+_factor 2 do 2 mop factor 0 
+_factor 2 + 3 mop factor _factor 0 
+_factor 2 - 3 mop factor _factor 0 
+_factor 2 < 3 mop factor _factor 0 
+_factor 2 <= 3 mop factor _factor 0 
+_factor 2 <> 3 mop factor _factor 0 
+_factor 2 = 3 mop factor _factor 0 
+_factor 2 > 3 mop factor _factor 0 
+_factor 2 >= 3 mop factor _factor 0 
+_factor 2 do 3 mop factor _factor 0 
+24
+_factor 0 + 2 mop factor 0 
+_factor 0 - 2 mop factor 0 
+_factor 0 < 2 mop factor 0 
+_factor 0 <= 2 mop factor 0 
+_factor 0 <> 2 mop factor 0 
+_factor 0 = 2 mop factor 0 
+_factor 0 > 2 mop factor 0 
+_factor 0 >= 2 mop factor 0 
+_factor 0 do 2 mop factor 0 
+_factor 0 + 3 mop factor _factor 0 
+_factor 0 - 3 mop factor _factor 0 
+_factor 0 < 3 mop factor _factor 0 
+_factor 0 <= 3 mop factor _factor 0 
+_factor 0 <> 3 mop factor _factor 0 
+_factor 0 = 3 mop factor _factor 0 
+_factor 0 > 3 mop factor _factor 0 
+_factor 0 >= 3 mop factor _factor 0 
+_factor 0 do 3 mop factor _factor 0 
+mop 0 ( 1 * 0 
+mop 0 id 1 * 0 
+mop 0 integer 1 * 0 
+mop 0 ( 1 / 0 
+mop 0 id 1 / 0 
+mop 0 integer 1 / 0 
+8
+statement 4 begin 4 while lexp do statement 0 
+statement 4 call 4 while lexp do statement 0 
+statement 4 end 4 while lexp do statement 0 
+statement 4 id 4 while lexp do statement 0 
+statement 4 if 4 while lexp do statement 0 
+statement 4 read 4 while lexp do statement 0 
+statement 4 while 4 while lexp do statement 0 
+statement 4 write 4 while lexp do statement 0 
+0
+5
+factor 2 * 3 ( exp ) 0 
+factor 2 + 3 ( exp ) 0 
+factor 2 - 3 ( exp ) 0 
+factor 2 / 3 ( exp ) 0 
+factor 2 do 3 ( exp ) 0 
+0
+2
+exp 2 do 2 + term 0 
+exp 2 do 3 + term _aop 0 
+8
+_aop 0 do 2 aop term 0 
+_aop 0 do 3 aop term _aop 0 
+aop 0 ( 1 + 0 
+aop 0 id 1 + 0 
+aop 0 integer 1 + 0 
+aop 0 ( 1 - 0 
+aop 0 id 1 - 0 
+aop 0 integer 1 - 0 
+2
+exp 2 do 2 - term 0 
+exp 2 do 3 - term _aop 0 
+8
+_aop 0 do 2 aop term 0 
+_aop 0 do 3 aop term _aop 0 
+aop 0 ( 1 + 0 
+aop 0 id 1 + 0 
+aop 0 integer 1 + 0 
+aop 0 ( 1 - 0 
+aop 0 id 1 - 0 
+aop 0 integer 1 - 0 
+3
+term 2 + 2 factor _factor 0 
+term 2 - 2 factor _factor 0 
+term 2 do 2 factor _factor 0 
+0
+6
+_factor 1 + 2 mop factor 0 
+_factor 1 - 2 mop factor 0 
+_factor 1 do 2 mop factor 0 
+_factor 1 + 3 mop factor _factor 0 
+_factor 1 - 3 mop factor _factor 0 
+_factor 1 do 3 mop factor _factor 0 
+15
+factor 0 * 3 ( exp ) 0 
+factor 0 + 3 ( exp ) 0 
+factor 0 - 3 ( exp ) 0 
+factor 0 / 3 ( exp ) 0 
+factor 0 do 3 ( exp ) 0 
+factor 0 * 1 id 0 
+factor 0 + 1 id 0 
+factor 0 - 1 id 0 
+factor 0 / 1 id 0 
+factor 0 do 1 id 0 
+factor 0 * 1 integer 0 
+factor 0 + 1 integer 0 
+factor 0 - 1 integer 0 
+factor 0 / 1 integer 0 
+factor 0 do 1 integer 0 
+1
+exp 2 do 2 term _aop 0 
+0
+2
+_aop 1 do 2 aop term 0 
+_aop 1 do 3 aop term _aop 0 
+21
+factor 0 * 3 ( exp ) 0 
+factor 0 + 3 ( exp ) 0 
+factor 0 - 3 ( exp ) 0 
+factor 0 / 3 ( exp ) 0 
+factor 0 do 3 ( exp ) 0 
+factor 0 * 1 id 0 
+factor 0 + 1 id 0 
+factor 0 - 1 id 0 
+factor 0 / 1 id 0 
+factor 0 do 1 id 0 
+factor 0 * 1 integer 0 
+factor 0 + 1 integer 0 
+factor 0 - 1 integer 0 
+factor 0 / 1 integer 0 
+factor 0 do 1 integer 0 
+term 0 + 1 factor 0 
+term 0 - 1 factor 0 
+term 0 do 1 factor 0 
+term 0 + 2 factor _factor 0 
+term 0 - 2 factor _factor 0 
+term 0 do 2 factor _factor 0 
+14
+_aop 2 < 2 aop term 0 
+_aop 2 <= 2 aop term 0 
+_aop 2 <> 2 aop term 0 
+_aop 2 = 2 aop term 0 
+_aop 2 > 2 aop term 0 
+_aop 2 >= 2 aop term 0 
+_aop 2 do 2 aop term 0 
+_aop 2 < 3 aop term _aop 0 
+_aop 2 <= 3 aop term _aop 0 
+_aop 2 <> 3 aop term _aop 0 
+_aop 2 = 3 aop term _aop 0 
+_aop 2 > 3 aop term _aop 0 
+_aop 2 >= 3 aop term _aop 0 
+_aop 2 do 3 aop term _aop 0 
+20
+_aop 0 < 2 aop term 0 
+_aop 0 <= 2 aop term 0 
+_aop 0 <> 2 aop term 0 
+_aop 0 = 2 aop term 0 
+_aop 0 > 2 aop term 0 
+_aop 0 >= 2 aop term 0 
+_aop 0 do 2 aop term 0 
+_aop 0 < 3 aop term _aop 0 
+_aop 0 <= 3 aop term _aop 0 
+_aop 0 <> 3 aop term _aop 0 
+_aop 0 = 3 aop term _aop 0 
+_aop 0 > 3 aop term _aop 0 
+_aop 0 >= 3 aop term _aop 0 
+_aop 0 do 3 aop term _aop 0 
+aop 0 ( 1 + 0 
+aop 0 id 1 + 0 
+aop 0 integer 1 + 0 
+aop 0 ( 1 - 0 
+aop 0 id 1 - 0 
+aop 0 integer 1 - 0 
+6
+factor 2 ) 3 ( exp ) 0 
+factor 2 * 3 ( exp ) 0 
+factor 2 + 3 ( exp ) 0 
+factor 2 , 3 ( exp ) 0 
+factor 2 - 3 ( exp ) 0 
+factor 2 / 3 ( exp ) 0 
+0
+4
+exp 2 ) 2 + term 0 
+exp 2 , 2 + term 0 
+exp 2 ) 3 + term _aop 0 
+exp 2 , 3 + term _aop 0 
+10
+_aop 0 ) 2 aop term 0 
+_aop 0 , 2 aop term 0 
+_aop 0 ) 3 aop term _aop 0 
+_aop 0 , 3 aop term _aop 0 
+aop 0 ( 1 + 0 
+aop 0 id 1 + 0 
+aop 0 integer 1 + 0 
+aop 0 ( 1 - 0 
+aop 0 id 1 - 0 
+aop 0 integer 1 - 0 
+4
+exp 2 ) 2 - term 0 
+exp 2 , 2 - term 0 
+exp 2 ) 3 - term _aop 0 
+exp 2 , 3 - term _aop 0 
+10
+_aop 0 ) 2 aop term 0 
+_aop 0 , 2 aop term 0 
+_aop 0 ) 3 aop term _aop 0 
+_aop 0 , 3 aop term _aop 0 
+aop 0 ( 1 + 0 
+aop 0 id 1 + 0 
+aop 0 integer 1 + 0 
+aop 0 ( 1 - 0 
+aop 0 id 1 - 0 
+aop 0 integer 1 - 0 
+8
+statement 4 begin 5 write ( _exp ) ; 0 
+statement 4 call 5 write ( _exp ) ; 0 
+statement 4 end 5 write ( _exp ) ; 0 
+statement 4 id 5 write ( _exp ) ; 0 
+statement 4 if 5 write ( _exp ) ; 0 
+statement 4 read 5 write ( _exp ) ; 0 
+statement 4 while 5 write ( _exp ) ; 0 
+statement 4 write 5 write ( _exp ) ; 0 
+0
+1
+_exp 2 ) 3 exp , _exp 0 
+40
+_exp 0 ) 1 exp 0 
+_exp 0 ) 3 exp , _exp 0 
+exp 0 ) 2 + term 0 
+exp 0 , 2 + term 0 
+exp 0 ) 3 + term _aop 0 
+exp 0 , 3 + term _aop 0 
+exp 0 ) 2 - term 0 
+exp 0 , 2 - term 0 
+exp 0 ) 3 - term _aop 0 
+exp 0 , 3 - term _aop 0 
+exp 0 ) 1 term 0 
+exp 0 , 1 term 0 
+exp 0 ) 2 term _aop 0 
+exp 0 , 2 term _aop 0 
+factor 0 ) 3 ( exp ) 0 
+factor 0 * 3 ( exp ) 0 
+factor 0 + 3 ( exp ) 0 
+factor 0 , 3 ( exp ) 0 
+factor 0 - 3 ( exp ) 0 
+factor 0 / 3 ( exp ) 0 
+factor 0 ) 1 id 0 
+factor 0 * 1 id 0 
+factor 0 + 1 id 0 
+factor 0 , 1 id 0 
+factor 0 - 1 id 0 
+factor 0 / 1 id 0 
+factor 0 ) 1 integer 0 
+factor 0 * 1 integer 0 
+factor 0 + 1 integer 0 
+factor 0 , 1 integer 0 
+factor 0 - 1 integer 0 
+factor 0 / 1 integer 0 
+term 0 ) 1 factor 0 
+term 0 + 1 factor 0 
+term 0 , 1 factor 0 
+term 0 - 1 factor 0 
+term 0 ) 2 factor _factor 0 
+term 0 + 2 factor _factor 0 
+term 0 , 2 factor _factor 0 
+term 0 - 2 factor _factor 0 
+4
+term 2 ) 2 factor _factor 0 
+term 2 + 2 factor _factor 0 
+term 2 , 2 factor _factor 0 
+term 2 - 2 factor _factor 0 
+0
+8
+_factor 1 ) 2 mop factor 0 
+_factor 1 + 2 mop factor 0 
+_factor 1 , 2 mop factor 0 
+_factor 1 - 2 mop factor 0 
+_factor 1 ) 3 mop factor _factor 0 
+_factor 1 + 3 mop factor _factor 0 
+_factor 1 , 3 mop factor _factor 0 
+_factor 1 - 3 mop factor _factor 0 
+18
+factor 0 ) 3 ( exp ) 0 
+factor 0 * 3 ( exp ) 0 
+factor 0 + 3 ( exp ) 0 
+factor 0 , 3 ( exp ) 0 
+factor 0 - 3 ( exp ) 0 
+factor 0 / 3 ( exp ) 0 
+factor 0 ) 1 id 0 
+factor 0 * 1 id 0 
+factor 0 + 1 id 0 
+factor 0 , 1 id 0 
+factor 0 - 1 id 0 
+factor 0 / 1 id 0 
+factor 0 ) 1 integer 0 
+factor 0 * 1 integer 0 
+factor 0 + 1 integer 0 
+factor 0 , 1 integer 0 
+factor 0 - 1 integer 0 
+factor 0 / 1 integer 0 
+2
+exp 2 ) 2 term _aop 0 
+exp 2 , 2 term _aop 0 
+0
+4
+_aop 1 ) 2 aop term 0 
+_aop 1 , 2 aop term 0 
+_aop 1 ) 3 aop term _aop 0 
+_aop 1 , 3 aop term _aop 0 
+26
+factor 0 ) 3 ( exp ) 0 
+factor 0 * 3 ( exp ) 0 
+factor 0 + 3 ( exp ) 0 
+factor 0 , 3 ( exp ) 0 
+factor 0 - 3 ( exp ) 0 
+factor 0 / 3 ( exp ) 0 
+factor 0 ) 1 id 0 
+factor 0 * 1 id 0 
+factor 0 + 1 id 0 
+factor 0 , 1 id 0 
+factor 0 - 1 id 0 
+factor 0 / 1 id 0 
+factor 0 ) 1 integer 0 
+factor 0 * 1 integer 0 
+factor 0 + 1 integer 0 
+factor 0 , 1 integer 0 
+factor 0 - 1 integer 0 
+factor 0 / 1 integer 0 
+term 0 ) 1 factor 0 
+term 0 + 1 factor 0 
+term 0 , 1 factor 0 
+term 0 - 1 factor 0 
+term 0 ) 2 factor _factor 0 
+term 0 + 2 factor _factor 0 
+term 0 , 2 factor _factor 0 
+term 0 - 2 factor _factor 0 
+1
+block 5 end 5 condecl ; vardecl ; body 0 
+0
+1
+block 5 end 6 condecl ; vardecl ; proc body 0 
+2
+body 0 end 3 begin _statement end 0 
+body 0 end 2 begin end 0 
+1
+arg 3 ; 3 ( _id ) 0 
+0
+4
+body 1 begin 3 begin _statement end 0 
+body 1 procedure 3 begin _statement end 0 
+body 1 begin 2 begin end 0 
+body 1 procedure 2 begin end 0 
+90
+_statement 0 end 1 statement 0 
+_statement 0 end 2 statement _statement 0 
+body 0 begin 3 begin _statement end 0 
+body 0 call 3 begin _statement end 0 
+body 0 end 3 begin _statement end 0 
+body 0 id 3 begin _statement end 0 
+body 0 if 3 begin _statement end 0 
+body 0 read 3 begin _statement end 0 
+body 0 while 3 begin _statement end 0 
+body 0 write 3 begin _statement end 0 
+body 0 begin 2 begin end 0 
+body 0 call 2 begin end 0 
+body 0 end 2 begin end 0 
+body 0 id 2 begin end 0 
+body 0 if 2 begin end 0 
+body 0 read 2 begin end 0 
+body 0 while 2 begin end 0 
+body 0 write 2 begin end 0 
+statement 0 begin 1 body 0 
+statement 0 call 1 body 0 
+statement 0 end 1 body 0 
+statement 0 id 1 body 0 
+statement 0 if 1 body 0 
+statement 0 read 1 body 0 
+statement 0 while 1 body 0 
+statement 0 write 1 body 0 
+statement 0 begin 6 call id ( _exp ) ; 0 
+statement 0 call 6 call id ( _exp ) ; 0 
+statement 0 end 6 call id ( _exp ) ; 0 
+statement 0 id 6 call id ( _exp ) ; 0 
+statement 0 if 6 call id ( _exp ) ; 0 
+statement 0 read 6 call id ( _exp ) ; 0 
+statement 0 while 6 call id ( _exp ) ; 0 
+statement 0 write 6 call id ( _exp ) ; 0 
+statement 0 begin 3 call id ; 0 
+statement 0 call 3 call id ; 0 
+statement 0 end 3 call id ; 0 
+statement 0 id 3 call id ; 0 
+statement 0 if 3 call id ; 0 
+statement 0 read 3 call id ; 0 
+statement 0 while 3 call id ; 0 
+statement 0 write 3 call id ; 0 
+statement 0 begin 4 id := exp ; 0 
+statement 0 call 4 id := exp ; 0 
+statement 0 end 4 id := exp ; 0 
+statement 0 id 4 id := exp ; 0 
+statement 0 if 4 id := exp ; 0 
+statement 0 read 4 id := exp ; 0 
+statement 0 while 4 id := exp ; 0 
+statement 0 write 4 id := exp ; 0 
+statement 0 begin 4 if lexp then statement 0 
+statement 0 call 4 if lexp then statement 0 
+statement 0 end 4 if lexp then statement 0 
+statement 0 id 4 if lexp then statement 0 
+statement 0 if 4 if lexp then statement 0 
+statement 0 read 4 if lexp then statement 0 
+statement 0 while 4 if lexp then statement 0 
+statement 0 write 4 if lexp then statement 0 
+statement 0 begin 6 if lexp then statement else statement 0 
+statement 0 call 6 if lexp then statement else statement 0 
+statement 0 end 6 if lexp then statement else statement 0 
+statement 0 id 6 if lexp then statement else statement 0 
+statement 0 if 6 if lexp then statement else statement 0 
+statement 0 read 6 if lexp then statement else statement 0 
+statement 0 while 6 if lexp then statement else statement 0 
+statement 0 write 6 if lexp then statement else statement 0 
+statement 0 begin 5 read ( _id ) ; 0 
+statement 0 call 5 read ( _id ) ; 0 
+statement 0 end 5 read ( _id ) ; 0 
+statement 0 id 5 read ( _id ) ; 0 
+statement 0 if 5 read ( _id ) ; 0 
+statement 0 read 5 read ( _id ) ; 0 
+statement 0 while 5 read ( _id ) ; 0 
+statement 0 write 5 read ( _id ) ; 0 
+statement 0 begin 4 while lexp do statement 0 
+statement 0 call 4 while lexp do statement 0 
+statement 0 end 4 while lexp do statement 0 
+statement 0 id 4 while lexp do statement 0 
+statement 0 if 4 while lexp do statement 0 
+statement 0 read 4 while lexp do statement 0 
+statement 0 while 4 while lexp do statement 0 
+statement 0 write 4 while lexp do statement 0 
+statement 0 begin 5 write ( _exp ) ; 0 
+statement 0 call 5 write ( _exp ) ; 0 
+statement 0 end 5 write ( _exp ) ; 0 
+statement 0 id 5 write ( _exp ) ; 0 
+statement 0 if 5 write ( _exp ) ; 0 
+statement 0 read 5 write ( _exp ) ; 0 
+statement 0 while 5 write ( _exp ) ; 0 
+statement 0 write 5 write ( _exp ) ; 0 
+2
+proc 5 begin 5 procedure id arg ; block 0 
+proc 5 begin 6 procedure id arg ; block _proc 0 
+6
+_proc 0 begin 1 proc 0 
+_proc 0 begin 2 proc _proc 0 
+proc 0 begin 5 procedure id arg ; block 0 
+proc 0 procedure 5 procedure id arg ; block 0 
+proc 0 begin 6 procedure id arg ; block _proc 0 
+proc 0 procedure 6 procedure id arg ; block _proc 0 
+2
+block 1 begin 1 body 0 
+block 1 procedure 1 body 0 
+0
+8
+block 1 begin 3 condecl ; body 0 
+block 1 procedure 3 condecl ; body 0 
+block 1 begin 4 condecl ; proc body 0 
+block 1 procedure 4 condecl ; proc body 0 
+block 1 begin 5 condecl ; vardecl ; body 0 
+block 1 procedure 5 condecl ; vardecl ; body 0 
+block 1 begin 6 condecl ; vardecl ; proc body 0 
+block 1 procedure 6 condecl ; vardecl ; proc body 0 
+0
+2
+block 1 begin 2 proc body 0 
+block 1 procedure 2 proc body 0 
+4
+body 0 begin 3 begin _statement end 0 
+body 0 procedure 3 begin _statement end 0 
+body 0 begin 2 begin end 0 
+body 0 procedure 2 begin end 0 
+4
+block 1 begin 3 vardecl ; body 0 
+block 1 procedure 3 vardecl ; body 0 
+block 1 begin 4 vardecl ; proc body 0 
+block 1 procedure 4 vardecl ; proc body 0 
+0
+8
+statement 5 begin 6 call id ( _exp ) ; 0 
+statement 5 call 6 call id ( _exp ) ; 0 
+statement 5 end 6 call id ( _exp ) ; 0 
+statement 5 id 6 call id ( _exp ) ; 0 
+statement 5 if 6 call id ( _exp ) ; 0 
+statement 5 read 6 call id ( _exp ) ; 0 
+statement 5 while 6 call id ( _exp ) ; 0 
+statement 5 write 6 call id ( _exp ) ; 0 
+0
+5
+factor 3 * 3 ( exp ) 0 
+factor 3 + 3 ( exp ) 0 
+factor 3 - 3 ( exp ) 0 
+factor 3 / 3 ( exp ) 0 
+factor 3 ; 3 ( exp ) 0 
+0
+1
+exp 3 ; 3 + term _aop 0 
+0
+1
+exp 3 ; 3 - term _aop 0 
+0
+6
+_factor 2 + 2 mop factor 0 
+_factor 2 - 2 mop factor 0 
+_factor 2 ; 2 mop factor 0 
+_factor 2 + 3 mop factor _factor 0 
+_factor 2 - 3 mop factor _factor 0 
+_factor 2 ; 3 mop factor _factor 0 
+12
+_factor 0 + 2 mop factor 0 
+_factor 0 - 2 mop factor 0 
+_factor 0 ; 2 mop factor 0 
+_factor 0 + 3 mop factor _factor 0 
+_factor 0 - 3 mop factor _factor 0 
+_factor 0 ; 3 mop factor _factor 0 
+mop 0 ( 1 * 0 
+mop 0 id 1 * 0 
+mop 0 integer 1 * 0 
+mop 0 ( 1 / 0 
+mop 0 id 1 / 0 
+mop 0 integer 1 / 0 
+2
+_aop 2 ; 2 aop term 0 
+_aop 2 ; 3 aop term _aop 0 
+8
+_aop 0 ; 2 aop term 0 
+_aop 0 ; 3 aop term _aop 0 
+aop 0 ( 1 + 0 
+aop 0 id 1 + 0 
+aop 0 integer 1 + 0 
+aop 0 ( 1 - 0 
+aop 0 id 1 - 0 
+aop 0 integer 1 - 0 
+5
+factor 3 ) 3 ( exp ) 0 
+factor 3 * 3 ( exp ) 0 
+factor 3 + 3 ( exp ) 0 
+factor 3 - 3 ( exp ) 0 
+factor 3 / 3 ( exp ) 0 
+0
+1
+exp 3 ) 3 + term _aop 0 
+0
+1
+exp 3 ) 3 - term _aop 0 
+0
+6
+_factor 2 ) 2 mop factor 0 
+_factor 2 + 2 mop factor 0 
+_factor 2 - 2 mop factor 0 
+_factor 2 ) 3 mop factor _factor 0 
+_factor 2 + 3 mop factor _factor 0 
+_factor 2 - 3 mop factor _factor 0 
+12
+_factor 0 ) 2 mop factor 0 
+_factor 0 + 2 mop factor 0 
+_factor 0 - 2 mop factor 0 
+_factor 0 ) 3 mop factor _factor 0 
+_factor 0 + 3 mop factor _factor 0 
+_factor 0 - 3 mop factor _factor 0 
+mop 0 ( 1 * 0 
+mop 0 id 1 * 0 
+mop 0 integer 1 * 0 
+mop 0 ( 1 / 0 
+mop 0 id 1 / 0 
+mop 0 integer 1 / 0 
+2
+_aop 2 ) 2 aop term 0 
+_aop 2 ) 3 aop term _aop 0 
+8
+_aop 0 ) 2 aop term 0 
+_aop 0 ) 3 aop term _aop 0 
+aop 0 ( 1 + 0 
+aop 0 id 1 + 0 
+aop 0 integer 1 + 0 
+aop 0 ( 1 - 0 
+aop 0 id 1 - 0 
+aop 0 integer 1 - 0 
+9
+_factor 3 + 3 mop factor _factor 0 
+_factor 3 - 3 mop factor _factor 0 
+_factor 3 < 3 mop factor _factor 0 
+_factor 3 <= 3 mop factor _factor 0 
+_factor 3 <> 3 mop factor _factor 0 
+_factor 3 = 3 mop factor _factor 0 
+_factor 3 > 3 mop factor _factor 0 
+_factor 3 >= 3 mop factor _factor 0 
+_factor 3 then 3 mop factor _factor 0 
+0
+9
+body 2 begin 3 begin _statement end 0 
+body 2 call 3 begin _statement end 0 
+body 2 else 3 begin _statement end 0 
+body 2 end 3 begin _statement end 0 
+body 2 id 3 begin _statement end 0 
+body 2 if 3 begin _statement end 0 
+body 2 read 3 begin _statement end 0 
+body 2 while 3 begin _statement end 0 
+body 2 write 3 begin _statement end 0 
+0
+9
+body 2 begin 2 begin end 0 
+body 2 call 2 begin end 0 
+body 2 else 2 begin end 0 
+body 2 end 2 begin end 0 
+body 2 id 2 begin end 0 
+body 2 if 2 begin end 0 
+body 2 read 2 begin end 0 
+body 2 while 2 begin end 0 
+body 2 write 2 begin end 0 
+0
+18
+statement 2 begin 6 call id ( _exp ) ; 0 
+statement 2 call 6 call id ( _exp ) ; 0 
+statement 2 else 6 call id ( _exp ) ; 0 
+statement 2 end 6 call id ( _exp ) ; 0 
+statement 2 id 6 call id ( _exp ) ; 0 
+statement 2 if 6 call id ( _exp ) ; 0 
+statement 2 read 6 call id ( _exp ) ; 0 
+statement 2 while 6 call id ( _exp ) ; 0 
+statement 2 write 6 call id ( _exp ) ; 0 
+statement 2 begin 3 call id ; 0 
+statement 2 call 3 call id ; 0 
+statement 2 else 3 call id ; 0 
+statement 2 end 3 call id ; 0 
+statement 2 id 3 call id ; 0 
+statement 2 if 3 call id ; 0 
+statement 2 read 3 call id ; 0 
+statement 2 while 3 call id ; 0 
+statement 2 write 3 call id ; 0 
+0
+9
+statement 2 begin 4 id := exp ; 0 
+statement 2 call 4 id := exp ; 0 
+statement 2 else 4 id := exp ; 0 
+statement 2 end 4 id := exp ; 0 
+statement 2 id 4 id := exp ; 0 
+statement 2 if 4 id := exp ; 0 
+statement 2 read 4 id := exp ; 0 
+statement 2 while 4 id := exp ; 0 
+statement 2 write 4 id := exp ; 0 
+27
+exp 0 ; 2 + term 0 
+exp 0 ; 3 + term _aop 0 
+exp 0 ; 2 - term 0 
+exp 0 ; 3 - term _aop 0 
+exp 0 ; 1 term 0 
+exp 0 ; 2 term _aop 0 
+factor 0 * 3 ( exp ) 0 
+factor 0 + 3 ( exp ) 0 
+factor 0 - 3 ( exp ) 0 
+factor 0 / 3 ( exp ) 0 
+factor 0 ; 3 ( exp ) 0 
+factor 0 * 1 id 0 
+factor 0 + 1 id 0 
+factor 0 - 1 id 0 
+factor 0 / 1 id 0 
+factor 0 ; 1 id 0 
+factor 0 * 1 integer 0 
+factor 0 + 1 integer 0 
+factor 0 - 1 integer 0 
+factor 0 / 1 integer 0 
+factor 0 ; 1 integer 0 
+term 0 + 1 factor 0 
+term 0 - 1 factor 0 
+term 0 ; 1 factor 0 
+term 0 + 2 factor _factor 0 
+term 0 - 2 factor _factor 0 
+term 0 ; 2 factor _factor 0 
+18
+statement 2 begin 4 if lexp then statement 0 
+statement 2 call 4 if lexp then statement 0 
+statement 2 else 4 if lexp then statement 0 
+statement 2 end 4 if lexp then statement 0 
+statement 2 id 4 if lexp then statement 0 
+statement 2 if 4 if lexp then statement 0 
+statement 2 read 4 if lexp then statement 0 
+statement 2 while 4 if lexp then statement 0 
+statement 2 write 4 if lexp then statement 0 
+statement 2 begin 6 if lexp then statement else statement 0 
+statement 2 call 6 if lexp then statement else statement 0 
+statement 2 else 6 if lexp then statement else statement 0 
+statement 2 end 6 if lexp then statement else statement 0 
+statement 2 id 6 if lexp then statement else statement 0 
+statement 2 if 6 if lexp then statement else statement 0 
+statement 2 read 6 if lexp then statement else statement 0 
+statement 2 while 6 if lexp then statement else statement 0 
+statement 2 write 6 if lexp then statement else statement 0 
+0
+9
+statement 2 begin 5 read ( _id ) ; 0 
+statement 2 call 5 read ( _id ) ; 0 
+statement 2 else 5 read ( _id ) ; 0 
+statement 2 end 5 read ( _id ) ; 0 
+statement 2 id 5 read ( _id ) ; 0 
+statement 2 if 5 read ( _id ) ; 0 
+statement 2 read 5 read ( _id ) ; 0 
+statement 2 while 5 read ( _id ) ; 0 
+statement 2 write 5 read ( _id ) ; 0 
+2
+_id 0 ) 1 id 0 
+_id 0 ) 3 id , _id 0 
+8
+statement 5 begin 6 if lexp then statement else statement 0 
+statement 5 call 6 if lexp then statement else statement 0 
+statement 5 end 6 if lexp then statement else statement 0 
+statement 5 id 6 if lexp then statement else statement 0 
+statement 5 if 6 if lexp then statement else statement 0 
+statement 5 read 6 if lexp then statement else statement 0 
+statement 5 while 6 if lexp then statement else statement 0 
+statement 5 write 6 if lexp then statement else statement 0 
+88
+body 0 begin 3 begin _statement end 0 
+body 0 call 3 begin _statement end 0 
+body 0 end 3 begin _statement end 0 
+body 0 id 3 begin _statement end 0 
+body 0 if 3 begin _statement end 0 
+body 0 read 3 begin _statement end 0 
+body 0 while 3 begin _statement end 0 
+body 0 write 3 begin _statement end 0 
+body 0 begin 2 begin end 0 
+body 0 call 2 begin end 0 
+body 0 end 2 begin end 0 
+body 0 id 2 begin end 0 
+body 0 if 2 begin end 0 
+body 0 read 2 begin end 0 
+body 0 while 2 begin end 0 
+body 0 write 2 begin end 0 
+statement 0 begin 1 body 0 
+statement 0 call 1 body 0 
+statement 0 end 1 body 0 
+statement 0 id 1 body 0 
+statement 0 if 1 body 0 
+statement 0 read 1 body 0 
+statement 0 while 1 body 0 
+statement 0 write 1 body 0 
+statement 0 begin 6 call id ( _exp ) ; 0 
+statement 0 call 6 call id ( _exp ) ; 0 
+statement 0 end 6 call id ( _exp ) ; 0 
+statement 0 id 6 call id ( _exp ) ; 0 
+statement 0 if 6 call id ( _exp ) ; 0 
+statement 0 read 6 call id ( _exp ) ; 0 
+statement 0 while 6 call id ( _exp ) ; 0 
+statement 0 write 6 call id ( _exp ) ; 0 
+statement 0 begin 3 call id ; 0 
+statement 0 call 3 call id ; 0 
+statement 0 end 3 call id ; 0 
+statement 0 id 3 call id ; 0 
+statement 0 if 3 call id ; 0 
+statement 0 read 3 call id ; 0 
+statement 0 while 3 call id ; 0 
+statement 0 write 3 call id ; 0 
+statement 0 begin 4 id := exp ; 0 
+statement 0 call 4 id := exp ; 0 
+statement 0 end 4 id := exp ; 0 
+statement 0 id 4 id := exp ; 0 
+statement 0 if 4 id := exp ; 0 
+statement 0 read 4 id := exp ; 0 
+statement 0 while 4 id := exp ; 0 
+statement 0 write 4 id := exp ; 0 
+statement 0 begin 4 if lexp then statement 0 
+statement 0 call 4 if lexp then statement 0 
+statement 0 end 4 if lexp then statement 0 
+statement 0 id 4 if lexp then statement 0 
+statement 0 if 4 if lexp then statement 0 
+statement 0 read 4 if lexp then statement 0 
+statement 0 while 4 if lexp then statement 0 
+statement 0 write 4 if lexp then statement 0 
+statement 0 begin 6 if lexp then statement else statement 0 
+statement 0 call 6 if lexp then statement else statement 0 
+statement 0 end 6 if lexp then statement else statement 0 
+statement 0 id 6 if lexp then statement else statement 0 
+statement 0 if 6 if lexp then statement else statement 0 
+statement 0 read 6 if lexp then statement else statement 0 
+statement 0 while 6 if lexp then statement else statement 0 
+statement 0 write 6 if lexp then statement else statement 0 
+statement 0 begin 5 read ( _id ) ; 0 
+statement 0 call 5 read ( _id ) ; 0 
+statement 0 end 5 read ( _id ) ; 0 
+statement 0 id 5 read ( _id ) ; 0 
+statement 0 if 5 read ( _id ) ; 0 
+statement 0 read 5 read ( _id ) ; 0 
+statement 0 while 5 read ( _id ) ; 0 
+statement 0 write 5 read ( _id ) ; 0 
+statement 0 begin 4 while lexp do statement 0 
+statement 0 call 4 while lexp do statement 0 
+statement 0 end 4 while lexp do statement 0 
+statement 0 id 4 while lexp do statement 0 
+statement 0 if 4 while lexp do statement 0 
+statement 0 read 4 while lexp do statement 0 
+statement 0 while 4 while lexp do statement 0 
+statement 0 write 4 while lexp do statement 0 
+statement 0 begin 5 write ( _exp ) ; 0 
+statement 0 call 5 write ( _exp ) ; 0 
+statement 0 end 5 write ( _exp ) ; 0 
+statement 0 id 5 write ( _exp ) ; 0 
+statement 0 if 5 write ( _exp ) ; 0 
+statement 0 read 5 write ( _exp ) ; 0 
+statement 0 while 5 write ( _exp ) ; 0 
+statement 0 write 5 write ( _exp ) ; 0 
+9
+statement 2 begin 4 while lexp do statement 0 
+statement 2 call 4 while lexp do statement 0 
+statement 2 else 4 while lexp do statement 0 
+statement 2 end 4 while lexp do statement 0 
+statement 2 id 4 while lexp do statement 0 
+statement 2 if 4 while lexp do statement 0 
+statement 2 read 4 while lexp do statement 0 
+statement 2 while 4 while lexp do statement 0 
+statement 2 write 4 while lexp do statement 0 
+0
+9
+statement 2 begin 5 write ( _exp ) ; 0 
+statement 2 call 5 write ( _exp ) ; 0 
+statement 2 else 5 write ( _exp ) ; 0 
+statement 2 end 5 write ( _exp ) ; 0 
+statement 2 id 5 write ( _exp ) ; 0 
+statement 2 if 5 write ( _exp ) ; 0 
+statement 2 read 5 write ( _exp ) ; 0 
+statement 2 while 5 write ( _exp ) ; 0 
+statement 2 write 5 write ( _exp ) ; 0 
+40
+_exp 0 ) 1 exp 0 
+_exp 0 ) 3 exp , _exp 0 
+exp 0 ) 2 + term 0 
+exp 0 , 2 + term 0 
+exp 0 ) 3 + term _aop 0 
+exp 0 , 3 + term _aop 0 
+exp 0 ) 2 - term 0 
+exp 0 , 2 - term 0 
+exp 0 ) 3 - term _aop 0 
+exp 0 , 3 - term _aop 0 
+exp 0 ) 1 term 0 
+exp 0 , 1 term 0 
+exp 0 ) 2 term _aop 0 
+exp 0 , 2 term _aop 0 
+factor 0 ) 3 ( exp ) 0 
+factor 0 * 3 ( exp ) 0 
+factor 0 + 3 ( exp ) 0 
+factor 0 , 3 ( exp ) 0 
+factor 0 - 3 ( exp ) 0 
+factor 0 / 3 ( exp ) 0 
+factor 0 ) 1 id 0 
+factor 0 * 1 id 0 
+factor 0 + 1 id 0 
+factor 0 , 1 id 0 
+factor 0 - 1 id 0 
+factor 0 / 1 id 0 
+factor 0 ) 1 integer 0 
+factor 0 * 1 integer 0 
+factor 0 + 1 integer 0 
+factor 0 , 1 integer 0 
+factor 0 - 1 integer 0 
+factor 0 / 1 integer 0 
+term 0 ) 1 factor 0 
+term 0 + 1 factor 0 
+term 0 , 1 factor 0 
+term 0 - 1 factor 0 
+term 0 ) 2 factor _factor 0 
+term 0 + 2 factor _factor 0 
+term 0 , 2 factor _factor 0 
+term 0 - 2 factor _factor 0 
+5
+factor 3 * 3 ( exp ) 0 
+factor 3 + 3 ( exp ) 0 
+factor 3 - 3 ( exp ) 0 
+factor 3 / 3 ( exp ) 0 
+factor 3 then 3 ( exp ) 0 
+0
+1
+exp 3 then 3 + term _aop 0 
+0
+1
+exp 3 then 3 - term _aop 0 
+0
+6
+_factor 2 + 2 mop factor 0 
+_factor 2 - 2 mop factor 0 
+_factor 2 then 2 mop factor 0 
+_factor 2 + 3 mop factor _factor 0 
+_factor 2 - 3 mop factor _factor 0 
+_factor 2 then 3 mop factor _factor 0 
+12
+_factor 0 + 2 mop factor 0 
+_factor 0 - 2 mop factor 0 
+_factor 0 then 2 mop factor 0 
+_factor 0 + 3 mop factor _factor 0 
+_factor 0 - 3 mop factor _factor 0 
+_factor 0 then 3 mop factor _factor 0 
+mop 0 ( 1 * 0 
+mop 0 id 1 * 0 
+mop 0 integer 1 * 0 
+mop 0 ( 1 / 0 
+mop 0 id 1 / 0 
+mop 0 integer 1 / 0 
+2
+_aop 2 then 2 aop term 0 
+_aop 2 then 3 aop term _aop 0 
+8
+_aop 0 then 2 aop term 0 
+_aop 0 then 3 aop term _aop 0 
+aop 0 ( 1 + 0 
+aop 0 id 1 + 0 
+aop 0 integer 1 + 0 
+aop 0 ( 1 - 0 
+aop 0 id 1 - 0 
+aop 0 integer 1 - 0 
+7
+_aop 3 < 3 aop term _aop 0 
+_aop 3 <= 3 aop term _aop 0 
+_aop 3 <> 3 aop term _aop 0 
+_aop 3 = 3 aop term _aop 0 
+_aop 3 > 3 aop term _aop 0 
+_aop 3 >= 3 aop term _aop 0 
+_aop 3 then 3 aop term _aop 0 
+0
+8
+statement 5 begin 5 read ( _id ) ; 0 
+statement 5 call 5 read ( _id ) ; 0 
+statement 5 end 5 read ( _id ) ; 0 
+statement 5 id 5 read ( _id ) ; 0 
+statement 5 if 5 read ( _id ) ; 0 
+statement 5 read 5 read ( _id ) ; 0 
+statement 5 while 5 read ( _id ) ; 0 
+statement 5 write 5 read ( _id ) ; 0 
+0
+1
+_id 3 ) 3 id , _id 0 
+0
+9
+_factor 3 + 3 mop factor _factor 0 
+_factor 3 - 3 mop factor _factor 0 
+_factor 3 < 3 mop factor _factor 0 
+_factor 3 <= 3 mop factor _factor 0 
+_factor 3 <> 3 mop factor _factor 0 
+_factor 3 = 3 mop factor _factor 0 
+_factor 3 > 3 mop factor _factor 0 
+_factor 3 >= 3 mop factor _factor 0 
+_factor 3 do 3 mop factor _factor 0 
+0
+5
+factor 3 * 3 ( exp ) 0 
+factor 3 + 3 ( exp ) 0 
+factor 3 - 3 ( exp ) 0 
+factor 3 / 3 ( exp ) 0 
+factor 3 do 3 ( exp ) 0 
+0
+1
+exp 3 do 3 + term _aop 0 
+0
+1
+exp 3 do 3 - term _aop 0 
+0
+6
+_factor 2 + 2 mop factor 0 
+_factor 2 - 2 mop factor 0 
+_factor 2 do 2 mop factor 0 
+_factor 2 + 3 mop factor _factor 0 
+_factor 2 - 3 mop factor _factor 0 
+_factor 2 do 3 mop factor _factor 0 
+12
+_factor 0 + 2 mop factor 0 
+_factor 0 - 2 mop factor 0 
+_factor 0 do 2 mop factor 0 
+_factor 0 + 3 mop factor _factor 0 
+_factor 0 - 3 mop factor _factor 0 
+_factor 0 do 3 mop factor _factor 0 
+mop 0 ( 1 * 0 
+mop 0 id 1 * 0 
+mop 0 integer 1 * 0 
+mop 0 ( 1 / 0 
+mop 0 id 1 / 0 
+mop 0 integer 1 / 0 
+2
+_aop 2 do 2 aop term 0 
+_aop 2 do 3 aop term _aop 0 
+8
+_aop 0 do 2 aop term 0 
+_aop 0 do 3 aop term _aop 0 
+aop 0 ( 1 + 0 
+aop 0 id 1 + 0 
+aop 0 integer 1 + 0 
+aop 0 ( 1 - 0 
+aop 0 id 1 - 0 
+aop 0 integer 1 - 0 
+7
+_aop 3 < 3 aop term _aop 0 
+_aop 3 <= 3 aop term _aop 0 
+_aop 3 <> 3 aop term _aop 0 
+_aop 3 = 3 aop term _aop 0 
+_aop 3 > 3 aop term _aop 0 
+_aop 3 >= 3 aop term _aop 0 
+_aop 3 do 3 aop term _aop 0 
+0
+6
+factor 3 ) 3 ( exp ) 0 
+factor 3 * 3 ( exp ) 0 
+factor 3 + 3 ( exp ) 0 
+factor 3 , 3 ( exp ) 0 
+factor 3 - 3 ( exp ) 0 
+factor 3 / 3 ( exp ) 0 
+0
+2
+exp 3 ) 3 + term _aop 0 
+exp 3 , 3 + term _aop 0 
+0
+2
+exp 3 ) 3 - term _aop 0 
+exp 3 , 3 - term _aop 0 
+0
+8
+statement 5 begin 5 write ( _exp ) ; 0 
+statement 5 call 5 write ( _exp ) ; 0 
+statement 5 end 5 write ( _exp ) ; 0 
+statement 5 id 5 write ( _exp ) ; 0 
+statement 5 if 5 write ( _exp ) ; 0 
+statement 5 read 5 write ( _exp ) ; 0 
+statement 5 while 5 write ( _exp ) ; 0 
+statement 5 write 5 write ( _exp ) ; 0 
+0
+1
+_exp 3 ) 3 exp , _exp 0 
+0
+8
+_factor 2 ) 2 mop factor 0 
+_factor 2 + 2 mop factor 0 
+_factor 2 , 2 mop factor 0 
+_factor 2 - 2 mop factor 0 
+_factor 2 ) 3 mop factor _factor 0 
+_factor 2 + 3 mop factor _factor 0 
+_factor 2 , 3 mop factor _factor 0 
+_factor 2 - 3 mop factor _factor 0 
+14
+_factor 0 ) 2 mop factor 0 
+_factor 0 + 2 mop factor 0 
+_factor 0 , 2 mop factor 0 
+_factor 0 - 2 mop factor 0 
+_factor 0 ) 3 mop factor _factor 0 
+_factor 0 + 3 mop factor _factor 0 
+_factor 0 , 3 mop factor _factor 0 
+_factor 0 - 3 mop factor _factor 0 
+mop 0 ( 1 * 0 
+mop 0 id 1 * 0 
+mop 0 integer 1 * 0 
+mop 0 ( 1 / 0 
+mop 0 id 1 / 0 
+mop 0 integer 1 / 0 
+4
+_aop 2 ) 2 aop term 0 
+_aop 2 , 2 aop term 0 
+_aop 2 ) 3 aop term _aop 0 
+_aop 2 , 3 aop term _aop 0 
+10
+_aop 0 ) 2 aop term 0 
+_aop 0 , 2 aop term 0 
+_aop 0 ) 3 aop term _aop 0 
+_aop 0 , 3 aop term _aop 0 
+aop 0 ( 1 + 0 
+aop 0 id 1 + 0 
+aop 0 integer 1 + 0 
+aop 0 ( 1 - 0 
+aop 0 id 1 - 0 
+aop 0 integer 1 - 0 
+1
+block 6 end 6 condecl ; vardecl ; proc body 0 
+0
+2
+body 2 begin 3 begin _statement end 0 
+body 2 procedure 3 begin _statement end 0 
+0
+2
+body 2 begin 2 begin end 0 
+body 2 procedure 2 begin end 0 
+0
+1
+proc 6 begin 6 procedure id arg ; block _proc 0 
+0
+2
+_proc 1 begin 1 proc 0 
+_proc 1 begin 2 proc _proc 0 
+6
+_proc 0 begin 1 proc 0 
+_proc 0 begin 2 proc _proc 0 
+proc 0 begin 5 procedure id arg ; block 0 
+proc 0 procedure 5 procedure id arg ; block 0 
+proc 0 begin 6 procedure id arg ; block _proc 0 
+proc 0 procedure 6 procedure id arg ; block _proc 0 
+4
+proc 1 begin 5 procedure id arg ; block 0 
+proc 1 procedure 5 procedure id arg ; block 0 
+proc 1 begin 6 procedure id arg ; block _proc 0 
+proc 1 procedure 6 procedure id arg ; block _proc 0 
+0
+8
+block 2 begin 3 condecl ; body 0 
+block 2 procedure 3 condecl ; body 0 
+block 2 begin 4 condecl ; proc body 0 
+block 2 procedure 4 condecl ; proc body 0 
+block 2 begin 5 condecl ; vardecl ; body 0 
+block 2 procedure 5 condecl ; vardecl ; body 0 
+block 2 begin 6 condecl ; vardecl ; proc body 0 
+block 2 procedure 6 condecl ; vardecl ; proc body 0 
+7
+body 0 begin 3 begin _statement end 0 
+body 0 procedure 3 begin _statement end 0 
+body 0 begin 2 begin end 0 
+body 0 procedure 2 begin end 0 
+proc 0 begin 5 procedure id arg ; block 0 
+proc 0 begin 6 procedure id arg ; block _proc 0 
+vardecl 0 ; 2 var _id 0 
+2
+block 2 begin 2 proc body 0 
+block 2 procedure 2 proc body 0 
+0
+4
+block 2 begin 3 vardecl ; body 0 
+block 2 procedure 3 vardecl ; body 0 
+block 2 begin 4 vardecl ; proc body 0 
+block 2 procedure 4 vardecl ; proc body 0 
+6
+body 0 begin 3 begin _statement end 0 
+body 0 procedure 3 begin _statement end 0 
+body 0 begin 2 begin end 0 
+body 0 procedure 2 begin end 0 
+proc 0 begin 5 procedure id arg ; block 0 
+proc 0 begin 6 procedure id arg ; block _proc 0 
+8
+statement 6 begin 6 call id ( _exp ) ; 0 
+statement 6 call 6 call id ( _exp ) ; 0 
+statement 6 end 6 call id ( _exp ) ; 0 
+statement 6 id 6 call id ( _exp ) ; 0 
+statement 6 if 6 call id ( _exp ) ; 0 
+statement 6 read 6 call id ( _exp ) ; 0 
+statement 6 while 6 call id ( _exp ) ; 0 
+statement 6 write 6 call id ( _exp ) ; 0 
+0
+3
+_factor 3 + 3 mop factor _factor 0 
+_factor 3 - 3 mop factor _factor 0 
+_factor 3 ; 3 mop factor _factor 0 
+0
+1
+_aop 3 ; 3 aop term _aop 0 
+0
+3
+_factor 3 ) 3 mop factor _factor 0 
+_factor 3 + 3 mop factor _factor 0 
+_factor 3 - 3 mop factor _factor 0 
+0
+1
+_aop 3 ) 3 aop term _aop 0 
+0
+9
+body 3 begin 3 begin _statement end 0 
+body 3 call 3 begin _statement end 0 
+body 3 else 3 begin _statement end 0 
+body 3 end 3 begin _statement end 0 
+body 3 id 3 begin _statement end 0 
+body 3 if 3 begin _statement end 0 
+body 3 read 3 begin _statement end 0 
+body 3 while 3 begin _statement end 0 
+body 3 write 3 begin _statement end 0 
+0
+9
+statement 3 begin 6 call id ( _exp ) ; 0 
+statement 3 call 6 call id ( _exp ) ; 0 
+statement 3 else 6 call id ( _exp ) ; 0 
+statement 3 end 6 call id ( _exp ) ; 0 
+statement 3 id 6 call id ( _exp ) ; 0 
+statement 3 if 6 call id ( _exp ) ; 0 
+statement 3 read 6 call id ( _exp ) ; 0 
+statement 3 while 6 call id ( _exp ) ; 0 
+statement 3 write 6 call id ( _exp ) ; 0 
+40
+_exp 0 ) 1 exp 0 
+_exp 0 ) 3 exp , _exp 0 
+exp 0 ) 2 + term 0 
+exp 0 , 2 + term 0 
+exp 0 ) 3 + term _aop 0 
+exp 0 , 3 + term _aop 0 
+exp 0 ) 2 - term 0 
+exp 0 , 2 - term 0 
+exp 0 ) 3 - term _aop 0 
+exp 0 , 3 - term _aop 0 
+exp 0 ) 1 term 0 
+exp 0 , 1 term 0 
+exp 0 ) 2 term _aop 0 
+exp 0 , 2 term _aop 0 
+factor 0 ) 3 ( exp ) 0 
+factor 0 * 3 ( exp ) 0 
+factor 0 + 3 ( exp ) 0 
+factor 0 , 3 ( exp ) 0 
+factor 0 - 3 ( exp ) 0 
+factor 0 / 3 ( exp ) 0 
+factor 0 ) 1 id 0 
+factor 0 * 1 id 0 
+factor 0 + 1 id 0 
+factor 0 , 1 id 0 
+factor 0 - 1 id 0 
+factor 0 / 1 id 0 
+factor 0 ) 1 integer 0 
+factor 0 * 1 integer 0 
+factor 0 + 1 integer 0 
+factor 0 , 1 integer 0 
+factor 0 - 1 integer 0 
+factor 0 / 1 integer 0 
+term 0 ) 1 factor 0 
+term 0 + 1 factor 0 
+term 0 , 1 factor 0 
+term 0 - 1 factor 0 
+term 0 ) 2 factor _factor 0 
+term 0 + 2 factor _factor 0 
+term 0 , 2 factor _factor 0 
+term 0 - 2 factor _factor 0 
+9
+statement 3 begin 3 call id ; 0 
+statement 3 call 3 call id ; 0 
+statement 3 else 3 call id ; 0 
+statement 3 end 3 call id ; 0 
+statement 3 id 3 call id ; 0 
+statement 3 if 3 call id ; 0 
+statement 3 read 3 call id ; 0 
+statement 3 while 3 call id ; 0 
+statement 3 write 3 call id ; 0 
+0
+9
+statement 3 begin 4 id := exp ; 0 
+statement 3 call 4 id := exp ; 0 
+statement 3 else 4 id := exp ; 0 
+statement 3 end 4 id := exp ; 0 
+statement 3 id 4 id := exp ; 0 
+statement 3 if 4 id := exp ; 0 
+statement 3 read 4 id := exp ; 0 
+statement 3 while 4 id := exp ; 0 
+statement 3 write 4 id := exp ; 0 
+0
+18
+statement 3 begin 4 if lexp then statement 0 
+statement 3 call 4 if lexp then statement 0 
+statement 3 else 4 if lexp then statement 0 
+statement 3 end 4 if lexp then statement 0 
+statement 3 id 4 if lexp then statement 0 
+statement 3 if 4 if lexp then statement 0 
+statement 3 read 4 if lexp then statement 0 
+statement 3 while 4 if lexp then statement 0 
+statement 3 write 4 if lexp then statement 0 
+statement 3 begin 6 if lexp then statement else statement 0 
+statement 3 call 6 if lexp then statement else statement 0 
+statement 3 else 6 if lexp then statement else statement 0 
+statement 3 end 6 if lexp then statement else statement 0 
+statement 3 id 6 if lexp then statement else statement 0 
+statement 3 if 6 if lexp then statement else statement 0 
+statement 3 read 6 if lexp then statement else statement 0 
+statement 3 while 6 if lexp then statement else statement 0 
+statement 3 write 6 if lexp then statement else statement 0 
+99
+body 0 begin 3 begin _statement end 0 
+body 0 call 3 begin _statement end 0 
+body 0 else 3 begin _statement end 0 
+body 0 end 3 begin _statement end 0 
+body 0 id 3 begin _statement end 0 
+body 0 if 3 begin _statement end 0 
+body 0 read 3 begin _statement end 0 
+body 0 while 3 begin _statement end 0 
+body 0 write 3 begin _statement end 0 
+body 0 begin 2 begin end 0 
+body 0 call 2 begin end 0 
+body 0 else 2 begin end 0 
+body 0 end 2 begin end 0 
+body 0 id 2 begin end 0 
+body 0 if 2 begin end 0 
+body 0 read 2 begin end 0 
+body 0 while 2 begin end 0 
+body 0 write 2 begin end 0 
+statement 0 begin 1 body 0 
+statement 0 call 1 body 0 
+statement 0 else 1 body 0 
+statement 0 end 1 body 0 
+statement 0 id 1 body 0 
+statement 0 if 1 body 0 
+statement 0 read 1 body 0 
+statement 0 while 1 body 0 
+statement 0 write 1 body 0 
+statement 0 begin 6 call id ( _exp ) ; 0 
+statement 0 call 6 call id ( _exp ) ; 0 
+statement 0 else 6 call id ( _exp ) ; 0 
+statement 0 end 6 call id ( _exp ) ; 0 
+statement 0 id 6 call id ( _exp ) ; 0 
+statement 0 if 6 call id ( _exp ) ; 0 
+statement 0 read 6 call id ( _exp ) ; 0 
+statement 0 while 6 call id ( _exp ) ; 0 
+statement 0 write 6 call id ( _exp ) ; 0 
+statement 0 begin 3 call id ; 0 
+statement 0 call 3 call id ; 0 
+statement 0 else 3 call id ; 0 
+statement 0 end 3 call id ; 0 
+statement 0 id 3 call id ; 0 
+statement 0 if 3 call id ; 0 
+statement 0 read 3 call id ; 0 
+statement 0 while 3 call id ; 0 
+statement 0 write 3 call id ; 0 
+statement 0 begin 4 id := exp ; 0 
+statement 0 call 4 id := exp ; 0 
+statement 0 else 4 id := exp ; 0 
+statement 0 end 4 id := exp ; 0 
+statement 0 id 4 id := exp ; 0 
+statement 0 if 4 id := exp ; 0 
+statement 0 read 4 id := exp ; 0 
+statement 0 while 4 id := exp ; 0 
+statement 0 write 4 id := exp ; 0 
+statement 0 begin 4 if lexp then statement 0 
+statement 0 call 4 if lexp then statement 0 
+statement 0 else 4 if lexp then statement 0 
+statement 0 end 4 if lexp then statement 0 
+statement 0 id 4 if lexp then statement 0 
+statement 0 if 4 if lexp then statement 0 
+statement 0 read 4 if lexp then statement 0 
+statement 0 while 4 if lexp then statement 0 
+statement 0 write 4 if lexp then statement 0 
+statement 0 begin 6 if lexp then statement else statement 0 
+statement 0 call 6 if lexp then statement else statement 0 
+statement 0 else 6 if lexp then statement else statement 0 
+statement 0 end 6 if lexp then statement else statement 0 
+statement 0 id 6 if lexp then statement else statement 0 
+statement 0 if 6 if lexp then statement else statement 0 
+statement 0 read 6 if lexp then statement else statement 0 
+statement 0 while 6 if lexp then statement else statement 0 
+statement 0 write 6 if lexp then statement else statement 0 
+statement 0 begin 5 read ( _id ) ; 0 
+statement 0 call 5 read ( _id ) ; 0 
+statement 0 else 5 read ( _id ) ; 0 
+statement 0 end 5 read ( _id ) ; 0 
+statement 0 id 5 read ( _id ) ; 0 
+statement 0 if 5 read ( _id ) ; 0 
+statement 0 read 5 read ( _id ) ; 0 
+statement 0 while 5 read ( _id ) ; 0 
+statement 0 write 5 read ( _id ) ; 0 
+statement 0 begin 4 while lexp do statement 0 
+statement 0 call 4 while lexp do statement 0 
+statement 0 else 4 while lexp do statement 0 
+statement 0 end 4 while lexp do statement 0 
+statement 0 id 4 while lexp do statement 0 
+statement 0 if 4 while lexp do statement 0 
+statement 0 read 4 while lexp do statement 0 
+statement 0 while 4 while lexp do statement 0 
+statement 0 write 4 while lexp do statement 0 
+statement 0 begin 5 write ( _exp ) ; 0 
+statement 0 call 5 write ( _exp ) ; 0 
+statement 0 else 5 write ( _exp ) ; 0 
+statement 0 end 5 write ( _exp ) ; 0 
+statement 0 id 5 write ( _exp ) ; 0 
+statement 0 if 5 write ( _exp ) ; 0 
+statement 0 read 5 write ( _exp ) ; 0 
+statement 0 while 5 write ( _exp ) ; 0 
+statement 0 write 5 write ( _exp ) ; 0 
+9
+statement 3 begin 5 read ( _id ) ; 0 
+statement 3 call 5 read ( _id ) ; 0 
+statement 3 else 5 read ( _id ) ; 0 
+statement 3 end 5 read ( _id ) ; 0 
+statement 3 id 5 read ( _id ) ; 0 
+statement 3 if 5 read ( _id ) ; 0 
+statement 3 read 5 read ( _id ) ; 0 
+statement 3 while 5 read ( _id ) ; 0 
+statement 3 write 5 read ( _id ) ; 0 
+0
+8
+statement 6 begin 6 if lexp then statement else statement 0 
+statement 6 call 6 if lexp then statement else statement 0 
+statement 6 end 6 if lexp then statement else statement 0 
+statement 6 id 6 if lexp then statement else statement 0 
+statement 6 if 6 if lexp then statement else statement 0 
+statement 6 read 6 if lexp then statement else statement 0 
+statement 6 while 6 if lexp then statement else statement 0 
+statement 6 write 6 if lexp then statement else statement 0 
+0
+9
+statement 3 begin 4 while lexp do statement 0 
+statement 3 call 4 while lexp do statement 0 
+statement 3 else 4 while lexp do statement 0 
+statement 3 end 4 while lexp do statement 0 
+statement 3 id 4 while lexp do statement 0 
+statement 3 if 4 while lexp do statement 0 
+statement 3 read 4 while lexp do statement 0 
+statement 3 while 4 while lexp do statement 0 
+statement 3 write 4 while lexp do statement 0 
+99
+body 0 begin 3 begin _statement end 0 
+body 0 call 3 begin _statement end 0 
+body 0 else 3 begin _statement end 0 
+body 0 end 3 begin _statement end 0 
+body 0 id 3 begin _statement end 0 
+body 0 if 3 begin _statement end 0 
+body 0 read 3 begin _statement end 0 
+body 0 while 3 begin _statement end 0 
+body 0 write 3 begin _statement end 0 
+body 0 begin 2 begin end 0 
+body 0 call 2 begin end 0 
+body 0 else 2 begin end 0 
+body 0 end 2 begin end 0 
+body 0 id 2 begin end 0 
+body 0 if 2 begin end 0 
+body 0 read 2 begin end 0 
+body 0 while 2 begin end 0 
+body 0 write 2 begin end 0 
+statement 0 begin 1 body 0 
+statement 0 call 1 body 0 
+statement 0 else 1 body 0 
+statement 0 end 1 body 0 
+statement 0 id 1 body 0 
+statement 0 if 1 body 0 
+statement 0 read 1 body 0 
+statement 0 while 1 body 0 
+statement 0 write 1 body 0 
+statement 0 begin 6 call id ( _exp ) ; 0 
+statement 0 call 6 call id ( _exp ) ; 0 
+statement 0 else 6 call id ( _exp ) ; 0 
+statement 0 end 6 call id ( _exp ) ; 0 
+statement 0 id 6 call id ( _exp ) ; 0 
+statement 0 if 6 call id ( _exp ) ; 0 
+statement 0 read 6 call id ( _exp ) ; 0 
+statement 0 while 6 call id ( _exp ) ; 0 
+statement 0 write 6 call id ( _exp ) ; 0 
+statement 0 begin 3 call id ; 0 
+statement 0 call 3 call id ; 0 
+statement 0 else 3 call id ; 0 
+statement 0 end 3 call id ; 0 
+statement 0 id 3 call id ; 0 
+statement 0 if 3 call id ; 0 
+statement 0 read 3 call id ; 0 
+statement 0 while 3 call id ; 0 
+statement 0 write 3 call id ; 0 
+statement 0 begin 4 id := exp ; 0 
+statement 0 call 4 id := exp ; 0 
+statement 0 else 4 id := exp ; 0 
+statement 0 end 4 id := exp ; 0 
+statement 0 id 4 id := exp ; 0 
+statement 0 if 4 id := exp ; 0 
+statement 0 read 4 id := exp ; 0 
+statement 0 while 4 id := exp ; 0 
+statement 0 write 4 id := exp ; 0 
+statement 0 begin 4 if lexp then statement 0 
+statement 0 call 4 if lexp then statement 0 
+statement 0 else 4 if lexp then statement 0 
+statement 0 end 4 if lexp then statement 0 
+statement 0 id 4 if lexp then statement 0 
+statement 0 if 4 if lexp then statement 0 
+statement 0 read 4 if lexp then statement 0 
+statement 0 while 4 if lexp then statement 0 
+statement 0 write 4 if lexp then statement 0 
+statement 0 begin 6 if lexp then statement else statement 0 
+statement 0 call 6 if lexp then statement else statement 0 
+statement 0 else 6 if lexp then statement else statement 0 
+statement 0 end 6 if lexp then statement else statement 0 
+statement 0 id 6 if lexp then statement else statement 0 
+statement 0 if 6 if lexp then statement else statement 0 
+statement 0 read 6 if lexp then statement else statement 0 
+statement 0 while 6 if lexp then statement else statement 0 
+statement 0 write 6 if lexp then statement else statement 0 
+statement 0 begin 5 read ( _id ) ; 0 
+statement 0 call 5 read ( _id ) ; 0 
+statement 0 else 5 read ( _id ) ; 0 
+statement 0 end 5 read ( _id ) ; 0 
+statement 0 id 5 read ( _id ) ; 0 
+statement 0 if 5 read ( _id ) ; 0 
+statement 0 read 5 read ( _id ) ; 0 
+statement 0 while 5 read ( _id ) ; 0 
+statement 0 write 5 read ( _id ) ; 0 
+statement 0 begin 4 while lexp do statement 0 
+statement 0 call 4 while lexp do statement 0 
+statement 0 else 4 while lexp do statement 0 
+statement 0 end 4 while lexp do statement 0 
+statement 0 id 4 while lexp do statement 0 
+statement 0 if 4 while lexp do statement 0 
+statement 0 read 4 while lexp do statement 0 
+statement 0 while 4 while lexp do statement 0 
+statement 0 write 4 while lexp do statement 0 
+statement 0 begin 5 write ( _exp ) ; 0 
+statement 0 call 5 write ( _exp ) ; 0 
+statement 0 else 5 write ( _exp ) ; 0 
+statement 0 end 5 write ( _exp ) ; 0 
+statement 0 id 5 write ( _exp ) ; 0 
+statement 0 if 5 write ( _exp ) ; 0 
+statement 0 read 5 write ( _exp ) ; 0 
+statement 0 while 5 write ( _exp ) ; 0 
+statement 0 write 5 write ( _exp ) ; 0 
+9
+statement 3 begin 5 write ( _exp ) ; 0 
+statement 3 call 5 write ( _exp ) ; 0 
+statement 3 else 5 write ( _exp ) ; 0 
+statement 3 end 5 write ( _exp ) ; 0 
+statement 3 id 5 write ( _exp ) ; 0 
+statement 3 if 5 write ( _exp ) ; 0 
+statement 3 read 5 write ( _exp ) ; 0 
+statement 3 while 5 write ( _exp ) ; 0 
+statement 3 write 5 write ( _exp ) ; 0 
+0
+3
+_factor 3 + 3 mop factor _factor 0 
+_factor 3 - 3 mop factor _factor 0 
+_factor 3 then 3 mop factor _factor 0 
+0
+1
+_aop 3 then 3 aop term _aop 0 
+0
+3
+_factor 3 + 3 mop factor _factor 0 
+_factor 3 - 3 mop factor _factor 0 
+_factor 3 do 3 mop factor _factor 0 
+0
+1
+_aop 3 do 3 aop term _aop 0 
+0
+4
+_factor 3 ) 3 mop factor _factor 0 
+_factor 3 + 3 mop factor _factor 0 
+_factor 3 , 3 mop factor _factor 0 
+_factor 3 - 3 mop factor _factor 0 
+0
+2
+_aop 3 ) 3 aop term _aop 0 
+_aop 3 , 3 aop term _aop 0 
+0
+2
+body 3 begin 3 begin _statement end 0 
+body 3 procedure 3 begin _statement end 0 
+0
+1
+_proc 2 begin 2 proc _proc 0 
+0
+4
+proc 2 begin 5 procedure id arg ; block 0 
+proc 2 procedure 5 procedure id arg ; block 0 
+proc 2 begin 6 procedure id arg ; block _proc 0 
+proc 2 procedure 6 procedure id arg ; block _proc 0 
+2
+arg 0 ; 2 ( ) 0 
+arg 0 ; 3 ( _id ) 0 
+2
+block 3 begin 3 condecl ; body 0 
+block 3 procedure 3 condecl ; body 0 
+0
+2
+block 3 begin 4 condecl ; proc body 0 
+block 3 procedure 4 condecl ; proc body 0 
+4
+body 0 begin 3 begin _statement end 0 
+body 0 procedure 3 begin _statement end 0 
+body 0 begin 2 begin end 0 
+body 0 procedure 2 begin end 0 
+4
+block 3 begin 5 condecl ; vardecl ; body 0 
+block 3 procedure 5 condecl ; vardecl ; body 0 
+block 3 begin 6 condecl ; vardecl ; proc body 0 
+block 3 procedure 6 condecl ; vardecl ; proc body 0 
+0
+2
+block 3 begin 3 vardecl ; body 0 
+block 3 procedure 3 vardecl ; body 0 
+0
+2
+block 3 begin 4 vardecl ; proc body 0 
+block 3 procedure 4 vardecl ; proc body 0 
+4
+body 0 begin 3 begin _statement end 0 
+body 0 procedure 3 begin _statement end 0 
+body 0 begin 2 begin end 0 
+body 0 procedure 2 begin end 0 
+9
+statement 4 begin 6 call id ( _exp ) ; 0 
+statement 4 call 6 call id ( _exp ) ; 0 
+statement 4 else 6 call id ( _exp ) ; 0 
+statement 4 end 6 call id ( _exp ) ; 0 
+statement 4 id 6 call id ( _exp ) ; 0 
+statement 4 if 6 call id ( _exp ) ; 0 
+statement 4 read 6 call id ( _exp ) ; 0 
+statement 4 while 6 call id ( _exp ) ; 0 
+statement 4 write 6 call id ( _exp ) ; 0 
+0
+9
+statement 4 begin 4 id := exp ; 0 
+statement 4 call 4 id := exp ; 0 
+statement 4 else 4 id := exp ; 0 
+statement 4 end 4 id := exp ; 0 
+statement 4 id 4 id := exp ; 0 
+statement 4 if 4 id := exp ; 0 
+statement 4 read 4 id := exp ; 0 
+statement 4 while 4 id := exp ; 0 
+statement 4 write 4 id := exp ; 0 
+0
+18
+statement 4 begin 4 if lexp then statement 0 
+statement 4 call 4 if lexp then statement 0 
+statement 4 else 4 if lexp then statement 0 
+statement 4 end 4 if lexp then statement 0 
+statement 4 id 4 if lexp then statement 0 
+statement 4 if 4 if lexp then statement 0 
+statement 4 read 4 if lexp then statement 0 
+statement 4 while 4 if lexp then statement 0 
+statement 4 write 4 if lexp then statement 0 
+statement 4 begin 6 if lexp then statement else statement 0 
+statement 4 call 6 if lexp then statement else statement 0 
+statement 4 else 6 if lexp then statement else statement 0 
+statement 4 end 6 if lexp then statement else statement 0 
+statement 4 id 6 if lexp then statement else statement 0 
+statement 4 if 6 if lexp then statement else statement 0 
+statement 4 read 6 if lexp then statement else statement 0 
+statement 4 while 6 if lexp then statement else statement 0 
+statement 4 write 6 if lexp then statement else statement 0 
+0
+9
+statement 4 begin 5 read ( _id ) ; 0 
+statement 4 call 5 read ( _id ) ; 0 
+statement 4 else 5 read ( _id ) ; 0 
+statement 4 end 5 read ( _id ) ; 0 
+statement 4 id 5 read ( _id ) ; 0 
+statement 4 if 5 read ( _id ) ; 0 
+statement 4 read 5 read ( _id ) ; 0 
+statement 4 while 5 read ( _id ) ; 0 
+statement 4 write 5 read ( _id ) ; 0 
+0
+9
+statement 4 begin 4 while lexp do statement 0 
+statement 4 call 4 while lexp do statement 0 
+statement 4 else 4 while lexp do statement 0 
+statement 4 end 4 while lexp do statement 0 
+statement 4 id 4 while lexp do statement 0 
+statement 4 if 4 while lexp do statement 0 
+statement 4 read 4 while lexp do statement 0 
+statement 4 while 4 while lexp do statement 0 
+statement 4 write 4 while lexp do statement 0 
+0
+9
+statement 4 begin 5 write ( _exp ) ; 0 
+statement 4 call 5 write ( _exp ) ; 0 
+statement 4 else 5 write ( _exp ) ; 0 
+statement 4 end 5 write ( _exp ) ; 0 
+statement 4 id 5 write ( _exp ) ; 0 
+statement 4 if 5 write ( _exp ) ; 0 
+statement 4 read 5 write ( _exp ) ; 0 
+statement 4 while 5 write ( _exp ) ; 0 
+statement 4 write 5 write ( _exp ) ; 0 
+0
+4
+proc 3 begin 5 procedure id arg ; block 0 
+proc 3 procedure 5 procedure id arg ; block 0 
+proc 3 begin 6 procedure id arg ; block _proc 0 
+proc 3 procedure 6 procedure id arg ; block _proc 0 
+0
+2
+block 4 begin 4 condecl ; proc body 0 
+block 4 procedure 4 condecl ; proc body 0 
+0
+4
+block 4 begin 5 condecl ; vardecl ; body 0 
+block 4 procedure 5 condecl ; vardecl ; body 0 
+block 4 begin 6 condecl ; vardecl ; proc body 0 
+block 4 procedure 6 condecl ; vardecl ; proc body 0 
+6
+body 0 begin 3 begin _statement end 0 
+body 0 procedure 3 begin _statement end 0 
+body 0 begin 2 begin end 0 
+body 0 procedure 2 begin end 0 
+proc 0 begin 5 procedure id arg ; block 0 
+proc 0 begin 6 procedure id arg ; block _proc 0 
+2
+block 4 begin 4 vardecl ; proc body 0 
+block 4 procedure 4 vardecl ; proc body 0 
+0
+9
+statement 5 begin 6 call id ( _exp ) ; 0 
+statement 5 call 6 call id ( _exp ) ; 0 
+statement 5 else 6 call id ( _exp ) ; 0 
+statement 5 end 6 call id ( _exp ) ; 0 
+statement 5 id 6 call id ( _exp ) ; 0 
+statement 5 if 6 call id ( _exp ) ; 0 
+statement 5 read 6 call id ( _exp ) ; 0 
+statement 5 while 6 call id ( _exp ) ; 0 
+statement 5 write 6 call id ( _exp ) ; 0 
+0
+9
+statement 5 begin 6 if lexp then statement else statement 0 
+statement 5 call 6 if lexp then statement else statement 0 
+statement 5 else 6 if lexp then statement else statement 0 
+statement 5 end 6 if lexp then statement else statement 0 
+statement 5 id 6 if lexp then statement else statement 0 
+statement 5 if 6 if lexp then statement else statement 0 
+statement 5 read 6 if lexp then statement else statement 0 
+statement 5 while 6 if lexp then statement else statement 0 
+statement 5 write 6 if lexp then statement else statement 0 
+99
+body 0 begin 3 begin _statement end 0 
+body 0 call 3 begin _statement end 0 
+body 0 else 3 begin _statement end 0 
+body 0 end 3 begin _statement end 0 
+body 0 id 3 begin _statement end 0 
+body 0 if 3 begin _statement end 0 
+body 0 read 3 begin _statement end 0 
+body 0 while 3 begin _statement end 0 
+body 0 write 3 begin _statement end 0 
+body 0 begin 2 begin end 0 
+body 0 call 2 begin end 0 
+body 0 else 2 begin end 0 
+body 0 end 2 begin end 0 
+body 0 id 2 begin end 0 
+body 0 if 2 begin end 0 
+body 0 read 2 begin end 0 
+body 0 while 2 begin end 0 
+body 0 write 2 begin end 0 
+statement 0 begin 1 body 0 
+statement 0 call 1 body 0 
+statement 0 else 1 body 0 
+statement 0 end 1 body 0 
+statement 0 id 1 body 0 
+statement 0 if 1 body 0 
+statement 0 read 1 body 0 
+statement 0 while 1 body 0 
+statement 0 write 1 body 0 
+statement 0 begin 6 call id ( _exp ) ; 0 
+statement 0 call 6 call id ( _exp ) ; 0 
+statement 0 else 6 call id ( _exp ) ; 0 
+statement 0 end 6 call id ( _exp ) ; 0 
+statement 0 id 6 call id ( _exp ) ; 0 
+statement 0 if 6 call id ( _exp ) ; 0 
+statement 0 read 6 call id ( _exp ) ; 0 
+statement 0 while 6 call id ( _exp ) ; 0 
+statement 0 write 6 call id ( _exp ) ; 0 
+statement 0 begin 3 call id ; 0 
+statement 0 call 3 call id ; 0 
+statement 0 else 3 call id ; 0 
+statement 0 end 3 call id ; 0 
+statement 0 id 3 call id ; 0 
+statement 0 if 3 call id ; 0 
+statement 0 read 3 call id ; 0 
+statement 0 while 3 call id ; 0 
+statement 0 write 3 call id ; 0 
+statement 0 begin 4 id := exp ; 0 
+statement 0 call 4 id := exp ; 0 
+statement 0 else 4 id := exp ; 0 
+statement 0 end 4 id := exp ; 0 
+statement 0 id 4 id := exp ; 0 
+statement 0 if 4 id := exp ; 0 
+statement 0 read 4 id := exp ; 0 
+statement 0 while 4 id := exp ; 0 
+statement 0 write 4 id := exp ; 0 
+statement 0 begin 4 if lexp then statement 0 
+statement 0 call 4 if lexp then statement 0 
+statement 0 else 4 if lexp then statement 0 
+statement 0 end 4 if lexp then statement 0 
+statement 0 id 4 if lexp then statement 0 
+statement 0 if 4 if lexp then statement 0 
+statement 0 read 4 if lexp then statement 0 
+statement 0 while 4 if lexp then statement 0 
+statement 0 write 4 if lexp then statement 0 
+statement 0 begin 6 if lexp then statement else statement 0 
+statement 0 call 6 if lexp then statement else statement 0 
+statement 0 else 6 if lexp then statement else statement 0 
+statement 0 end 6 if lexp then statement else statement 0 
+statement 0 id 6 if lexp then statement else statement 0 
+statement 0 if 6 if lexp then statement else statement 0 
+statement 0 read 6 if lexp then statement else statement 0 
+statement 0 while 6 if lexp then statement else statement 0 
+statement 0 write 6 if lexp then statement else statement 0 
+statement 0 begin 5 read ( _id ) ; 0 
+statement 0 call 5 read ( _id ) ; 0 
+statement 0 else 5 read ( _id ) ; 0 
+statement 0 end 5 read ( _id ) ; 0 
+statement 0 id 5 read ( _id ) ; 0 
+statement 0 if 5 read ( _id ) ; 0 
+statement 0 read 5 read ( _id ) ; 0 
+statement 0 while 5 read ( _id ) ; 0 
+statement 0 write 5 read ( _id ) ; 0 
+statement 0 begin 4 while lexp do statement 0 
+statement 0 call 4 while lexp do statement 0 
+statement 0 else 4 while lexp do statement 0 
+statement 0 end 4 while lexp do statement 0 
+statement 0 id 4 while lexp do statement 0 
+statement 0 if 4 while lexp do statement 0 
+statement 0 read 4 while lexp do statement 0 
+statement 0 while 4 while lexp do statement 0 
+statement 0 write 4 while lexp do statement 0 
+statement 0 begin 5 write ( _exp ) ; 0 
+statement 0 call 5 write ( _exp ) ; 0 
+statement 0 else 5 write ( _exp ) ; 0 
+statement 0 end 5 write ( _exp ) ; 0 
+statement 0 id 5 write ( _exp ) ; 0 
+statement 0 if 5 write ( _exp ) ; 0 
+statement 0 read 5 write ( _exp ) ; 0 
+statement 0 while 5 write ( _exp ) ; 0 
+statement 0 write 5 write ( _exp ) ; 0 
+9
+statement 5 begin 5 read ( _id ) ; 0 
+statement 5 call 5 read ( _id ) ; 0 
+statement 5 else 5 read ( _id ) ; 0 
+statement 5 end 5 read ( _id ) ; 0 
+statement 5 id 5 read ( _id ) ; 0 
+statement 5 if 5 read ( _id ) ; 0 
+statement 5 read 5 read ( _id ) ; 0 
+statement 5 while 5 read ( _id ) ; 0 
+statement 5 write 5 read ( _id ) ; 0 
+0
+9
+statement 5 begin 5 write ( _exp ) ; 0 
+statement 5 call 5 write ( _exp ) ; 0 
+statement 5 else 5 write ( _exp ) ; 0 
+statement 5 end 5 write ( _exp ) ; 0 
+statement 5 id 5 write ( _exp ) ; 0 
+statement 5 if 5 write ( _exp ) ; 0 
+statement 5 read 5 write ( _exp ) ; 0 
+statement 5 while 5 write ( _exp ) ; 0 
+statement 5 write 5 write ( _exp ) ; 0 
+0
+4
+proc 4 begin 5 procedure id arg ; block 0 
+proc 4 procedure 5 procedure id arg ; block 0 
+proc 4 begin 6 procedure id arg ; block _proc 0 
+proc 4 procedure 6 procedure id arg ; block _proc 0 
+24
+block 0 begin 1 body 0 
+block 0 procedure 1 body 0 
+block 0 begin 3 condecl ; body 0 
+block 0 procedure 3 condecl ; body 0 
+block 0 begin 4 condecl ; proc body 0 
+block 0 procedure 4 condecl ; proc body 0 
+block 0 begin 5 condecl ; vardecl ; body 0 
+block 0 procedure 5 condecl ; vardecl ; body 0 
+block 0 begin 6 condecl ; vardecl ; proc body 0 
+block 0 procedure 6 condecl ; vardecl ; proc body 0 
+block 0 begin 2 proc body 0 
+block 0 procedure 2 proc body 0 
+block 0 begin 3 vardecl ; body 0 
+block 0 procedure 3 vardecl ; body 0 
+block 0 begin 4 vardecl ; proc body 0 
+block 0 procedure 4 vardecl ; proc body 0 
+body 0 begin 3 begin _statement end 0 
+body 0 procedure 3 begin _statement end 0 
+body 0 begin 2 begin end 0 
+body 0 procedure 2 begin end 0 
+condecl 0 ; 2 const _constv 0 
+proc 0 begin 5 procedure id arg ; block 0 
+proc 0 begin 6 procedure id arg ; block _proc 0 
+vardecl 0 ; 2 var _id 0 
+2
+block 5 begin 5 condecl ; vardecl ; body 0 
+block 5 procedure 5 condecl ; vardecl ; body 0 
+0
+2
+block 5 begin 6 condecl ; vardecl ; proc body 0 
+block 5 procedure 6 condecl ; vardecl ; proc body 0 
+4
+body 0 begin 3 begin _statement end 0 
+body 0 procedure 3 begin _statement end 0 
+body 0 begin 2 begin end 0 
+body 0 procedure 2 begin end 0 
+9
+statement 6 begin 6 call id ( _exp ) ; 0 
+statement 6 call 6 call id ( _exp ) ; 0 
+statement 6 else 6 call id ( _exp ) ; 0 
+statement 6 end 6 call id ( _exp ) ; 0 
+statement 6 id 6 call id ( _exp ) ; 0 
+statement 6 if 6 call id ( _exp ) ; 0 
+statement 6 read 6 call id ( _exp ) ; 0 
+statement 6 while 6 call id ( _exp ) ; 0 
+statement 6 write 6 call id ( _exp ) ; 0 
+0
+9
+statement 6 begin 6 if lexp then statement else statement 0 
+statement 6 call 6 if lexp then statement else statement 0 
+statement 6 else 6 if lexp then statement else statement 0 
+statement 6 end 6 if lexp then statement else statement 0 
+statement 6 id 6 if lexp then statement else statement 0 
+statement 6 if 6 if lexp then statement else statement 0 
+statement 6 read 6 if lexp then statement else statement 0 
+statement 6 while 6 if lexp then statement else statement 0 
+statement 6 write 6 if lexp then statement else statement 0 
+0
+4
+proc 5 begin 5 procedure id arg ; block 0 
+proc 5 procedure 5 procedure id arg ; block 0 
+proc 5 begin 6 procedure id arg ; block _proc 0 
+proc 5 procedure 6 procedure id arg ; block _proc 0 
+8
+_proc 0 begin 1 proc 0 
+_proc 0 procedure 1 proc 0 
+_proc 0 begin 2 proc _proc 0 
+_proc 0 procedure 2 proc _proc 0 
+proc 0 begin 5 procedure id arg ; block 0 
+proc 0 procedure 5 procedure id arg ; block 0 
+proc 0 begin 6 procedure id arg ; block _proc 0 
+proc 0 procedure 6 procedure id arg ; block _proc 0 
+2
+block 6 begin 6 condecl ; vardecl ; proc body 0 
+block 6 procedure 6 condecl ; vardecl ; proc body 0 
+0
+2
+proc 6 begin 6 procedure id arg ; block _proc 0 
+proc 6 procedure 6 procedure id arg ; block _proc 0 
+0
+4
+_proc 1 begin 1 proc 0 
+_proc 1 procedure 1 proc 0 
+_proc 1 begin 2 proc _proc 0 
+_proc 1 procedure 2 proc _proc 0 
+8
+_proc 0 begin 1 proc 0 
+_proc 0 procedure 1 proc 0 
+_proc 0 begin 2 proc _proc 0 
+_proc 0 procedure 2 proc _proc 0 
+proc 0 begin 5 procedure id arg ; block 0 
+proc 0 procedure 5 procedure id arg ; block 0 
+proc 0 begin 6 procedure id arg ; block _proc 0 
+proc 0 procedure 6 procedure id arg ; block _proc 0 
+2
+_proc 2 begin 2 proc _proc 0 
+_proc 2 procedure 2 proc _proc 0 
+0

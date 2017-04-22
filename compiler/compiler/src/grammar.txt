@@ -1,0 +1,26 @@
+program id ; const integer var , procedure := ( ) begin end if then while do call write <> <= >= = <  > + - * / odd read else
+_aop _constv _exp _factor _id _proc _statement aop arg block body condecl constv exp factor lexp lop mop proc prog statement term vardecl
+prog
+_aop->aop term|aop term _aop
+_constv->constv|constv , _constv
+_exp->exp|exp , _exp
+_factor->mop factor|mop factor _factor
+_id->id|id , _id
+_proc->proc|proc _proc
+_statement->statement|statement _statement
+aop->+|-
+arg->( )|( _id )
+block->condecl ; vardecl ; proc body|vardecl ; proc body|condecl ; proc body|condecl ; vardecl ; body|proc body|condecl ; body|vardecl ; body|body
+body->begin _statement end|begin end
+condecl->const _constv
+constv->id := integer
+exp->term|+ term|- term|term _aop|+ term _aop|- term _aop
+factor->id|integer|( exp )
+lexp->exp lop exp|odd exp|exp
+lop->=|<>|<|<=|>|>=
+mop->*|/
+proc->procedure id arg ; block|procedure id arg ; block _proc
+prog->program id ; block end
+statement->id := exp ;|if lexp then statement|if lexp then statement else statement|while lexp do statement|call id ;|call id ( _exp ) ;|body|read ( _id ) ;|write ( _exp ) ;
+term->factor|factor _factor
+vardecl->var _id

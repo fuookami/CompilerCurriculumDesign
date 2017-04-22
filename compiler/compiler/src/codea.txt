@@ -1,0 +1,21 @@
+program test1;
+	const maxNum := 100;
+	var sum, upper, i;
+	begin
+		sum:=0;
+		i:=0;
+		read(upper);
+		if upper <= maxNum then
+		begin
+			while i <= upper do
+			begin
+				sum:= sum + i;
+				i:= i + 1; 
+			end
+			write(sum);
+		end
+		else
+		begin
+		end
+	end
+end

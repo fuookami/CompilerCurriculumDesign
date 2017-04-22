@@ -1,0 +1,26 @@
+program p;
+	const z:=0;
+	var head,foot,cock,rabbit,n;
+	procedure q(x, y);
+		const k:=1;
+		var j;
+		begin
+			x := j;
+		end
+	begin
+		n := z;
+		cock := 1;
+		call q(n, cock);
+		while cock <= head do
+		begin
+			rabbit :=head-cock;
+			if cock*2+rabbit*4=foot then
+			begin
+				write(cock,rabbit);
+				n:=n+1;
+			end
+			cock:=cock+1;
+		end
+		if n=0 then write(0,0);
+	end
+end

@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;cxx;c;def</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h</Extensions>
+    </Filter>
+    <Filter Include="Form Files">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>moc;h;cpp</Extensions>
+      <SourceControlFiles>False</SourceControlFiles>
+    </Filter>
+    <Filter Include="Generated Files\Debug">
+      <UniqueIdentifier>{65f9bf17-595d-441d-8422-4ab6a69ea36d}</UniqueIdentifier>
+      <Extensions>cpp;moc</Extensions>
+      <SourceControlFiles>False</SourceControlFiles>
+    </Filter>
+    <Filter Include="Generated Files\Release">
+      <UniqueIdentifier>{64d9c679-f4a1-484b-a118-3416c94c228f}</UniqueIdentifier>
+      <Extensions>cpp;moc</Extensions>
+      <SourceControlFiles>False</SourceControlFiles>
+    </Filter>
+    <Filter Include="Header Files\Model">
+      <UniqueIdentifier>{ba03c1c7-25eb-48d9-ab32-32919a653423}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\View">
+      <UniqueIdentifier>{09098abf-8c6c-4d21-bf5e-34451e68172a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Model\GrammarAnalysis">
+      <UniqueIdentifier>{35918b1f-8a13-49ea-8633-1e743472dc2e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Model\LexicalAnalysis">
+      <UniqueIdentifier>{0b92f0f7-1177-4ffd-acd2-68620f402b5d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Model\Translator">
+      <UniqueIdentifier>{47312510-fbbc-483f-a1e8-84b744df9059}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Model">
+      <UniqueIdentifier>{f3b88f37-ba55-444e-a1db-049c043b4258}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\View">
+      <UniqueIdentifier>{fb7f76c3-2361-4d03-be20-eb92c11fa1b2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Model\GrammarAnalysis">
+      <UniqueIdentifier>{d2206694-d57c-41e1-907f-e0cb457ca5f7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Model\GrammarAnalysis\GrammarAnalysisBasic">
+      <UniqueIdentifier>{048d3f90-801c-4373-812b-597175881596}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Model\GrammarAnalysis\GrammarAAnalysisPublic">
+      <UniqueIdentifier>{7715e945-292c-4f3f-8059-5d574ed6d141}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Model\GrammarAnalysis\LR1">
+      <UniqueIdentifier>{050da539-9b3c-41bf-9281-f9fc369ebe43}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Model\LexicalAnalysis">
+      <UniqueIdentifier>{75fb2acf-cba8-4c92-aa36-66f088eeb6a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Model\Translator">
+      <UniqueIdentifier>{e5af17eb-dd8e-451f-a75d-176561f7548b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="basic.cpp">
+      <Filter>Source Files\Model</Filter>
+    </ClCompile>
+    <ClCompile Include="LR1Collection.cpp">
+      <Filter>Source Files\Model\GrammarAnalysis\LR1</Filter>
+    </ClCompile>
+    <ClCompile Include="LR1.cpp">
+      <Filter>Source Files\Model\GrammarAnalysis\LR1</Filter>
+    </ClCompile>
+    <ClCompile Include="FirstSet.cpp">
+      <Filter>Source Files\Model\GrammarAnalysis\GrammarAAnalysisPublic</Filter>
+    </ClCompile>
+    <ClCompile Include="FirstVtSet.cpp">
+      <Filter>Source Files\Model\GrammarAnalysis\GrammarAAnalysisPublic</Filter>
+    </ClCompile>
+    <ClCompile Include="FollowSet.cpp">
+      <Filter>Source Files\Model\GrammarAnalysis\GrammarAAnalysisPublic</Filter>
+    </ClCompile>
+    <ClCompile Include="LastSet.cpp">
+      <Filter>Source Files\Model\GrammarAnalysis\GrammarAAnalysisPublic</Filter>
+    </ClCompile>
+    <ClCompile Include="LastVtSet.cpp">
+      <Filter>Source Files\Model\GrammarAnalysis\GrammarAAnalysisPublic</Filter>
+    </ClCompile>
+    <ClCompile Include="LeftRecursive.cpp">
+      <Filter>Source Files\Model\GrammarAnalysis\GrammarAAnalysisPublic</Filter>
+    </ClCompile>
+    <ClCompile Include="public.cpp">
+      <Filter>Source Files\Model\GrammarAnalysis\GrammarAAnalysisPublic</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Grammar.cpp">
+      <Filter>Source Files\Model\GrammarAnalysis\GrammarAnalysisBasic</Filter>
+    </ClCompile>
+    <ClCompile Include="LexicalAnalysis.cpp">
+      <Filter>Source Files\Model\LexicalAnalysis</Filter>
+    </ClCompile>
+    <ClCompile Include="Translator.cpp">
+      <Filter>Source Files\Model\Translator</Filter>
+    </ClCompile>
+    <ClCompile Include="Terminal.cpp">
+      <Filter>Source Files\Model\GrammarAnalysis\GrammarAnalysisBasic</Filter>
+    </ClCompile>
+    <ClCompile Include="MainWid.cpp">
+      <Filter>Source Files\View</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_MainWid.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_MainWid.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Highlighter.cpp">
+      <Filter>Source Files\View</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="basic.h">
+      <Filter>Header Files\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Translator.h">
+      <Filter>Header Files\Model\Translator</Filter>
+    </ClInclude>
+    <ClInclude Include="Token.h">
+      <Filter>Header Files\Model\LexicalAnalysis</Filter>
+    </ClInclude>
+    <ClInclude Include="LexicalAnalysis.h">
+      <Filter>Header Files\Model\LexicalAnalysis</Filter>
+    </ClInclude>
+    <ClInclude Include="Grammar.h">
+      <Filter>Header Files\Model\GrammarAnalysis</Filter>
+    </ClInclude>
+    <ClInclude Include="LR1.h">
+      <Filter>Header Files\Model\GrammarAnalysis</Filter>
+    </ClInclude>
+    <ClInclude Include="public.h">
+      <Filter>Header Files\Model\GrammarAnalysis</Filter>
+    </ClInclude>
+    <ClInclude Include="Terminal.h">
+      <Filter>Header Files\Model\GrammarAnalysis</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneratedFiles\ui_MainWid.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Highlighter.h">
+      <Filter>Header Files\View</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="Resources\MainWid.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="MainWid.h">
+      <Filter>Header Files\View</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="src\code.pl0">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="code1.pl0">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="src\grammar.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="src\syntax.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
